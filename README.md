@@ -29,25 +29,29 @@ The evaluation in the thesis includes several subject systems:
 
 ## Repository Structure
 
+```
 coreografa-framework
 │
 ├── requirements.txt
 ├── README.md
 └── src
-  └── evaluation
-    └── across_func
-      ├── coreografa_lib # Core framework implementation
-      ├── eval_subjects # Subject systems and grammars
-      └── eval_results # Generated outputs 
+    └── evaluation
+        └── across_func
+            ├── coreografa_lib     # Core framework implementation
+            ├── eval_subjects      # Subject systems and grammars
+            └── eval_results       # Generated outputs
+```
 
 
 ## Installation
 
 Create a virtual environment and install dependencies:
 
+```
 python -m venv venv
-source venv/bin/activate # Windows: venv\Scripts\activate
+source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
+```
 
 In some environments, additional packages may need to be installed manually if import errors occur. For example:
 pip install fandango-fuzzer scipy matplotlib big_o statsmodels xmljson defusedxml apsw weasyprint
@@ -57,8 +61,9 @@ pip install fandango-fuzzer scipy matplotlib big_o statsmodels xmljson defusedxm
 
 The main experiment workflow can be executed using:
 
+```
 python -m evaluation.across_func.coreografa_lib.example
-
+```
 
 This will execute the evaluation workflows for all configured subject systems
 and generate performance summaries and plots.
