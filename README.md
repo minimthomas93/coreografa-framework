@@ -1,16 +1,23 @@
-# Core´ografa – Directed Comparative Fuzz Testing Framework for Functionally Equivalent Systems
+# Coreógrafa – Directed Comparative Fuzz Testing Framework for Functionally Equivalent Systems
 
-Coreografa is a grammar-based framework for automated performance analysis.
+Coreógrafa is a grammar-based framework for automated performance exploration.  
 It combines feedback-directed input generation with performance metric analysis
-to explore how input properties influence the behaviour of software systems.
+to investigate how input properties influence the behaviour of software systems.
 
-This repository contains the implementation used in the Master's thesis:
+This repository contains the implementation developed for the Master's thesis.
 
 ## Overview
 
-Coreografa generates structured inputs using grammar-based fuzzing and evaluates
-their impact on runtime and memory consumption. The framework supports analysing
-multiple implementations of the same functionality under identical inputs.
+Coreógrafa generates structured inputs using grammar-based fuzzing and evaluates
+their impact on runtime and memory consumption. The framework supports the
+analysis of multiple implementations of the same functionality under identical
+inputs, enabling comparative performance evaluation across systems.
+
+By systematically generating inputs with diverse structural properties,
+Coreógrafa helps identify performance-sensitive input regions and exposes
+behavioural differences between implementations.
+
+## Evaluation Subjects
 
 The evaluation in the thesis includes several subject systems:
 
