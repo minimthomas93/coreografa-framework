@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN meetings ON meetings.project_id = projects.id WHERE  contact_email != 50  OR  city > 30000.0  OR  health_insurance >= 75000.99  ORDER BY  contact_email  ASC ;

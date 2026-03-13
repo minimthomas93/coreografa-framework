@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN locations ON assets.assigned_to_employee = employees.id WHERE  id = 40 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN meetings ON meetings.client_id = clients.id WHERE  start_date = 30000.0  AND  completion_date < 60  OR  bonus >= 40  ORDER BY  name  ASC ;

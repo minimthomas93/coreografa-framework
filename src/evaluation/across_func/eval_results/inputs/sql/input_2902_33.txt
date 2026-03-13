@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN clients JOIN assets ON benefits.employee_id = employees.id ON tasks.employee_id = employees.id ORDER BY  assigned_to_employee  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN trainings ON benefits.employee_id = employees.id ORDER BY  project_id  DESC ;

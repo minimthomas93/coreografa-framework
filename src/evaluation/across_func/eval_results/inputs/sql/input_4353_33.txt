@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN departments ON benefits.employee_id = employees.id WHERE  description >= 2 ;

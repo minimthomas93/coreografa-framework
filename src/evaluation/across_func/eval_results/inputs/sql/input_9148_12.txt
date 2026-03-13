@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN departments JOIN clients ON assets.assigned_to_employee = employees.id ON meetings.client_id = clients.id WHERE  contact_email = 60  AND  retirement_plan <= 4  OR  name > 30  OR  department_id  LIKE Finance AND  asset_name <=HR AND  training_name >= 75000.99  AND  department_id >=Retail OR  location >Marketing AND  age < 30  AND  last_name !=Berlin;

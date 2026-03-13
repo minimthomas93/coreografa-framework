@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN locations JOIN tasks JOIN tasks ON employees.department_id = departments.id ON tasks.employee_id = employees.id ON trainings.employee_id = employees.id ORDER BY  description  DESC ;

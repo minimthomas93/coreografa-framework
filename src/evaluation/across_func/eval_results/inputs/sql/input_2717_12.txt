@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  end_date =Communication OR  project_id =Hamburg OR  description  LIKE  75000.99  AND  last_name =Todo AND  training_name =Todo OR  status >= 120000.0  OR  asset_type >= 75000.99  AND  industry < 4  OR  project_id !=Leadership AND  employee_id >= 30000.0  OR  completion_date >= 120000.0  OR  training_name != 75000.99  ORDER BY  department_id  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  start_date != 30000.0  AND  base_salary <= 30000.0  AND  meeting_date <=Support AND  project_id = 60  OR  name  LIKE Berlin OR  industry <= 30  OR  hire_date  LIKE Operations OR  age > 75000.99  OR  assigned_to_employee >Excel AND  description  LIKE  40  AND  start_date <R&D AND  training_name >=Excel AND  base_salary = 60  AND  id < 75000.99 ;

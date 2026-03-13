@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  project_id <=Education OR  hire_date != 18  AND  age > 30000.0  AND  location > 2  OR  asset_name <= 30  AND  city >= 30000.0  AND  age <Dusseldorf OR  name <= 50000.5  AND  start_date > 1  AND  assigned_to_employee > 75000.99  AND  status <= 50000.5  OR  base_salary <Todo AND  first_name  LIKE  120000.0 ;

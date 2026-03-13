@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  employee_id > 30000.0  OR  last_name = 3  OR  assigned_to_employee != 2  OR  asset_type  LIKE Excel OR  contact_email = 50000.5  AND  start_date > 75000.99  AND  description <Healthcare;

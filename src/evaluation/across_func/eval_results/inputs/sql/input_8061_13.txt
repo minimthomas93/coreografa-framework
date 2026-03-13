@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  asset_name =Cologne OR  age >Excel AND  first_name <=Berlin AND  training_name <= 1  OR  bonus >=Sales AND  training_name < 25  AND  contact_email != 18  OR  age >=Sales AND  id  LIKE Finance OR  start_date  LIKE In Progress OR  employee_id =Done AND  id = 50000.5  OR  bonus >Leipzig AND  country = 1  ORDER BY  name  ASC ;

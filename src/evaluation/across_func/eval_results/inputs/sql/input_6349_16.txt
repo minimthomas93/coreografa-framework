@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN departments ON projects.department_id = departments.id WHERE  name = 50000.5  OR  base_salary >= 3 ;

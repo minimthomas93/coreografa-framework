@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN tasks JOIN assets ON salaries.employee_id = employees.id ON meetings.client_id = clients.id ORDER BY  contact_email  DESC ;

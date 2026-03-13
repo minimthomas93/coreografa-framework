@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  hire_date > 40  OR  base_salary  LIKE  120000.0  OR  name  LIKE  120000.0  OR  asset_name < 120000.0  AND  base_salary >HR AND  location  LIKE  1  OR  description = 50000.5  OR  start_date !=Stuttgart AND  industry = 30000.0  OR  name != 30  AND  industry  LIKE Retail AND  end_date  LIKE  75000.99  AND  name <Python ORDER BY  asset_name  DESC ;

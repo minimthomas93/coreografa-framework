@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN salaries ON salaries.employee_id = employees.id WHERE  retirement_plan  LIKE Communication ORDER BY  name  ASC ;

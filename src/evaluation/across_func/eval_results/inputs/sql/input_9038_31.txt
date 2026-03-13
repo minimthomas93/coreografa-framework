@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  country < 30000.0  OR  meeting_date  LIKE  18  OR  assigned_to_employee >=Python OR  department_id = 30000.0  OR  hire_date != 50  AND  asset_name < 30  OR  completion_date > 50  AND  first_name <= 60  OR  meeting_date  LIKE Education AND  bonus >= 30000.0  OR  status >= 120000.0  OR  hire_date = 30000.0  OR  description <=Todo;

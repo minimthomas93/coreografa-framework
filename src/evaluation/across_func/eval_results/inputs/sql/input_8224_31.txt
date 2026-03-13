@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  retirement_plan <= 120000.0  OR  base_salary = 50  OR  industry !=Communication AND  retirement_plan >= 75000.99  OR  asset_type <Todo AND  age >= 50000.5  AND  location != 50  OR  start_date  LIKE  50000.5  AND  base_salary <= 40  OR  department_id < 2  AND  asset_type <= 30000.0  AND  status = 40  ORDER BY  employee_id  DESC ;

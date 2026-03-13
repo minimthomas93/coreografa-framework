@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN assets JOIN salaries ON salaries.employee_id = employees.id ON assets.assigned_to_employee = employees.id WHERE  assigned_to_employee  LIKE Munich OR  project_id !=Education OR  country  LIKE  18  AND  country <=Python AND  name <Communication OR  city = 60 ;

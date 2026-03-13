@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN salaries ON salaries.employee_id = employees.id ORDER BY  employee_id  DESC ;

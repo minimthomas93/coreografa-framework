@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN assets ON meetings.client_id = clients.id WHERE  first_name >Marketing AND  status > 75000.99  OR  employee_id  LIKE  50000.5  ORDER BY  completion_date  ASC ;

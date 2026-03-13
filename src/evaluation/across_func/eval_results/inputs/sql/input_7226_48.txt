@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  end_date >=HR AND  id <= 75000.99  OR  location < 60  AND  asset_type  LIKE  50000.5  AND  project_id < 4  AND  end_date <= 75000.99  OR  age <=Tech OR  training_name >= 50000.5  AND  id =Excel AND  meeting_date = 75000.99  AND  training_name >= 30 ;

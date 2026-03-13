@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN employees JOIN salaries ON tasks.employee_id = employees.id ON meetings.project_id = projects.id ORDER BY  industry  DESC ;

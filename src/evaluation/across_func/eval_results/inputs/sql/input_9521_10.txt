@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN projects ON employees.department_id = departments.id WHERE  training_name < 50000.5  AND  country >=Retail AND  asset_name = 30 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  age < 75000.99  AND  training_name <Todo AND  end_date <= 75000.99  OR  training_name > 25  OR  id > 30000.0 ;

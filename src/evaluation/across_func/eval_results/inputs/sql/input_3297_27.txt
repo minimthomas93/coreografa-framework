@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  id < 3  AND  description <= 18  OR  end_date <Sales OR  age  LIKE Cologne AND  age <=Hamburg OR  employee_id  LIKE  40  AND  industry != 30000.0  OR  completion_date =Berlin OR  name != 40  AND  industry !=Berlin AND  contact_email  LIKE Python AND  meeting_date = 30  OR  meeting_date = 120000.0  AND  city <= 50000.5 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  last_name <Munich AND  completion_date =Stuttgart OR  contact_email != 120000.0  OR  completion_date >=Excel AND  end_date  LIKE  2  AND  end_date = 3  OR  city >HR AND  employee_id != 30000.0  OR  end_date != 120000.0  AND  bonus  LIKE Healthcare OR  end_date  LIKE  75000.99  ORDER BY  last_name  ASC ;

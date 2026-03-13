@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN tasks ON projects.department_id = departments.id ORDER BY  country  ASC ;

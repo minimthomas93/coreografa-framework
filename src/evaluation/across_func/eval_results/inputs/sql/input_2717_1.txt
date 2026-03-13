@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  hire_date <=Marketing AND  location !=Berlin OR  location = 75000.99  AND  meeting_date != 3  OR  bonus =Stuttgart AND  first_name =Education AND  name <= 25  OR  last_name < 25  OR  assigned_to_employee <Support AND  bonus != 75000.99  OR  asset_type >= 25  AND  start_date < 50  ORDER BY  completion_date  ASC ;

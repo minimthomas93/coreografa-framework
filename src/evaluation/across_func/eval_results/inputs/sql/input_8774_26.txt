@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN meetings ON employees.department_id = departments.id WHERE  name >= 50000.5  AND  health_insurance < 2  ORDER BY  status  DESC ;

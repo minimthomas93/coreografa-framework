@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  asset_type >= 75000.99  AND  id  LIKE  40  OR  status != 30000.0  OR  country  LIKE  30000.0  AND  asset_type >Communication ORDER BY  location  DESC ;

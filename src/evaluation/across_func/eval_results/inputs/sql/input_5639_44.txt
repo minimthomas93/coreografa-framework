@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN clients ON projects.department_id = departments.id WHERE  industry < 30000.0 ;

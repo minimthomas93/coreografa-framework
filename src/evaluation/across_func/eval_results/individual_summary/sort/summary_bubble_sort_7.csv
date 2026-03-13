@@ -1,0 +1,16 @@
+function_name,input_id,runtime_ns,memory_after,memory_peak,sortedness,length
+quicksort,416_1,25500,92,92,1.0,1
+bubble_sort,416_1,21800,92,112,1.0,1
+insertionSort,416_1,177300,92,112,1.0,1
+quicksort,416_2,19000,92,92,1.0,1
+bubble_sort,416_2,14000,92,112,1.0,1
+insertionSort,416_2,26100,92,112,1.0,1
+quicksort,416_3,12900,92,92,1.0,1
+bubble_sort,416_3,76000,92,112,1.0,1
+insertionSort,416_3,17300,92,112,1.0,1
+quicksort,416_4,13400,92,92,1.0,1
+bubble_sort,416_4,22900,92,112,1.0,1
+insertionSort,416_4,19400,92,112,1.0,1
+quicksort,416_5,46400,92,312,1.0,2
+bubble_sort,416_5,25400,92,144,1.0,2
+insertionSort,416_5,17500,92,112,1.0,2

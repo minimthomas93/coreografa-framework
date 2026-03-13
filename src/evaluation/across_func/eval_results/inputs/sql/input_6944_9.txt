@@ -1,0 +1,1 @@
+SELECT  health_insurance  asset_name , employee_id  id , asset_type  health_insurance , asset_type  city  start_date  status  end_date , last_name , department_id  FROM clients JOIN salaries JOIN assets ON meetings.client_id = clients.id ON assets.assigned_to_employee = employees.id;

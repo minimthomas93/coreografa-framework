@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN locations JOIN departments ON meetings.client_id = clients.id ON trainings.employee_id = employees.id WHERE  city > 120000.0  ORDER BY  age  ASC ;

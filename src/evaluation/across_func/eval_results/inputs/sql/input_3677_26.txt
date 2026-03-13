@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN salaries ON projects.department_id = departments.id ORDER BY  id  DESC ;

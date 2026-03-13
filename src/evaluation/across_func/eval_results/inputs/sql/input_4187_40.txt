@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  completion_date !=In Progress;

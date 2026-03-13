@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN benefits JOIN employees JOIN benefits JOIN employees JOIN clients ON employees.department_id = departments.id ON trainings.employee_id = employees.id ON meetings.project_id = projects.id ON tasks.employee_id = employees.id ON meetings.client_id = clients.id WHERE  location <= 60  ORDER BY  name  ASC ;

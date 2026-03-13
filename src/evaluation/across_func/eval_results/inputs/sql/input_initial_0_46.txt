@@ -1,0 +1,1 @@
+SELECT  base_salary , department_id , contact_email , bonus , training_name , base_salary , assigned_to_employee  health_insurance , last_name , start_date  name  description , end_date , city , project_id  FROM departments JOIN locations ON projects.department_id = departments.id WHERE  id >=Berlin ORDER BY  employee_id  DESC ;

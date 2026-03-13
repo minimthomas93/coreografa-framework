@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN trainings ON meetings.client_id = clients.id WHERE  contact_email !=Communication OR  assigned_to_employee >Python OR  project_id =R&D AND  name  LIKE Support OR  location <=Frankfurt AND  city != 18  OR  end_date < 120000.0  OR  industry <= 60  OR  name >=Python OR  retirement_plan  LIKE  25  AND  description != 60 ;

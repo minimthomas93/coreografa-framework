@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN assets ON employees.department_id = departments.id WHERE  assigned_to_employee <= 2 ;

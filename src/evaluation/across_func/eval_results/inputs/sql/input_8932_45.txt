@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN assets ON tasks.project_id = projects.id ORDER BY  country  ASC ;

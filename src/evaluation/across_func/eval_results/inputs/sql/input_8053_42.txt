@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN trainings ON meetings.project_id = projects.id WHERE  training_name <= 75000.99  OR  location < 30  AND  location <= 75000.99  OR  contact_email >Engineering;

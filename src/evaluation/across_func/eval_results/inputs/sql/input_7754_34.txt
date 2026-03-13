@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  base_salary <Hamburg AND  status < 30000.0  OR  retirement_plan > 75000.99  OR  project_id > 4  OR  status <=Leadership AND  asset_type < 1  AND  meeting_date < 18  OR  first_name != 30000.0  AND  bonus  LIKE  120000.0  OR  name <Stuttgart OR  employee_id <= 30000.0  OR  first_name >= 120000.0 ;

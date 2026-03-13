@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  city != 30  OR  bonus =Operations OR  city <= 120000.0  AND  meeting_date !=Munich AND  project_id >=Leipzig OR  asset_type < 50000.5  AND  meeting_date <= 30000.0  OR  last_name = 25  OR  end_date != 50  OR  first_name  LIKE  75000.99 ;

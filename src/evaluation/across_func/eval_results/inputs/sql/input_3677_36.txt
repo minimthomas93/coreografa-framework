@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN clients ON tasks.employee_id = employees.id ORDER BY  status  ASC ;

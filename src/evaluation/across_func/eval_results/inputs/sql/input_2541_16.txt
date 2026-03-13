@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  employee_id <= 120000.0  OR  asset_type < 75000.99  AND  industry !=HR OR  asset_name = 50000.5  AND  meeting_date >= 50000.5  OR  end_date <In Progress OR  industry = 50000.5  OR  retirement_plan >= 40  AND  meeting_date > 120000.0  AND  industry  LIKE Finance OR  age =In Progress OR  id != 60  ORDER BY  location  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN departments JOIN assets ON employees.department_id = departments.id ON trainings.employee_id = employees.id WHERE  name !=Leipzig AND  age <= 75000.99  OR  hire_date >SQL AND  industry <= 75000.99  AND  last_name <Education AND  hire_date <= 4  AND  health_insurance  LIKE Marketing AND  first_name < 30000.0  AND  city != 18 ;

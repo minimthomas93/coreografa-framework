@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  bonus = 120000.0 ;

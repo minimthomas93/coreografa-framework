@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  department_id < 30000.0  AND  id <= 120000.0  AND  completion_date < 50000.5  AND  first_name <=Marketing AND  country >=Leadership OR  start_date  LIKE In Progress AND  id = 30000.0  AND  first_name = 18  AND  location >=Cologne OR  start_date <Python OR  country = 30000.0  AND  training_name  LIKE  120000.0 ;

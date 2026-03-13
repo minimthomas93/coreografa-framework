@@ -1,0 +1,1 @@
+<html><head><title>My Awesome Webpage</title></head><body><h1>Welcome</h1>,<h2>Contact</h2>,<h3>Welcome</h3><p>Lorem ipsum dolor sit amet.</p><a href=https://stackoverflow.comLearn more</a><img src=home.jpg><img src=flower.jpg><img src=home.jpg><img src=home.jpg><img src=flower.jpg><img src=flower.jpg><img src=coffee.jpg><img src=home.jpg><img src=coffee.jpg></body></html>

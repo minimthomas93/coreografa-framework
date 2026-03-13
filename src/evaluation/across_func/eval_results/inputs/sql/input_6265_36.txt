@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN meetings JOIN employees ON tasks.employee_id = employees.id ON salaries.employee_id = employees.id WHERE  assigned_to_employee = 40  OR  country <=Marketing AND  department_id < 75000.99  AND  contact_email <= 1  OR  city <= 25  OR  bonus  LIKE  120000.0  AND  city != 4  ORDER BY  bonus  DESC ;

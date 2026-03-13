@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  employee_id >Retail ORDER BY  end_date  DESC ;

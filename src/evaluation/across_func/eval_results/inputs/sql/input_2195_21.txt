@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  name <= 75000.99  ORDER BY  location  ASC ;

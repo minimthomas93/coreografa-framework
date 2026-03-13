@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  asset_type =Sales OR  end_date >=Support OR  age <=Healthcare AND  asset_name >= 30000.0  OR  project_id !=Berlin AND  asset_name >= 75000.99  OR  asset_name = 75000.99  AND  country  LIKE Retail OR  end_date <Sales AND  age > 50  OR  name = 4 ;

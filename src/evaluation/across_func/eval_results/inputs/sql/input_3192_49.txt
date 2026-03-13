@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN clients ON trainings.employee_id = employees.id WHERE  base_salary > 30000.0  ORDER BY  country  DESC ;

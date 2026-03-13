@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  employee_id  LIKE  1  AND  contact_email > 3  OR  contact_email != 75000.99  AND  asset_type < 120000.0  OR  age <= 40  OR  country = 120000.0  OR  health_insurance  LIKE  75000.99  AND  retirement_plan =Support AND  name  LIKE  30000.0  ORDER BY  status  ASC ;

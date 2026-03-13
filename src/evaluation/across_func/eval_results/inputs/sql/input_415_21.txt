@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN employees ON assets.assigned_to_employee = employees.id WHERE  industry =Berlin ORDER BY  status  ASC ;

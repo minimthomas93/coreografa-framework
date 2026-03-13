@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  location > 120000.0  OR  id =Excel OR  assigned_to_employee = 40  AND  base_salary != 25  OR  base_salary != 120000.0  OR  retirement_plan <=Education AND  bonus <Done OR  department_id >= 50000.5  AND  project_id < 18  AND  health_insurance != 120000.0  AND  id <= 50000.5  OR  status !=Education ORDER BY  first_name  ASC ;

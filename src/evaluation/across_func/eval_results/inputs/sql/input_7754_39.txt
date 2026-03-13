@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  retirement_plan <=SQL AND  employee_id <= 25  OR  country >= 2  OR  assigned_to_employee != 2  OR  project_id > 4  OR  employee_id > 30000.0  AND  contact_email = 120000.0  AND  id = 1  AND  city > 1  AND  industry <= 18  OR  meeting_date <Python OR  asset_name = 3  AND  id >= 75000.99  ORDER BY  health_insurance  DESC ;

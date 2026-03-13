@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN meetings ON meetings.project_id = projects.id WHERE  name > 50  ORDER BY  name  ASC ;

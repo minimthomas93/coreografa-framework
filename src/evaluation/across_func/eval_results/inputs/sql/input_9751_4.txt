@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  asset_type <Support AND  name >= 120000.0  OR  status = 4  OR  end_date = 30  AND  contact_email <= 75000.99  AND  location <Support AND  end_date = 75000.99  AND  start_date >Marketing OR  age > 50000.5  OR  id < 1  AND  bonus >= 30000.0  AND  last_name < 75000.99  OR  id <= 120000.0  ORDER BY  industry  ASC ;

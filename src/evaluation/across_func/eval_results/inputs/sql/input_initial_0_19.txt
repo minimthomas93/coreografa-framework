@@ -1,0 +1,1 @@
+SELECT  city , name  training_name , description , end_date  employee_id  country  hire_date  last_name  FROM clients JOIN locations ON employees.department_id = departments.id ORDER BY  department_id  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN employees ON meetings.client_id = clients.id WHERE  base_salary  LIKE  4  ORDER BY  last_name  DESC ;

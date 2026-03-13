@@ -1,0 +1,1 @@
+SELECT  {1,10}  FROM trainings JOIN salaries JOIN locations ON projects.department_id = departments.id ON tasks.employee_id = employees.id WHERE  city >=Marketing AND  completion_date != 4  AND  contact_email = 50  OR  name < 120000.0  OR  base_salary >= 2  ORDER BY  bonus  DESC ;

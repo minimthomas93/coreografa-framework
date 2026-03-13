@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN meetings JOIN assets ON salaries.employee_id = employees.id ON employees.department_id = departments.id WHERE  asset_name != 25 ;

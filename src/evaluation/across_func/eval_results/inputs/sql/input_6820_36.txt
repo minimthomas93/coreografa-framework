@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  description <= 120000.0  AND  last_name > 4  OR  department_id >Dusseldorf OR  completion_date > 50000.5  OR  hire_date  LIKE  30  AND  meeting_date =HR OR  location = 60  OR  project_id < 75000.99  ORDER BY  base_salary  ASC ;

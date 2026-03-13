@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN clients ON salaries.employee_id = employees.id;

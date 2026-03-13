@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN assets ON tasks.project_id = projects.id ORDER BY  meeting_date  ASC ;

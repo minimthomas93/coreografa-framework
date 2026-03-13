@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN salaries ON meetings.project_id = projects.id WHERE  country = 30  OR  base_salary != 50000.5  OR  location = 120000.0  AND  hire_date <Finance OR  id > 1  OR  hire_date <= 30  OR  health_insurance >Education AND  retirement_plan >= 50000.5  AND  bonus = 40  OR  id >= 120000.0  ORDER BY  id  ASC ;

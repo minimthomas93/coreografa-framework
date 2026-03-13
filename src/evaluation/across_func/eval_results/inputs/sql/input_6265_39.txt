@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  asset_name =Finance OR  city != 50000.5  AND  employee_id  LIKE Done ORDER BY  end_date  ASC ;

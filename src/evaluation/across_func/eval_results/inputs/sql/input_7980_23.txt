@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  training_name !=Todo ORDER BY  status  ASC ;

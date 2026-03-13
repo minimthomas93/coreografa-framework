@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  country != 30000.0  AND  description <Support AND  name <= 75000.99  AND  end_date = 50000.5  OR  asset_name !=Marketing;

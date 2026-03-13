@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  contact_email >=Stuttgart ORDER BY  health_insurance  DESC ;

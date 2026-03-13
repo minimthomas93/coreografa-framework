@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN projects ON meetings.project_id = projects.id WHERE  health_insurance >=Sales AND  name >Berlin OR  asset_type  LIKE SQL OR  id > 120000.0  OR  base_salary > 30  AND  hire_date = 50000.5  AND  start_date < 30  AND  id = 50000.5  AND  training_name <=Healthcare AND  project_id >= 40 ;

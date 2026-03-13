@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN assets ON salaries.employee_id = employees.id WHERE  asset_type > 75000.99  ORDER BY  employee_id  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  base_salary >Frankfurt AND  location < 30  AND  industry != 30000.0  AND  meeting_date != 30  OR  last_name != 50000.5  AND  health_insurance >Munich AND  employee_id =SQL AND  description >Frankfurt OR  retirement_plan >Finance OR  industry > 50000.5  OR  employee_id < 75000.99  AND  project_id =Python ORDER BY  location  ASC ;

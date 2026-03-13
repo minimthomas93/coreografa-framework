@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  name >= 60  AND  bonus <Hamburg AND  first_name <= 3  AND  last_name  LIKE Engineering OR  status  LIKE Marketing OR  base_salary >=SQL AND  asset_name = 2  AND  name  LIKE  30000.0  OR  meeting_date <= 50000.5  OR  bonus != 18  OR  country != 4  AND  last_name > 18  OR  status <= 30000.0  OR  age !=Cologne;

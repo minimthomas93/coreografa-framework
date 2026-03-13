@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  contact_email >Finance AND  location >= 1  OR  city  LIKE  120000.0  OR  retirement_plan >=HR AND  hire_date = 75000.99  AND  name >Berlin OR  project_id < 120000.0  OR  status <Leadership;

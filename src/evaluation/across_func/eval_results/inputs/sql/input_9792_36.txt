@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  location < 30000.0  AND  bonus =Finance AND  description != 120000.0  OR  assigned_to_employee >= 25  AND  asset_type >= 18  OR  retirement_plan =Leadership AND  description  LIKE  4  AND  status >=Leipzig AND  meeting_date >= 2  OR  assigned_to_employee > 40  OR  id >=Operations OR  location <Hamburg OR  start_date <= 30  OR  industry > 50000.5 ;

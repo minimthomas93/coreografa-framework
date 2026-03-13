@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  last_name = 30  AND  age  LIKE  4  OR  start_date > 75000.99  OR  assigned_to_employee <=Finance OR  meeting_date !=HR AND  hire_date  LIKE Retail OR  retirement_plan < 30000.0  OR  asset_name >= 50000.5  OR  id >= 30000.0  AND  description >=Engineering OR  retirement_plan >Munich OR  training_name  LIKE  40  ORDER BY  asset_name  DESC ;

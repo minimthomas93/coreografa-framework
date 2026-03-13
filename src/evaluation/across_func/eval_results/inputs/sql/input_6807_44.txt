@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  asset_name != 4  AND  employee_id >=Berlin OR  bonus >= 60  AND  contact_email >= 75000.99  OR  location > 30  AND  employee_id != 75000.99  AND  project_id >Marketing OR  hire_date >= 75000.99  OR  country != 2  OR  bonus =Retail AND  meeting_date != 30000.0  AND  employee_id  LIKE Todo;

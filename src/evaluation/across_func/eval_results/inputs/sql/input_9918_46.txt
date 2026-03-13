@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN clients JOIN departments JOIN tasks JOIN locations ON meetings.client_id = clients.id ON trainings.employee_id = employees.id ON employees.department_id = departments.id ON meetings.project_id = projects.id WHERE  base_salary =SQL ORDER BY  country  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  city > 60  AND  project_id  LIKE  75000.99  AND  age <= 3  OR  name <= 60  OR  asset_type = 30  OR  name >= 50  OR  city  LIKE  50000.5  OR  health_insurance <=R&D AND  bonus < 40  OR  status  LIKE  75000.99  OR  id <= 50  AND  end_date > 75000.99  AND  description <= 75000.99  AND  department_id !=Operations AND  meeting_date  LIKE  40 ;

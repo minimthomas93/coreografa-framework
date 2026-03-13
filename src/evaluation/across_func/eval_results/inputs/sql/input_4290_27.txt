@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN departments ON employees.department_id = departments.id ORDER BY  last_name  DESC ;

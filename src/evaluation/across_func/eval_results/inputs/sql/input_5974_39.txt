@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  meeting_date  LIKE  60  OR  status < 50  AND  city =Engineering OR  contact_email <=Marketing AND  industry = 50  AND  industry < 18  AND  project_id  LIKE  1  OR  hire_date != 1  AND  retirement_plan <= 30000.0  OR  description >= 50000.5  OR  completion_date < 50  AND  name != 18  AND  asset_type = 50000.5  ORDER BY  employee_id  DESC ;

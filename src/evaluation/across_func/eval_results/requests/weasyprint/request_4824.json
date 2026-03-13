@@ -1,0 +1,39 @@
+{
+    "function": "weasyprint_64",
+    "initial_pop": [
+        "<html><head><title>Title of the pdf</title></head><body><h1>About Us</h1>,<h2>Welcome</h2>,<h3>About Us</h3><p>This is a paragraph. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </p><a href=https://stackoverflow.comVisit our website</a><img src=coffee.jpg><img src=workstation.jpg><img src=home.jpg><img src=flower.jpg><img src=workstation.jpg><img src=coffee.jpg><img src=workstation.jpg><img src=coffee.jpg><img src=flower.jpg><img src=flower.jpg><img src=workstation.jpg><img src=home.jpg><img src=home.jpg><img src=flower.jpg><img src=workstation.jpg><img src=flower.jpg><img src=workstation.jpg><img src=workstation.jpg><img src=coffee.jpg><img src=coffee.jpg><img src=workstation.jpg><img src=home.jpg><img src=home.jpg><img src=home.jpg><img src=home.jpg><img src=coffee.jpg><img src=flower.jpg><img src=coffee.jpg><img src=coffee.jpg><img src=home.jpg><img src=home.jpg></body></html>\n"
+    ],
+    "initial_pop_files": [
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\weasyprint\\input_1973_40.txt"
+    ],
+    "metric_constraints": [
+        {
+            "name": "runtime_ns",
+            "op": ">=",
+            "type": "metric",
+            "value": 4174841660.0
+        },
+        {
+            "name": "runtime_ns",
+            "op": "<=",
+            "type": "metric",
+            "value": 4634446600.0
+        }
+    ],
+    "name": "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\split_summary\\weasyprint\\weasyprint_64_summary.csv",
+    "prop_constraints": [
+        {
+            "name": "count_para_text",
+            "op": ">=",
+            "type": "prop",
+            "value": 1.0
+        },
+        {
+            "name": "count_para_text",
+            "op": "<=",
+            "type": "prop",
+            "value": 1.0
+        }
+    ],
+    "request_type": "frequency request"
+}

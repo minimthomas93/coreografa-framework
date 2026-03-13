@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  description >Engineering AND  contact_email < 18  AND  training_name > 50000.5  AND  country != 75000.99  AND  health_insurance >=Education AND  asset_type =Hamburg OR  industry >= 25  OR  health_insurance >Cologne OR  location <Stuttgart OR  asset_name  LIKE Munich OR  health_insurance <= 60  OR  start_date = 50000.5 ;

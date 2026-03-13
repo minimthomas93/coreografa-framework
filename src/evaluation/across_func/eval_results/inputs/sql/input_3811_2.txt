@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN locations ON salaries.employee_id = employees.id;

@@ -1,0 +1,73 @@
+{
+    "function": "quicksort",
+    "initial_pop": [
+        "-9,-2,2838,-7876,0,-772,-58435,-8115,-30454,-8,5551,8911,6,-28,94573,943,-35,-18\n",
+        "-8056,4,33,77,70263,-31454,2,906,6,93,8566,-1,487,68466,877,-44,-5,-80032,-6267\n",
+        "26148,8,-75,65,-64,8802,-612,2,75,269,8,-17142,90,-2353,4144,2568,73,-551,-6\n",
+        "60,-55196,42,6315,-94,96,-3,-8,960,-107,926,581,-87,8410,-8,3716,98891,-9606,-84734\n",
+        "-7633,1,4686,37,-629,-338,-279,-8,-4,-7496,92546,-7917,-1,4677,9857,-613,-6,-8382\n",
+        "-131,0,0,-8,52,165,-8,0,9521,8,11199,7625,-85112,9260,-1,9,0,657,9,972,-1363\n",
+        "-624,0,-9,63,5032,42,496,-553,-6611,7484,1,779,82183,61372,325,-78,-7373,-27743\n",
+        "6101,4384,-130,27,927,65837,-3,6256,949,-56841,-407,11,41846,6,-46044,75,-468,5\n",
+        "32338,-7450,8250,-90,9,44684,-921,-46,815,2623,-72219,-262,-2,24407,-8180,-96,-59\n",
+        "-21782,7929,-397,-13,53155,-50,-61951,-44,4,6832,2,3,-80060,-23330,-3084,8036\n",
+        "-4,6,45,57623,54498,6,480,-129,-6,-51402,-852,4,-3,60,4339,-36642,-102,5163\n",
+        "-33,3,9,-921,-1,-35,3,-9,19,-4,234,-897,-872,28,-5346,-697,-87,58,-79,130,97,76\n",
+        "9391,-8,-22,-612,62,-45556,-4324,-538,8,5129,-286,6741,-876,76,-16,1311,1,806,476\n",
+        "0,3656,56,51224,-72,-632,96083,-3,-5,-2,-21689,-10345,29,-3223,41,-5917,-26,-805\n",
+        "-2304,20,-4735,75,-218,-995,88,9826,-851,4589,-30,67,4,35792,-739,9,59,-6303,-753\n",
+        "-48,206,-6,-96643,66,-636,-3749,-757,-3,-4,96371,683,244,-40,7855,519,-6,-57292\n",
+        "-51898,23,-3,3,-535,2,4,3104,-74855,-24700,3702,2,5\n",
+        "-4318,57,-253,9967,-8,118,-154,-136,28332,-109,5,35638,-96966,35,94,-7,1,51905\n"
+    ],
+    "initial_pop_files": [
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_1510_30.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_153_12.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_2277_41.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_2500_1.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_2741_25.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_1289_18.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_1510_34.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_1510_37.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_273_19.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_2741_20.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_2741_26.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_2819_46.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_1216_16.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_1510_12.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_2277_23.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_2500_40.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_273_8.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_2741_28.txt"
+    ],
+    "metric_constraints": [
+        {
+            "name": "memory_peak",
+            "op": ">=",
+            "type": "metric",
+            "value": 284.4
+        },
+        {
+            "name": "memory_peak",
+            "op": "<=",
+            "type": "metric",
+            "value": 476.8
+        }
+    ],
+    "name": "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\split_summary\\sort\\quicksort_summary.csv",
+    "prop_constraints": [
+        {
+            "name": "length",
+            "op": ">=",
+            "type": "prop",
+            "value": 2.0
+        },
+        {
+            "name": "length",
+            "op": "<=",
+            "type": "prop",
+            "value": 5.0
+        }
+    ],
+    "request_type": "frequency request"
+}

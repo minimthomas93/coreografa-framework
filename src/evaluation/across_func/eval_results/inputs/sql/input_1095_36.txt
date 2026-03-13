@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  department_id <= 50000.5 ;

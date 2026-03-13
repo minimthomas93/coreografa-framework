@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN clients JOIN clients JOIN employees ON meetings.project_id = projects.id ON meetings.project_id = projects.id ON projects.department_id = departments.id ORDER BY  age  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  asset_type < 4  OR  industry < 30000.0  OR  bonus != 60  OR  id <= 40  AND  location >= 30  AND  project_id  LIKE  3  AND  last_name  LIKE  30000.0  AND  meeting_date =Retail OR  contact_email > 75000.99  OR  hire_date > 1  OR  name >= 1  ORDER BY  completion_date  DESC ;

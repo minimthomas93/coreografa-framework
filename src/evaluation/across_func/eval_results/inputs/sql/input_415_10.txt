@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN assets ON employees.department_id = departments.id ORDER BY  city  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN locations JOIN meetings ON employees.department_id = departments.id ON meetings.project_id = projects.id WHERE  base_salary  LIKE  3  OR  assigned_to_employee  LIKE  50000.5  OR  name >= 50  AND  health_insurance >Frankfurt AND  health_insurance <= 2  OR  bonus >= 25  OR  id >=Cologne;

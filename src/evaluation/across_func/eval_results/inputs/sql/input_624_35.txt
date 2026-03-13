@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN meetings ON assets.assigned_to_employee = employees.id ORDER BY  location  DESC ;

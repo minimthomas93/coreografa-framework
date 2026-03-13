@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN meetings ON salaries.employee_id = employees.id WHERE  project_id <= 30000.0  AND  contact_email  LIKE SQL OR  start_date > 75000.99  OR  first_name <= 18  OR  first_name  LIKE Hamburg OR  meeting_date >Tech AND  industry =Leadership AND  base_salary = 50000.5  OR  age =R&D AND  project_id !=Marketing OR  meeting_date <=In Progress;

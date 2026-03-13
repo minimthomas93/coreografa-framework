@@ -1,0 +1,1 @@
+SELECT  {11,20}  FROM meetings ORDER BY  location  ASC ;

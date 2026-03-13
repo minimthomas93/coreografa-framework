@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  project_id > 50000.5  OR  health_insurance  LIKE  30000.0  AND  industry <Engineering AND  employee_id = 4  AND  last_name  LIKE Todo AND  id =SQL AND  asset_name  LIKE  3  AND  location !=Education OR  last_name >= 25  AND  department_id >=Finance AND  name =Communication;

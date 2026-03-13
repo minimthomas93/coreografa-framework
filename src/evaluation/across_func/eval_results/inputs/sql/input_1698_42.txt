@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN tasks JOIN clients JOIN salaries ON assets.assigned_to_employee = employees.id ON projects.department_id = departments.id ON trainings.employee_id = employees.id;

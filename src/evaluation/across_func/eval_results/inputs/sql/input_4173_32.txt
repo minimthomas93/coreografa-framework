@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  asset_name  LIKE  30000.0  OR  completion_date >=Operations AND  department_id <= 75000.99  AND  first_name < 50000.5  AND  name >Finance OR  age != 25  OR  end_date >Stuttgart OR  assigned_to_employee <= 120000.0  OR  status >Excel AND  hire_date = 4  AND  assigned_to_employee != 75000.99  AND  bonus != 120000.0  OR  id <= 75000.99 ;

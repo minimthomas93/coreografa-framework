@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN salaries JOIN benefits JOIN assets ON tasks.project_id = projects.id ON meetings.client_id = clients.id ON projects.department_id = departments.id WHERE  id >= 1 ;

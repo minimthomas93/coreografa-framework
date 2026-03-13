@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN trainings ON tasks.project_id = projects.id ORDER BY  last_name  DESC ;

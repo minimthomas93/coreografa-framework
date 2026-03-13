@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN salaries ON meetings.client_id = clients.id WHERE  meeting_date != 3  AND  age  LIKE  2  AND  location < 25  AND  meeting_date =Finance AND  end_date <=Excel OR  health_insurance = 2  OR  city >= 120000.0  AND  retirement_plan > 3  AND  project_id !=Frankfurt OR  start_date >= 120000.0  OR  hire_date != 25 ;

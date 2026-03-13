@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN benefits JOIN departments JOIN tasks ON benefits.employee_id = employees.id ON salaries.employee_id = employees.id ON benefits.employee_id = employees.id;

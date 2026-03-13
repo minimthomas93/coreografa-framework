@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN tasks JOIN salaries ON meetings.project_id = projects.id ON meetings.project_id = projects.id ORDER BY  hire_date  DESC ;

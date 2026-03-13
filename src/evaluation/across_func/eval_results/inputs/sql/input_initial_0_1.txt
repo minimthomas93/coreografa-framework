@@ -1,0 +1,1 @@
+SELECT  status  meeting_date , asset_name , name , age  base_salary  health_insurance , completion_date , location  project_id  industry  FROM meetings ORDER BY  country  ASC ;

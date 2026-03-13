@@ -1,0 +1,1 @@
+SELECT  {31,40}  FROM meetings JOIN salaries JOIN tasks ON projects.department_id = departments.id ON projects.department_id = departments.id WHERE  department_id  LIKE  3  OR  hire_date <= 40  AND  assigned_to_employee  LIKE Education;

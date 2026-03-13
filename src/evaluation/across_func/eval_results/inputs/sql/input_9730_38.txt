@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN employees ON employees.department_id = departments.id;

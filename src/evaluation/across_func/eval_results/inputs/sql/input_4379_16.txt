@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN employees JOIN projects ON benefits.employee_id = employees.id ON meetings.client_id = clients.id WHERE  bonus >= 2  ORDER BY  country  DESC ;

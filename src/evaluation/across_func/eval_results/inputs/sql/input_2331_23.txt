@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  start_date >= 30000.0  OR  department_id =Todo AND  location >=Sales AND  asset_name <= 50  OR  assigned_to_employee  LIKE  120000.0  OR  name =R&D OR  country != 50  OR  country > 2  OR  retirement_plan =Education AND  city != 75000.99  AND  age > 50000.5  AND  retirement_plan < 25  OR  name <= 4 ;

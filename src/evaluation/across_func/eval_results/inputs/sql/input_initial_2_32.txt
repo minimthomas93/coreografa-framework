@@ -1,0 +1,1 @@
+SELECT  {21,30}  FROM salaries JOIN meetings ON meetings.client_id = clients.id;

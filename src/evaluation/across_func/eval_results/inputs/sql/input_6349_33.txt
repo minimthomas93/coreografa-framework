@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN assets ON employees.department_id = departments.id WHERE  asset_type >Communication AND  first_name != 30000.0  OR  hire_date != 18  AND  description != 50000.5  AND  status >=Munich AND  health_insurance >=Tech AND  completion_date < 1  AND  meeting_date < 50000.5  OR  first_name >Berlin;

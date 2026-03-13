@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  asset_type >Stuttgart OR  industry <=Operations OR  completion_date !=R&D AND  hire_date >=Python AND  asset_type <= 75000.99  AND  department_id >=Finance AND  id != 30000.0  OR  completion_date >=Retail AND  age  LIKE  50000.5  ORDER BY  department_id  ASC ;

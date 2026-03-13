@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  country <=R&D OR  hire_date >Tech OR  hire_date <= 3  AND  last_name < 2  AND  city != 3  AND  assigned_to_employee >= 25  OR  industry != 30000.0  OR  description = 60  OR  asset_name <=Munich OR  industry <= 50  AND  city <Python AND  training_name != 2 ;

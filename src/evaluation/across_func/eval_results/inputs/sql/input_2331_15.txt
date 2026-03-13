@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN trainings ON projects.department_id = departments.id WHERE  start_date != 75000.99  AND  project_id >=Munich OR  completion_date < 1  OR  project_id > 30000.0  AND  start_date <= 30000.0  OR  base_salary <=Operations OR  project_id <=Cologne OR  end_date <= 50000.5  OR  city > 18  OR  meeting_date  LIKE  40  ORDER BY  city  DESC ;

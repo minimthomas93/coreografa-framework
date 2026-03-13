@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  base_salary !=Support AND  retirement_plan >In Progress AND  id  LIKE  75000.99  OR  employee_id <=Done OR  status = 50000.5  OR  description  LIKE Marketing OR  industry <= 50000.5  AND  project_id != 50000.5  AND  description < 40  AND  age >=Leadership;

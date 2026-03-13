@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  health_insurance != 4  AND  training_name > 50  AND  start_date >= 75000.99  AND  hire_date = 18  OR  health_insurance < 75000.99  OR  project_id  LIKE  120000.0  AND  completion_date = 30  OR  meeting_date >=Done OR  contact_email =Leipzig AND  age  LIKE  50  OR  first_name > 50000.5  AND  location <= 18  AND  training_name >= 120000.0 ;

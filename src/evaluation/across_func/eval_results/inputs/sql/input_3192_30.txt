@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN meetings ON assets.assigned_to_employee = employees.id WHERE  asset_name < 40 ;

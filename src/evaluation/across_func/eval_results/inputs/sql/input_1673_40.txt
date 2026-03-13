@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN meetings ON assets.assigned_to_employee = employees.id;

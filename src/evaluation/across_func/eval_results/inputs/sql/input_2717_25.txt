@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  status <Tech OR  end_date < 40  AND  status != 50  OR  id < 60  OR  hire_date  LIKE  75000.99  OR  project_id !=Berlin OR  employee_id > 40  OR  country != 75000.99  AND  base_salary < 75000.99  OR  industry >= 120000.0  AND  department_id < 75000.99  OR  description > 50000.5  OR  name >R&D ORDER BY  employee_id  ASC ;

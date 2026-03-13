@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN trainings JOIN employees JOIN benefits ON employees.department_id = departments.id ON projects.department_id = departments.id ON tasks.project_id = projects.id WHERE  assigned_to_employee  LIKE Python ORDER BY  project_id  ASC ;

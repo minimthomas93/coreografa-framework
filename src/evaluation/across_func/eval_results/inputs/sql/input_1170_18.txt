@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN locations ON tasks.project_id = projects.id WHERE  description <Hamburg OR  contact_email > 75000.99  OR  contact_email != 60  AND  contact_email > 40  AND  age = 18  OR  first_name <= 30000.0  OR  training_name > 50000.5  OR  asset_type  LIKE Dusseldorf OR  completion_date != 50  AND  industry != 18  OR  city  LIKE  30000.0 ;

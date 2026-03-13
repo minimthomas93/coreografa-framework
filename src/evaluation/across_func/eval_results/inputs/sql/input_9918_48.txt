@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN assets JOIN meetings ON meetings.client_id = clients.id ON assets.assigned_to_employee = employees.id ORDER BY  first_name  DESC ;

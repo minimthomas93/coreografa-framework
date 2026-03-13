@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  project_id != 75000.99  AND  age >= 2  AND  start_date = 4  OR  asset_type  LIKE Finance OR  id = 30000.0  OR  country >= 40  OR  department_id = 18  OR  employee_id < 75000.99  OR  bonus <= 3  AND  age >= 50000.5  OR  city != 60  OR  bonus >= 120000.0  OR  asset_type >= 3  OR  asset_type < 30000.0  ORDER BY  employee_id  DESC ;

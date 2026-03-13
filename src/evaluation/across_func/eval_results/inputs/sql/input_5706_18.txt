@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN clients JOIN tasks ON tasks.employee_id = employees.id ON projects.department_id = departments.id WHERE  assigned_to_employee >=Finance OR  retirement_plan >=Retail AND  status <In Progress ORDER BY  city  ASC ;

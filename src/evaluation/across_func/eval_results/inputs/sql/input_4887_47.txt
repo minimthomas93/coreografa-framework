@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN locations JOIN meetings JOIN benefits ON meetings.project_id = projects.id ON tasks.project_id = projects.id ON tasks.employee_id = employees.id ORDER BY  country  ASC ;

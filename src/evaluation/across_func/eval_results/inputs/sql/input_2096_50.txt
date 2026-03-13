@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  industry <= 50000.5 ;

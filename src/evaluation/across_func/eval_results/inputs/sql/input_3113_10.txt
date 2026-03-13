@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  location  LIKE Python OR  asset_name >= 50000.5  AND  completion_date != 120000.0  OR  start_date =Hamburg AND  bonus > 50000.5  OR  health_insurance < 120000.0  OR  name !=Berlin OR  city = 50000.5  OR  assigned_to_employee > 50000.5  OR  country = 50000.5  OR  first_name =Finance OR  base_salary >= 50 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN departments ON assets.assigned_to_employee = employees.id WHERE  status <= 30000.0  AND  project_id =Operations ORDER BY  contact_email  ASC ;

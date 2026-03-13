@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  retirement_plan < 60  AND  hire_date < 50  OR  id != 50000.5  OR  city > 4  AND  country >= 75000.99  AND  hire_date != 120000.0  OR  retirement_plan <=Engineering OR  health_insurance >=Python AND  location =Hamburg OR  hire_date > 50000.5  AND  first_name <= 40  OR  industry <=Dusseldorf AND  country > 30 ;

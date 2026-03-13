@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  status =Done AND  bonus > 30  AND  name >R&D AND  contact_email =Finance OR  project_id < 120000.0  OR  end_date >= 75000.99  OR  contact_email != 40  OR  health_insurance < 75000.99  OR  hire_date < 30000.0  OR  training_name <=Stuttgart OR  id > 50  OR  assigned_to_employee >=In Progress OR  first_name  LIKE  75000.99  ORDER BY  city  DESC ;

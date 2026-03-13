@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN clients ON assets.assigned_to_employee = employees.id ORDER BY  completion_date  DESC ;

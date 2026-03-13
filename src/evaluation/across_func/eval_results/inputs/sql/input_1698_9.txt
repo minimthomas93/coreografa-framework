@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN locations JOIN tasks ON meetings.client_id = clients.id ON tasks.employee_id = employees.id;

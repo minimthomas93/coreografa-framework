@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  industry >= 30000.0  OR  industry  LIKE Retail;

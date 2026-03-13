@@ -1,0 +1,1 @@
+SELECT  {1,10}  FROM departments JOIN meetings ON meetings.client_id = clients.id WHERE  country  LIKE Leipzig;

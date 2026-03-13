@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  location != 50000.5  OR  department_id != 50000.5  AND  asset_name  LIKE  60  OR  age > 4  AND  retirement_plan >= 40  AND  contact_email  LIKE  30000.0  OR  asset_type <Support;

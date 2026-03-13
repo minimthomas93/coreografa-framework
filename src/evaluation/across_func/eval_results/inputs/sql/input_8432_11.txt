@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  country  LIKE Todo ORDER BY  last_name  ASC ;

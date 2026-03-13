@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  country <= 30000.0  OR  location < 75000.99  AND  status <=Munich;

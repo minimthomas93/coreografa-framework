@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN locations JOIN locations JOIN locations ON meetings.project_id = projects.id ON tasks.employee_id = employees.id ON employees.department_id = departments.id;

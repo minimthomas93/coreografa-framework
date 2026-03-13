@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN trainings JOIN clients ON assets.assigned_to_employee = employees.id ON assets.assigned_to_employee = employees.id ORDER BY  department_id  DESC ;

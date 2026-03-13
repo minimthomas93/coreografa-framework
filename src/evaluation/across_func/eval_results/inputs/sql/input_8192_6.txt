@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN tasks ON benefits.employee_id = employees.id WHERE  department_id  LIKE  18  AND  department_id !=Todo OR  age  LIKE  120000.0  AND  retirement_plan <= 50  AND  asset_type != 30  AND  status != 2  AND  health_insurance != 60  OR  bonus < 75000.99  AND  employee_id !=Excel;

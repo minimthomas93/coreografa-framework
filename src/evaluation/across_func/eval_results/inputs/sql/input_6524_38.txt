@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN salaries ON salaries.employee_id = employees.id;

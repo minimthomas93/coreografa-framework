@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN clients ON trainings.employee_id = employees.id ORDER BY  health_insurance  DESC ;

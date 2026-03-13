@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  status <= 120000.0  OR  end_date >=Retail OR  end_date >Done OR  hire_date != 25  AND  name  LIKE R&D AND  assigned_to_employee !=Communication OR  assigned_to_employee >Finance OR  id =Cologne AND  city >Sales AND  hire_date > 75000.99  AND  project_id = 1  AND  description =Finance AND  country = 1  OR  hire_date <= 3  ORDER BY  hire_date  DESC ;

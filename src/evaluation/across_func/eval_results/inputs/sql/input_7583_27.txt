@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN projects ON salaries.employee_id = employees.id ORDER BY  employee_id  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  contact_email > 75000.99 ;

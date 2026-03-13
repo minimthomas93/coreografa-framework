@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  first_name > 30  ORDER BY  country  DESC ;

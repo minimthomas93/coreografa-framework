@@ -1,0 +1,1 @@
+SELECT  {21,30}  FROM tasks WHERE  asset_name  LIKE  50000.5 ;

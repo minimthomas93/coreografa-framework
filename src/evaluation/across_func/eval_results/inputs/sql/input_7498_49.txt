@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  health_insurance != 30  OR  country >=Operations OR  name >= 18  OR  location <Berlin AND  country != 18  AND  completion_date < 3  AND  city > 25  AND  employee_id != 120000.0  OR  country <= 18  AND  bonus <= 75000.99  AND  name >= 30000.0  AND  name >=R&D AND  retirement_plan  LIKE  2  ORDER BY  base_salary  ASC ;

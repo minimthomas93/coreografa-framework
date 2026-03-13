@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  industry <= 120000.0 ;

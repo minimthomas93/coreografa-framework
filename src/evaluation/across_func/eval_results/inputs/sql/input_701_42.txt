@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  country >= 75000.99 ;

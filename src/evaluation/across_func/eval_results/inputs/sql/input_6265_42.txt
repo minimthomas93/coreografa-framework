@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN assets ON tasks.project_id = projects.id WHERE  industry > 50  AND  health_insurance < 50000.5  OR  city <Done OR  industry >= 25  OR  department_id  LIKE  50000.5  AND  completion_date =R&D AND  status < 120000.0  AND  status != 30000.0  AND  end_date <Retail OR  last_name <R&D ORDER BY  bonus  ASC ;

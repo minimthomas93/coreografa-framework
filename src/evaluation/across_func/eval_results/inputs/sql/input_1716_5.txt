@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings ORDER BY  start_date  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN trainings ON assets.assigned_to_employee = employees.id WHERE  first_name  LIKE  50000.5 ;

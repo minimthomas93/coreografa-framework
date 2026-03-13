@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN projects JOIN salaries JOIN projects ON assets.assigned_to_employee = employees.id ON employees.department_id = departments.id ON tasks.employee_id = employees.id;

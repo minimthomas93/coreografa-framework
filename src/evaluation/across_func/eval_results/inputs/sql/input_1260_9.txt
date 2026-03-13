@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  end_date !=Todo AND  last_name = 75000.99  OR  status >= 1  AND  asset_type = 50000.5  AND  last_name <Stuttgart OR  base_salary >= 30000.0  AND  department_id >= 60  OR  asset_type <= 40  AND  meeting_date > 50  OR  status  LIKE  2 ;

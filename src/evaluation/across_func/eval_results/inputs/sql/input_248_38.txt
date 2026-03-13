@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  first_name  LIKE Munich OR  completion_date >= 50000.5  OR  industry <Berlin AND  first_name < 18  OR  project_id = 30000.0  OR  country < 40  OR  country <= 30  OR  project_id < 75000.99  OR  industry =Stuttgart AND  base_salary = 50000.5  AND  country < 50 ;

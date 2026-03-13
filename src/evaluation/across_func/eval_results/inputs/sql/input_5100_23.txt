@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  completion_date <=Support ORDER BY  description  ASC ;

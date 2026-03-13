@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN projects ON meetings.client_id = clients.id WHERE  city > 50000.5  OR  age > 30000.0  OR  project_id > 2  OR  completion_date >= 30000.0  AND  country < 1  OR  status = 50000.5  AND  country =Retail OR  hire_date < 50000.5  OR  completion_date <= 30000.0  OR  city <=Tech AND  project_id  LIKE  75000.99  ORDER BY  name  DESC ;

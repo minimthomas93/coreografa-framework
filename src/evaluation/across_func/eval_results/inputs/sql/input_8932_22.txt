@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN departments ON salaries.employee_id = employees.id WHERE  retirement_plan  LIKE  18  AND  base_salary < 75000.99  OR  base_salary >= 50000.5  OR  location >=Todo OR  country >=Hamburg AND  department_id >= 50000.5  OR  last_name < 75000.99  OR  description <= 50000.5  AND  meeting_date = 50  AND  industry >= 18 ;

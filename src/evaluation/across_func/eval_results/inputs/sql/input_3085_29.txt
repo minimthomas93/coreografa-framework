@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN employees JOIN projects ON projects.department_id = departments.id ON projects.department_id = departments.id WHERE  bonus <= 50  AND  name >= 30000.0  AND  bonus = 120000.0 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  status = 4  ORDER BY  asset_name  ASC ;

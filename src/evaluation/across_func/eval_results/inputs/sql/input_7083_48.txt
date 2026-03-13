@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  description <= 75000.99  AND  age < 120000.0  OR  description > 30000.0  ORDER BY  industry  DESC ;

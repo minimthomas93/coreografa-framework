@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  location != 120000.0  AND  industry >= 60  OR  hire_date = 3  AND  hire_date > 50  OR  start_date <= 50  AND  location <= 50000.5  OR  bonus <=Done AND  name <Finance OR  end_date <= 120000.0  AND  base_salary !=Todo AND  asset_type <= 120000.0  AND  meeting_date  LIKE  75000.99  AND  department_id  LIKE  60  OR  assigned_to_employee = 50000.5 ;

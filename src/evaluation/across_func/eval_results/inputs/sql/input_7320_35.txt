@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN clients ON assets.assigned_to_employee = employees.id ORDER BY  asset_type  ASC ;

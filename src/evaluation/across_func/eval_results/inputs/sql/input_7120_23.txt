@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  health_insurance >Education OR  project_id < 4  AND  last_name !=Hamburg OR  description >= 30000.0  OR  first_name != 2  AND  training_name = 30000.0  OR  base_salary <Munich OR  city = 50000.5  OR  description >=Todo AND  bonus = 50000.5  OR  hire_date <=Done AND  asset_type  LIKE Support;

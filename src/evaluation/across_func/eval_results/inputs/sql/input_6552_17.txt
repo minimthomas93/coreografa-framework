@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  first_name  LIKE  40  OR  city = 30000.0  OR  name > 30000.0  AND  department_id  LIKE Excel AND  meeting_date != 50000.5  OR  name > 4  AND  assigned_to_employee >=Retail OR  name >= 4  OR  last_name >= 40  OR  bonus > 25  AND  id >HR AND  country != 75000.99  AND  age  LIKE Excel AND  contact_email  LIKE  75000.99 ;

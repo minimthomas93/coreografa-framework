@@ -1,0 +1,9 @@
+function_name,input_id,runtime_ns,memory_after,memory_peak,count_tables,count_column_name
+sql_apsw,8195_1,6487700,92,4555,1,56
+sql_sqlite,8195_1,5868800,966,3085,1,56
+sql_apsw,8195_2,10023400,92,4622,1,56
+sql_sqlite,8195_2,5284700,836,3144,1,56
+sql_apsw,8195_3,5684500,92,4549,1,56
+sql_sqlite,8195_3,6035500,836,3068,1,56
+sql_apsw,8195_4,5815400,92,4583,1,56
+sql_sqlite,8195_4,5546400,836,2575,1,56

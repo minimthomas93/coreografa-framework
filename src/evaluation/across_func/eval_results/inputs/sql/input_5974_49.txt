@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  asset_type <=Dusseldorf ORDER BY  asset_name  DESC ;

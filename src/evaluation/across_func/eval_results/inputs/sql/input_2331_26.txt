@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN trainings ON tasks.project_id = projects.id WHERE  project_id >= 60  ORDER BY  asset_type  DESC ;

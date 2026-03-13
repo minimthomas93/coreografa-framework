@@ -1,0 +1,1 @@
+SELECT  *  FROM locations ORDER BY  last_name  ASC ;

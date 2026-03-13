@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  hire_date = 40  AND  asset_name  LIKE  50  AND  industry > 30000.0  OR  base_salary != 40  OR  age = 30000.0  AND  project_id >= 75000.99  AND  project_id >Support OR  project_id != 50000.5  OR  asset_type  LIKE  30  OR  assigned_to_employee = 2  AND  city  LIKE  2  OR  name = 50000.5  OR  meeting_date  LIKE  60 ;

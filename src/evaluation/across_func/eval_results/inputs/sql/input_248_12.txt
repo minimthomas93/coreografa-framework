@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN benefits JOIN trainings ON employees.department_id = departments.id ON salaries.employee_id = employees.id WHERE  asset_type != 120000.0  AND  name > 4  OR  bonus < 2  ORDER BY  end_date  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN clients ON employees.department_id = departments.id WHERE  hire_date = 60  AND  meeting_date > 1 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  industry > 50000.5 ;

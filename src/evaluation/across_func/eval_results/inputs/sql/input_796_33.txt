@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  status < 30000.0  AND  age <=Stuttgart AND  employee_id <=Finance AND  last_name = 50  OR  age =Todo OR  meeting_date >Marketing OR  id !=Tech OR  department_id =Communication ORDER BY  status  ASC ;

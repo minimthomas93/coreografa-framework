@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN tasks JOIN assets ON trainings.employee_id = employees.id ON meetings.client_id = clients.id WHERE  project_id >Communication ORDER BY  contact_email  ASC ;

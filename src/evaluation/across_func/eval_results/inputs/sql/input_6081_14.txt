@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN projects ON salaries.employee_id = employees.id WHERE  last_name < 50000.5  AND  last_name >=In Progress AND  contact_email != 1  AND  employee_id >Cologne AND  asset_type !=Communication;

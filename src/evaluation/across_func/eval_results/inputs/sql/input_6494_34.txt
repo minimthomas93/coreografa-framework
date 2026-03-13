@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  location >Finance OR  location <= 60  OR  project_id <= 18  AND  assigned_to_employee != 1  AND  base_salary < 25  OR  first_name =Done AND  name > 30000.0  OR  location < 120000.0  OR  base_salary <=Support OR  name <=Dusseldorf OR  base_salary  LIKE  120000.0  OR  base_salary > 50000.5  AND  retirement_plan <HR;

@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN meetings JOIN benefits ON tasks.employee_id = employees.id ON meetings.client_id = clients.id;

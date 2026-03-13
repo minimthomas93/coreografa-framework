@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN projects ON projects.department_id = departments.id WHERE  industry = 50000.5 ;

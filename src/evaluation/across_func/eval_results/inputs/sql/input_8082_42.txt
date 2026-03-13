@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  hire_date != 2  OR  start_date <=Dusseldorf OR  department_id <= 75000.99  OR  location > 30000.0  AND  start_date > 30000.0  OR  contact_email >= 120000.0  AND  hire_date =Engineering OR  description <=HR AND  base_salary != 120000.0  OR  start_date =Sales OR  industry = 50000.5  ORDER BY  id  DESC ;

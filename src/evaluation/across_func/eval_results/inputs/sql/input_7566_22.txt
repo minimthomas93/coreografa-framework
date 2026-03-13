@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  retirement_plan <Done OR  completion_date  LIKE  30  OR  project_id  LIKE  50000.5  OR  base_salary > 3  AND  asset_type > 30000.0  OR  training_name != 1  AND  bonus <= 120000.0  OR  start_date <= 120000.0  OR  asset_type <= 120000.0  OR  meeting_date <=In Progress;

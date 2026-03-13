@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN assets ON tasks.employee_id = employees.id WHERE  industry =Education ORDER BY  hire_date  DESC ;

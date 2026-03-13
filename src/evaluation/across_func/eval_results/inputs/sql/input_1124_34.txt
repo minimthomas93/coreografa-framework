@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  training_name =Leadership OR  name >= 30  AND  last_name >= 40  AND  base_salary <= 3  OR  first_name >Munich AND  city  LIKE  4  OR  project_id  LIKE  25  OR  first_name > 4  AND  meeting_date = 25  AND  last_name >= 2  OR  base_salary != 30000.0  OR  age  LIKE  1  ORDER BY  department_id  ASC ;

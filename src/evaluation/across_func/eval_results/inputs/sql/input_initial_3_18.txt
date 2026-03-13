@@ -1,0 +1,1 @@
+SELECT  {31,40}  FROM clients JOIN employees ON meetings.client_id = clients.id WHERE  completion_date  LIKE  30 ;

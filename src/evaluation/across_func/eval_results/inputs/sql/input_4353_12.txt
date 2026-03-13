@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  start_date <Finance OR  training_name >=HR AND  location >= 120000.0  OR  industry  LIKE Frankfurt AND  department_id <= 3  OR  last_name >= 50000.5  AND  completion_date >= 30  AND  asset_name = 18  AND  country <=Munich AND  project_id >= 18  AND  asset_name  LIKE  50000.5  OR  hire_date > 4 ;

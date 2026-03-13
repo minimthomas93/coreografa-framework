@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  meeting_date <=Retail ORDER BY  end_date  DESC ;

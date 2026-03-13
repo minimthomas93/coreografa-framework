@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN clients ON salaries.employee_id = employees.id WHERE  asset_type >= 50000.5  OR  age =Munich OR  first_name < 25  OR  end_date  LIKE  60  OR  last_name  LIKE  30  OR  meeting_date  LIKE  1  AND  status <Finance OR  department_id < 30000.0  AND  asset_name = 2  OR  age < 75000.99  OR  hire_date != 30000.0  AND  project_id > 2 ;

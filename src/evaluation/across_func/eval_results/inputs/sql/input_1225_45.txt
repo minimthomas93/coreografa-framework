@@ -1,0 +1,1 @@
+SELECT  completion_date , location  hire_date , end_date , asset_name  meeting_date  start_date , contact_email , country , country , training_name , asset_type , description  contact_email  location , training_name , assigned_to_employee , assigned_to_employee , last_name , last_name  project_id , retirement_plan  FROM clients ORDER BY  assigned_to_employee  DESC ;

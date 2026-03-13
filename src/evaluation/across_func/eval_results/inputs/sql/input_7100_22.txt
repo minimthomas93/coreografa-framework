@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  age  LIKE Munich AND  first_name != 2  OR  employee_id > 75000.99  OR  employee_id >= 120000.0  OR  name = 50000.5  OR  hire_date != 120000.0  AND  department_id > 75000.99  OR  location != 75000.99  AND  city  LIKE  50  OR  id <= 75000.99  AND  training_name  LIKE  120000.0  OR  bonus >Support ORDER BY  employee_id  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN benefits JOIN salaries ON employees.department_id = departments.id ON assets.assigned_to_employee = employees.id WHERE  description >= 50000.5  ORDER BY  retirement_plan  ASC ;

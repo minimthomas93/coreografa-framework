@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  status > 40  AND  location <= 40  AND  meeting_date >= 1  OR  bonus >=Todo OR  base_salary < 18  OR  health_insurance < 50  AND  training_name >= 1  AND  asset_type > 60  OR  age < 50000.5  OR  start_date >Stuttgart OR  description >=Finance AND  meeting_date <Finance AND  description != 75000.99  OR  age != 75000.99  ORDER BY  employee_id  ASC ;

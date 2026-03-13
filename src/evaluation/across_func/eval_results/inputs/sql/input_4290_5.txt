@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  status != 18  AND  asset_type >Hamburg OR  department_id != 120000.0  ORDER BY  contact_email  ASC ;

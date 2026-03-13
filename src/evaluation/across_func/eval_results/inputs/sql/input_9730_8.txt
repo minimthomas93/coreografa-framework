@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN meetings JOIN assets JOIN salaries ON meetings.project_id = projects.id ON projects.department_id = departments.id ON tasks.employee_id = employees.id ORDER BY  bonus  DESC ;

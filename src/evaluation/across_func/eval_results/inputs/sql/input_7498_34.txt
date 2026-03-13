@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  age !=Frankfurt AND  employee_id != 50000.5  AND  end_date >In Progress AND  hire_date > 50000.5  OR  description != 30000.0  AND  completion_date >= 75000.99  OR  training_name < 50000.5  AND  hire_date <=Communication AND  retirement_plan <= 3  AND  location >= 1  AND  description < 120000.0  OR  age = 40  OR  id >= 1 ;

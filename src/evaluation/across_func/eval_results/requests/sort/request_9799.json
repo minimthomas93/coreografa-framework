@@ -1,0 +1,39 @@
+{
+    "function": "quicksort",
+    "initial_pop": [
+        "906,37737,-22,-85301,95196,7929,-428,-51,73780,-78,2,9,-2,14520,-66,-797,-33905,79913\n"
+    ],
+    "initial_pop_files": [
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_1210_21.txt"
+    ],
+    "metric_constraints": [
+        {
+            "name": "runtime_ns",
+            "op": ">=",
+            "type": "metric",
+            "value": 1099050.0
+        },
+        {
+            "name": "runtime_ns",
+            "op": "<=",
+            "type": "metric",
+            "value": 1316920.0
+        }
+    ],
+    "name": "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\split_summary\\sort\\quicksort_summary.csv",
+    "prop_constraints": [
+        {
+            "name": "length",
+            "op": ">=",
+            "type": "prop",
+            "value": 18.0
+        },
+        {
+            "name": "length",
+            "op": "<=",
+            "type": "prop",
+            "value": 18.0
+        }
+    ],
+    "request_type": "frequency request"
+}

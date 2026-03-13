@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN trainings JOIN salaries JOIN departments ON meetings.client_id = clients.id ON tasks.project_id = projects.id ON assets.assigned_to_employee = employees.id ORDER BY  base_salary  ASC ;

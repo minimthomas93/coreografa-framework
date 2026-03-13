@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN locations JOIN assets ON assets.assigned_to_employee = employees.id ON tasks.project_id = projects.id;

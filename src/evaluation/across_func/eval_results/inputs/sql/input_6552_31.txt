@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  bonus  LIKE Dusseldorf AND  completion_date  LIKE  75000.99  OR  bonus >= 25  AND  city <=In Progress AND  name >=Done OR  id = 2  OR  contact_email = 75000.99  OR  hire_date  LIKE  18  AND  health_insurance > 30000.0  OR  name  LIKE  3  ORDER BY  name  DESC ;

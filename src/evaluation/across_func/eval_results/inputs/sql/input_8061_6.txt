@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN trainings JOIN meetings ON meetings.project_id = projects.id ON meetings.client_id = clients.id;

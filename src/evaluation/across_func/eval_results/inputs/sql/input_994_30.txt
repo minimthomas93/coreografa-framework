@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN projects JOIN clients ON salaries.employee_id = employees.id ON benefits.employee_id = employees.id WHERE  id < 30000.0 ;

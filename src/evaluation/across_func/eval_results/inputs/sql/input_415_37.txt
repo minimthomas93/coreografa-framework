@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN trainings ON assets.assigned_to_employee = employees.id;

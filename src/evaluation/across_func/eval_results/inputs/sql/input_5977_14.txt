@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  training_name < 18  OR  project_id = 30000.0  AND  contact_email >Marketing OR  last_name <=Munich AND  industry !=Done OR  city >Dusseldorf AND  contact_email != 75000.99  AND  industry > 4  OR  meeting_date = 30  OR  asset_type != 18 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN employees ON tasks.project_id = projects.id;

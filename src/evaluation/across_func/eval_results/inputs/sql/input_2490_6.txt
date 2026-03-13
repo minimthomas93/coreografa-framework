@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN salaries JOIN assets JOIN clients ON salaries.employee_id = employees.id ON projects.department_id = departments.id ON benefits.employee_id = employees.id WHERE  location =Munich ORDER BY  id  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  first_name  LIKE  60  ORDER BY  asset_name  ASC ;

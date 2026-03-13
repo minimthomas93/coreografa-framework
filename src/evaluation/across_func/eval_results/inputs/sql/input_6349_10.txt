@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN meetings ON meetings.client_id = clients.id WHERE  department_id <Finance;

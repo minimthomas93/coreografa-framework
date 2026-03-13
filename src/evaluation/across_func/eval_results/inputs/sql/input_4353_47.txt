@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN departments ON projects.department_id = departments.id;

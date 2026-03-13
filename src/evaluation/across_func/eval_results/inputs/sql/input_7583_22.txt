@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN salaries ON meetings.project_id = projects.id WHERE  training_name = 120000.0  OR  description >= 75000.99  AND  training_name >Retail AND  hire_date >= 40  OR  asset_name >= 2  OR  employee_id >=Cologne OR  status >= 1  AND  bonus != 25  AND  asset_name  LIKE  40 ;

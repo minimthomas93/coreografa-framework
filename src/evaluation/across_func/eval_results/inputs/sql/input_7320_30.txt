@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  country  LIKE  30000.0  AND  city = 25  AND  hire_date <= 30000.0  OR  meeting_date = 2  OR  city != 2  AND  location >=Munich AND  city <=Healthcare AND  project_id  LIKE Finance AND  assigned_to_employee >= 120000.0  OR  asset_name <Engineering;

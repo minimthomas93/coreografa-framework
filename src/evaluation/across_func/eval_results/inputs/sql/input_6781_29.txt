@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN projects JOIN clients ON employees.department_id = departments.id ON assets.assigned_to_employee = employees.id ORDER BY  country  DESC ;

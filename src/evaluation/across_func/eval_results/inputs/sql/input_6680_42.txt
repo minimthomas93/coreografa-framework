@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN employees JOIN locations ON meetings.project_id = projects.id ON meetings.project_id = projects.id WHERE  assigned_to_employee <Sales ORDER BY  start_date  DESC ;

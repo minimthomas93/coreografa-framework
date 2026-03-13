@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  employee_id !=Hamburg AND  retirement_plan =In Progress AND  training_name <HR OR  end_date = 30000.0  AND  base_salary  LIKE  25  AND  end_date >= 40  AND  country <=Dusseldorf OR  industry < 30  OR  health_insurance >= 1  AND  completion_date > 2  OR  status  LIKE  120000.0  OR  bonus =SQL;

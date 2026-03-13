@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN meetings JOIN trainings ON salaries.employee_id = employees.id ON tasks.employee_id = employees.id WHERE  meeting_date  LIKE  50000.5 ;

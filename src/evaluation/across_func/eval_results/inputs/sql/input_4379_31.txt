@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN clients ON salaries.employee_id = employees.id WHERE  country > 120000.0  ORDER BY  asset_type  ASC ;

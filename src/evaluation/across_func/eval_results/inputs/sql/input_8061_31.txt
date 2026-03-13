@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  last_name < 40  AND  assigned_to_employee <Hamburg AND  start_date <= 40  OR  health_insurance < 120000.0  AND  training_name <Engineering AND  base_salary < 18  AND  age >SQL AND  id = 3  OR  id <= 75000.99  OR  completion_date = 30  OR  industry <Stuttgart;

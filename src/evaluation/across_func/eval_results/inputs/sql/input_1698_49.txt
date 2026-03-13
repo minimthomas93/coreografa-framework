@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN tasks JOIN assets JOIN benefits ON benefits.employee_id = employees.id ON benefits.employee_id = employees.id ON tasks.employee_id = employees.id WHERE  name >= 18  AND  location !=Sales OR  employee_id  LIKE  75000.99  AND  city < 3  AND  location  LIKE  4  ORDER BY  bonus  DESC ;

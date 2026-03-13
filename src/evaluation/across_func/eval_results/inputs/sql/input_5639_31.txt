@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  retirement_plan = 75000.99  AND  completion_date >= 60  AND  assigned_to_employee >= 75000.99  AND  name != 1  AND  retirement_plan  LIKE  40  OR  name =Finance OR  department_id  LIKE  1  AND  id =Education OR  base_salary >= 25  OR  base_salary >Todo AND  age =Finance AND  contact_email = 18  AND  status != 75000.99 ;

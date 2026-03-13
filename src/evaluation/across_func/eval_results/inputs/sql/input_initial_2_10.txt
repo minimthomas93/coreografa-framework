@@ -1,0 +1,1 @@
+SELECT  {21,30}  FROM tasks JOIN benefits ON meetings.project_id = projects.id WHERE  project_id != 50000.5  OR  industry  LIKE  60  AND  assigned_to_employee <Berlin;

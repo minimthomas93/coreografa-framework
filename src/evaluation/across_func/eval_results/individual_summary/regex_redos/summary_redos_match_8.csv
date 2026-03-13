@@ -1,0 +1,11 @@
+function_name,input_id,runtime_ns,memory_after,memory_peak,count_a
+redos_match,9315_1,714900,1368,3902,14
+not_redos_match,9315_1,447700,696,2128,14
+redos_match,9315_2,782100,1368,3900,12
+not_redos_match,9315_2,453500,696,2126,12
+redos_match,9315_3,694600,1368,3898,10
+not_redos_match,9315_3,453400,696,2124,10
+redos_match,9315_4,814300,1368,3901,13
+not_redos_match,9315_4,487300,696,2127,13
+redos_match,9315_5,730300,1368,3899,11
+not_redos_match,9315_5,448200,696,2125,11

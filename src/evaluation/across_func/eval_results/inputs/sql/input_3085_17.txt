@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN assets JOIN projects ON tasks.employee_id = employees.id ON tasks.employee_id = employees.id;

@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  base_salary < 120000.0  AND  completion_date !=Education AND  industry  LIKE  30000.0  AND  first_name != 3  AND  training_name  LIKE In Progress AND  description <Leipzig OR  name <Education AND  description < 2  OR  start_date  LIKE  50000.5  AND  age > 1  AND  training_name < 30000.0  AND  age >= 50000.5 ;

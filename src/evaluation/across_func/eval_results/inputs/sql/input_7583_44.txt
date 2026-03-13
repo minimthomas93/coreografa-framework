@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN clients JOIN salaries ON tasks.project_id = projects.id ON meetings.project_id = projects.id WHERE  asset_name <= 2  OR  training_name != 120000.0 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN projects JOIN locations ON benefits.employee_id = employees.id ON meetings.project_id = projects.id ORDER BY  city  ASC ;

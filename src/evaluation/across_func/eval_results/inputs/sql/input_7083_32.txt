@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  last_name >=Python AND  start_date != 4  AND  training_name >= 3  AND  training_name > 2  AND  description > 40  AND  start_date !=Sales OR  description >Python AND  location < 30  AND  age <=Support AND  name >=Education;

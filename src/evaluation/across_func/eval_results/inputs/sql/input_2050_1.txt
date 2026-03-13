@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  start_date = 3  OR  employee_id > 1  AND  assigned_to_employee <=Todo OR  industry = 120000.0  AND  name >=Education OR  age <Operations AND  health_insurance  LIKE Tech AND  training_name >Frankfurt OR  assigned_to_employee >= 30000.0  OR  id <Healthcare OR  location <= 60  AND  description >=Sales AND  location <Python OR  location >=Frankfurt;

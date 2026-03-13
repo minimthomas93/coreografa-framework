@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN tasks ON tasks.employee_id = employees.id WHERE  assigned_to_employee  LIKE  18 ;

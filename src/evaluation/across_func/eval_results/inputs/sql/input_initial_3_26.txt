@@ -1,0 +1,1 @@
+SELECT  {31,40}  FROM employees JOIN salaries ON assets.assigned_to_employee = employees.id ORDER BY  asset_type  ASC ;

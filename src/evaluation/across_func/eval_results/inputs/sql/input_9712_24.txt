@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN locations ON projects.department_id = departments.id WHERE  retirement_plan >= 3 ;

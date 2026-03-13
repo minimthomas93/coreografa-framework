@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN locations JOIN assets ON benefits.employee_id = employees.id ON assets.assigned_to_employee = employees.id WHERE  first_name >= 18  AND  industry >R&D ORDER BY  health_insurance  DESC ;

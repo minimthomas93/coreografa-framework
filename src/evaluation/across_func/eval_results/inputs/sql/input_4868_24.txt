@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  status != 50000.5  OR  retirement_plan =Tech;

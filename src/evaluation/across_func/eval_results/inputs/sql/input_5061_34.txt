@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  bonus = 4  AND  hire_date > 50000.5  AND  asset_name >=Stuttgart OR  completion_date <Marketing OR  completion_date = 2  AND  completion_date  LIKE Tech OR  last_name > 30  AND  industry <= 30000.0  OR  age != 18  AND  completion_date = 50000.5  AND  completion_date < 50000.5  ORDER BY  asset_name  DESC ;

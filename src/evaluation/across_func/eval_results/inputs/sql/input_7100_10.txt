@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  age >Engineering OR  health_insurance <=Tech AND  assigned_to_employee <=Finance AND  city = 50000.5  OR  employee_id = 75000.99  AND  status >= 120000.0  AND  hire_date != 4  OR  city = 75000.99  OR  name != 40  ORDER BY  base_salary  ASC ;

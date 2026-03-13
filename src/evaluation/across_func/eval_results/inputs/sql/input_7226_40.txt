@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN meetings ON trainings.employee_id = employees.id WHERE  status != 75000.99 ;

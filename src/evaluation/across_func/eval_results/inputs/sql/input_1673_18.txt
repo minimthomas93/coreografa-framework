@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN projects ON assets.assigned_to_employee = employees.id WHERE  country <Stuttgart AND  status != 25  AND  end_date > 40  AND  city != 25  ORDER BY  location  ASC ;

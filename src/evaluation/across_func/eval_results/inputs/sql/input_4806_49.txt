@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN projects ON trainings.employee_id = employees.id WHERE  industry < 30  OR  meeting_date >=Sales OR  last_name >= 50000.5  OR  meeting_date <Excel AND  industry = 30000.0  OR  bonus >R&D OR  first_name > 50000.5  OR  assigned_to_employee <= 75000.99  AND  city  LIKE  75000.99  OR  industry <=Finance OR  age >=Retail AND  asset_type != 75000.99 ;

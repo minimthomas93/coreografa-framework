@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN trainings JOIN tasks JOIN meetings JOIN assets JOIN benefits ON meetings.project_id = projects.id ON tasks.project_id = projects.id ON assets.assigned_to_employee = employees.id ON benefits.employee_id = employees.id ON trainings.employee_id = employees.id ORDER BY  industry  DESC ;

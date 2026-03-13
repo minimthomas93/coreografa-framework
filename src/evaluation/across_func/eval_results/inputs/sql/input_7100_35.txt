@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN meetings ON employees.department_id = departments.id WHERE  health_insurance !=Engineering OR  location > 60  OR  assigned_to_employee >= 1  AND  last_name = 4  AND  status  LIKE  18  AND  age = 120000.0  AND  contact_email >= 30000.0  OR  name =SQL OR  status >Stuttgart OR  id <Python OR  age >Python;

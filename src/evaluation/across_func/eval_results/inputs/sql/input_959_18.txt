@@ -1,0 +1,1 @@
+SELECT  hire_date , asset_name , training_name  FROM assets;

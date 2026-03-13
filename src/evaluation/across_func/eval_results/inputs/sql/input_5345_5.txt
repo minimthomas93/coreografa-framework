@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  assigned_to_employee <= 50000.5  AND  asset_name <=Python OR  contact_email != 75000.99  OR  employee_id = 60  AND  employee_id <= 25  OR  employee_id > 2  AND  asset_name  LIKE Tech OR  status > 50000.5  OR  status >=R&D AND  description > 30  AND  city >= 30000.0  OR  location =Healthcare AND  id > 50000.5 ;

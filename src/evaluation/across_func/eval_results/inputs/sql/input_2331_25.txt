@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN locations ON meetings.client_id = clients.id WHERE  id <= 120000.0  ORDER BY  asset_name  ASC ;

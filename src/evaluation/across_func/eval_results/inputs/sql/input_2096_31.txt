@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN locations ON trainings.employee_id = employees.id WHERE  start_date  LIKE  120000.0  ORDER BY  asset_type  ASC ;

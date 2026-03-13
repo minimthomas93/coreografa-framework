@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  description =Dusseldorf OR  completion_date >= 25  AND  last_name >=HR OR  location != 60  OR  completion_date >= 120000.0  AND  meeting_date <=Retail AND  country = 75000.99  AND  status = 25  AND  age <=Engineering AND  first_name <= 18  AND  contact_email < 50000.5  AND  project_id =Retail OR  age != 30000.0 ;

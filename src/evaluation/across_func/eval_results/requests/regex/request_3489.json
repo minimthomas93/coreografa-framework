@@ -1,0 +1,89 @@
+{
+    "function": "re_match",
+    "initial_pop": [
+        "79?(5{6,8}|3*q[j-wn]{1,4})*(p{8,3}|[k7-z]+)+|([1-7]|(kj)|n)|[v]|[o9]\n",
+        "[e-9]{4}n|[1]?|[o]*[mu-f][s-r9-h]*(((d|[h-zw-o]+)|c|5{2,9})*|a[7])(q)\n",
+        "([c7]5)|(3([v]{1})*|q)qb|q[0]\n",
+        "[3]+|j|l[t4-8][t-j]{4,8}a{6}[q-0s]+a|1+(4?(d|e*))*\n",
+        "[n-2]((((((h+)*){8,4}[i-5]|[e]+){5,4}[x]|3?)[wa]|[83]+)j)?tl[u]|n?\n",
+        "q{8,7}\n",
+        "1*[q-b3-j]8?|fn[a-v]?5*i{2,4}(r)|n*|(([sr][p]){5}|r*)oy|y*[n]\n",
+        "u|is?[g8-k]l{3,7}[i-b]([h](y{2,7}(z)[9]{9}|e[7])*c[9]|(7))[m]+\n",
+        "(x)[l-5i-l]+|5(qe?m*)n*((b|[a])?|[l]((j[v]*2+)?)?){4,5}[x]i\n",
+        "((4(((a|e)?|88gh{5,7}){8,5}v[ay]t{5}|[6-1]e{1})+f+))2*[1]|[t]?\n",
+        "((o{5}|(h*){8,3}y)+|c*)[h-8f-a]|[q]|3*|([0-y]*(z?|d){6,1})1{7,7}|5p*\n",
+        "[x-e]+k(w{8})+|[s]+[9]j23{6,3}(w)\n",
+        "(([5]*yw*[k]?1+|[u]{7}|p*[p-uw-b]|p*|y+(t)a(v)|f|y)|[r]|2)\n",
+        "z+((([j-a]?|([0]+)|(([9f]))?([k-a]){7}([b5]*)|j5?)3|0+|[xe]))[v]?\n",
+        "[w][o-88]*\n",
+        "[d]{3,9}[j]\n",
+        "smj9fg1fyps1zmty4xeuq\n",
+        "w*(([e-ql-d]{8}|(([hg-z][n-m]*)0?[g-a]+d|1|[2-f]{2})|([6])){3}|[hg-z])(9?)\n",
+        "[9-u6-i]{4}[ma-y]?w+|((4[d6]+z?[yi](h([3])z?|wl*)6{9,7})+n?p)\n",
+        "([o-r]*(([h-e][m]|m+([x]|(3)|j?|1?|t)|(n)|e){3}|x|g)e)|[6-3]|b\n",
+        "v((w[r]?|(1((8*([q-n]+h|d*z+){7}))?7?l){4}lj?|c+)+|a{8})\n",
+        "[v-q]|d?|0{2,2}((n|e{7})*|[m-h]((([1n]*|pr?)?[vn]?|[c-o])){1})|([m-3])\n",
+        "[f]?|u?|([s]+){6}([9-bd-7]+([z9-2]+[e]([c]|(k+))*3*){7}([h])?){4,4}|[w-s]\n",
+        "d|((p*|([9-or]27((y)?c([q-o][o])(4)|k[x])*)+)){7,1}d{7}|h|p\n",
+        "i+|([a-g](6+|[7]+|[c-t2]*)*|j{1,2})(((h+)[x]|[y][q]|[5-q]))m?|n*2\n",
+        "(d{3}c|[p-3t]|[gj]|((([6]{7,7}|0|o|lq+))*|4|6{3})?[p]?|[n-b]+)bu*\n"
+    ],
+    "initial_pop_files": [
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_1896_1.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_2258_27.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_1289_35.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_1673_29.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_1840_31.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_1853_17.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_2218_2.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_2285_33.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_2330_27.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_1082_28.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_2344_15.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_2389_45.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_2330_9.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_1840_48.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_276_12.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_276_13.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_2803_23.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_2344_6.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_1642_34.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_1642_4.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_1642_6.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_1642_7.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_1642_8.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_1642_9.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_1688_36.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_1082_23.txt"
+    ],
+    "metric_constraints": [
+        {
+            "name": "memory_peak",
+            "op": ">=",
+            "type": "metric",
+            "value": 10663.2
+        },
+        {
+            "name": "memory_peak",
+            "op": "<=",
+            "type": "metric",
+            "value": 11806.1
+        }
+    ],
+    "name": "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\split_summary\\regex\\re_match_summary.csv",
+    "prop_constraints": [
+        {
+            "name": "count_pattern_tokens",
+            "op": ">=",
+            "type": "prop",
+            "value": 8.0
+        },
+        {
+            "name": "count_pattern_tokens",
+            "op": "<=",
+            "type": "prop",
+            "value": 36.0
+        }
+    ],
+    "request_type": "frequency request"
+}

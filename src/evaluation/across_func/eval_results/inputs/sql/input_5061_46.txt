@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN clients ON assets.assigned_to_employee = employees.id WHERE  completion_date > 30000.0  OR  health_insurance >= 1  AND  training_name > 30000.0  OR  bonus >= 120000.0  OR  location > 1  AND  first_name <Dusseldorf AND  status = 75000.99  OR  completion_date >= 30  OR  last_name >Sales AND  city != 25  AND  industry <=Munich OR  age >=Education;

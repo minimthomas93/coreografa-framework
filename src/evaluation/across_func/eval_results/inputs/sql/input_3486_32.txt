@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN salaries ON employees.department_id = departments.id WHERE  hire_date <Hamburg AND  country > 75000.99  OR  id  LIKE  2  AND  retirement_plan =Stuttgart OR  department_id <= 4  OR  city = 60  AND  asset_name != 75000.99  OR  base_salary <=Marketing AND  employee_id !=Python AND  first_name  LIKE  120000.0  AND  asset_type  LIKE  2 ;

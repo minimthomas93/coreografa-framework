@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN projects ON tasks.employee_id = employees.id WHERE  city >= 30000.0  AND  id > 40  AND  health_insurance < 50000.5  AND  hire_date <Dusseldorf OR  bonus =Operations OR  contact_email != 50000.5 ;

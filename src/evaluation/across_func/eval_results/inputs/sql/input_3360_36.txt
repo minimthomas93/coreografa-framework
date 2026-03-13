@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  completion_date != 75000.99  OR  employee_id <= 50000.5  OR  country = 75000.99  OR  status >= 1  AND  completion_date = 75000.99  OR  first_name >Support AND  id <= 2  AND  id != 75000.99  OR  location <Done OR  description >= 3  AND  start_date <= 120000.0  OR  contact_email !=Finance ORDER BY  description  ASC ;

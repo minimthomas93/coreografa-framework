@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  bonus  LIKE Finance AND  department_id >Done AND  location >= 50  OR  city !=Cologne OR  bonus =HR OR  employee_id > 120000.0  OR  city != 1  AND  hire_date >= 75000.99  OR  city < 50000.5  AND  project_id <=In Progress AND  project_id  LIKE  3  OR  hire_date < 75000.99  AND  first_name <= 50000.5  ORDER BY  base_salary  ASC ;

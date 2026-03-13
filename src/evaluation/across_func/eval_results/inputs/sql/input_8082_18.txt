@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  asset_name  LIKE  3  OR  description <= 120000.0  OR  retirement_plan  LIKE  120000.0  OR  start_date =Education OR  industry = 1  AND  description >Frankfurt OR  asset_name <= 25  AND  end_date != 4  AND  end_date > 120000.0  OR  industry <Engineering AND  health_insurance >=Stuttgart AND  location !=SQL;

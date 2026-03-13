@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  project_id <= 40  AND  health_insurance <= 75000.99  OR  asset_name <= 25  AND  contact_email != 18  AND  location <Tech AND  hire_date >= 50  AND  last_name < 120000.0  OR  meeting_date <Finance OR  retirement_plan <= 4  ORDER BY  assigned_to_employee  DESC ;

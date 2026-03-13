@@ -1,0 +1,1 @@
+SELECT  {31,40}  FROM departments JOIN clients JOIN meetings ON assets.assigned_to_employee = employees.id ON trainings.employee_id = employees.id ORDER BY  health_insurance  ASC ;

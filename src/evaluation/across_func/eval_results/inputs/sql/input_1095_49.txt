@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  country  LIKE Leipzig OR  industry = 120000.0  OR  department_id <=Healthcare AND  city <= 75000.99  OR  retirement_plan != 25 ;

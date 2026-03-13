@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN locations ON assets.assigned_to_employee = employees.id ORDER BY  base_salary  ASC ;

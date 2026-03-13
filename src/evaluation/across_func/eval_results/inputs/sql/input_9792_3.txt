@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  first_name = 30000.0  AND  city  LIKE  75000.99 ;

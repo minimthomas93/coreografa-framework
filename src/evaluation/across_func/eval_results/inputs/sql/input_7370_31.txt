@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN locations JOIN benefits JOIN benefits ON assets.assigned_to_employee = employees.id ON employees.department_id = departments.id ON tasks.project_id = projects.id ORDER BY  city  ASC ;

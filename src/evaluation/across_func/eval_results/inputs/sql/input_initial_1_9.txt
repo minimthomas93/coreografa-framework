@@ -1,0 +1,1 @@
+SELECT  location , asset_type  department_id , description , bonus , end_date , retirement_plan , base_salary , location  end_date  name  id , project_id  department_id  contact_email  description  asset_name , completion_date  end_date , name  country  location , status , bonus , bonus  industry , start_date  location  FROM tasks WHERE  health_insurance <= 50000.5 ;

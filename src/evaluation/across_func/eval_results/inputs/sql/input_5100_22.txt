@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  status != 120000.0  OR  end_date >Leadership AND  project_id  LIKE  120000.0  OR  city != 75000.99  OR  training_name <= 50000.5  OR  retirement_plan <Tech OR  asset_name > 40  AND  employee_id >Hamburg AND  last_name < 60  AND  health_insurance >Healthcare ORDER BY  description  ASC ;

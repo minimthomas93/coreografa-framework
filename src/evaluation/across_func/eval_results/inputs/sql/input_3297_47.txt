@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN employees JOIN clients ON meetings.client_id = clients.id ON benefits.employee_id = employees.id;

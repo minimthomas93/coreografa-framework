@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  last_name >= 1  OR  contact_email <= 30000.0  AND  contact_email =SQL;

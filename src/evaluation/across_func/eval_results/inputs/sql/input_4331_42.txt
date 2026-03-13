@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  hire_date != 30  ORDER BY  bonus  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  health_insurance != 60  ORDER BY  assigned_to_employee  DESC ;

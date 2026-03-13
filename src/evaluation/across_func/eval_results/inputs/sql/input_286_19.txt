@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN salaries JOIN locations ON assets.assigned_to_employee = employees.id ON meetings.client_id = clients.id WHERE  status <= 120000.0  OR  age >= 40 ;

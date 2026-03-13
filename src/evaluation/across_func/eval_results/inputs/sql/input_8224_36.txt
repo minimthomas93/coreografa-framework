@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  country >= 40  OR  employee_id <=Marketing AND  location <=Education OR  last_name <Dusseldorf AND  training_name < 50  AND  completion_date >=Tech AND  asset_type = 2  AND  project_id >Education OR  meeting_date < 3 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN projects ON employees.department_id = departments.id WHERE  department_id = 3  AND  department_id  LIKE  120000.0 ;

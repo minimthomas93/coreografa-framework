@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  asset_type =Todo AND  assigned_to_employee >Todo AND  department_id = 75000.99  OR  location <= 50  ORDER BY  department_id  ASC ;

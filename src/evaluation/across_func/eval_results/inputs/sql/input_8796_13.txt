@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  contact_email <Marketing AND  id <= 25  AND  status  LIKE Hamburg OR  age >Stuttgart OR  industry =Marketing OR  health_insurance > 120000.0  AND  health_insurance  LIKE  18  AND  employee_id <= 30  OR  status != 30000.0  AND  country !=Leipzig OR  meeting_date >= 75000.99  OR  last_name > 120000.0  OR  id < 30  ORDER BY  assigned_to_employee  DESC ;

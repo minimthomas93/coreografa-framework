@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN meetings ON meetings.project_id = projects.id WHERE  asset_type >Support AND  country  LIKE Stuttgart ORDER BY  name  DESC ;

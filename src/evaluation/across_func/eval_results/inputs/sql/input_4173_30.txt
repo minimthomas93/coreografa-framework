@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  bonus =Retail AND  employee_id <= 40  OR  asset_name >HR ORDER BY  industry  ASC ;

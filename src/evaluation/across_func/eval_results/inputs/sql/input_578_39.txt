@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN departments JOIN salaries JOIN locations ON meetings.project_id = projects.id ON benefits.employee_id = employees.id ON salaries.employee_id = employees.id WHERE  start_date = 4  OR  base_salary = 18  AND  project_id <= 75000.99  OR  employee_id < 2  OR  asset_type = 75000.99  OR  industry  LIKE Education;

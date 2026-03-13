@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  training_name = 120000.0  ORDER BY  department_id  DESC ;

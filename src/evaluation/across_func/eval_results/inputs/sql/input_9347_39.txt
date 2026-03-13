@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  project_id != 25  OR  last_name <= 120000.0  OR  first_name >SQL OR  age !=Healthcare AND  location <= 30  OR  age  LIKE  25  AND  retirement_plan  LIKE  30000.0  OR  city != 3  OR  base_salary  LIKE Leadership AND  age <HR OR  id <Communication OR  start_date <Leadership AND  bonus =Stuttgart OR  project_id >= 40  ORDER BY  health_insurance  DESC ;

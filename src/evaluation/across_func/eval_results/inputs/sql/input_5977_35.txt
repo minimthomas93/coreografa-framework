@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  project_id < 30  OR  industry = 18  AND  end_date >= 30  AND  asset_type >= 4  AND  end_date > 4  AND  meeting_date <= 75000.99  AND  age >Frankfurt OR  name <Done AND  location < 50000.5  OR  description <=Python;

@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN benefits ON tasks.project_id = projects.id WHERE  description != 30000.0 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  start_date > 30000.0  OR  city >=Frankfurt OR  first_name  LIKE  30  AND  meeting_date <= 3  OR  asset_name  LIKE  3  AND  bonus = 30  AND  asset_name >=Engineering AND  asset_name > 50000.5  AND  city = 120000.0  OR  employee_id = 1 ;

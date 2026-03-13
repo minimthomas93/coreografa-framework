@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN tasks ON tasks.project_id = projects.id WHERE  last_name > 75000.99  ORDER BY  location  DESC ;

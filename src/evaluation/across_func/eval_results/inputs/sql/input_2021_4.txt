@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN tasks JOIN meetings JOIN meetings JOIN trainings ON employees.department_id = departments.id ON salaries.employee_id = employees.id ON meetings.project_id = projects.id ON salaries.employee_id = employees.id ORDER BY  project_id  DESC ;

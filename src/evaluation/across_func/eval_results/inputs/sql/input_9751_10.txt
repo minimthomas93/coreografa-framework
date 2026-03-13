@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  end_date  LIKE  40  AND  training_name  LIKE  30000.0 ;

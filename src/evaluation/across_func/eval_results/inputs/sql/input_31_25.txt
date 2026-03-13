@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  meeting_date <= 30000.0  OR  asset_name = 4 ;

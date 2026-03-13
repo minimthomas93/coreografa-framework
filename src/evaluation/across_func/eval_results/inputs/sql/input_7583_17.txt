@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN clients ON salaries.employee_id = employees.id WHERE  start_date <Excel AND  department_id != 30000.0  AND  bonus <= 4  AND  health_insurance < 120000.0  AND  employee_id <= 50000.5  OR  country > 50  OR  contact_email = 25  AND  start_date < 75000.99  OR  description != 30000.0  OR  age  LIKE  18 ;

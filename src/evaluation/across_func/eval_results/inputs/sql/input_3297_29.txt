@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN meetings JOIN employees ON salaries.employee_id = employees.id ON meetings.project_id = projects.id ORDER BY  city  DESC ;

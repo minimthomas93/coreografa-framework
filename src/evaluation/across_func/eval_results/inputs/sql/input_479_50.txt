@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN trainings JOIN meetings JOIN meetings JOIN meetings ON trainings.employee_id = employees.id ON benefits.employee_id = employees.id ON benefits.employee_id = employees.id ON assets.assigned_to_employee = employees.id WHERE  hire_date > 50  ORDER BY  age  ASC ;

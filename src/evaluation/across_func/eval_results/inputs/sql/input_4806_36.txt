@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN projects ON projects.department_id = departments.id WHERE  contact_email < 75000.99  ORDER BY  description  DESC ;

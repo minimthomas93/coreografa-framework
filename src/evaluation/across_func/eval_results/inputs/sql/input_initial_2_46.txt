@@ -1,0 +1,1 @@
+SELECT  {21,30}  FROM trainings JOIN clients ON meetings.project_id = projects.id ORDER BY  bonus  ASC ;

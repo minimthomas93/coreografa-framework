@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN benefits ON meetings.client_id = clients.id WHERE  project_id != 120000.0  ORDER BY  assigned_to_employee  DESC ;

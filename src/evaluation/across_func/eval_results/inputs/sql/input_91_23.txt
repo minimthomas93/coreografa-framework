@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN trainings ON employees.department_id = departments.id WHERE  employee_id = 30000.0  OR  health_insurance >= 75000.99  OR  contact_email != 50  AND  first_name < 120000.0  OR  name <= 60  ORDER BY  description  ASC ;

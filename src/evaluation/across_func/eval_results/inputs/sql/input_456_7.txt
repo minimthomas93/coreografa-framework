@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN tasks JOIN clients ON meetings.project_id = projects.id ON meetings.client_id = clients.id WHERE  meeting_date < 75000.99  OR  contact_email =In Progress OR  name != 75000.99  OR  contact_email >=Sales OR  start_date <= 3  AND  location !=SQL OR  base_salary > 75000.99  OR  status <=Excel OR  industry >= 75000.99 ;

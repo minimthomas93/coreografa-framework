@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  employee_id = 50  AND  description != 120000.0  ORDER BY  start_date  DESC ;

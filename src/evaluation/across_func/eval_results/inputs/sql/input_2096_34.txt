@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN benefits JOIN locations ON tasks.employee_id = employees.id ON assets.assigned_to_employee = employees.id ORDER BY  location  ASC ;

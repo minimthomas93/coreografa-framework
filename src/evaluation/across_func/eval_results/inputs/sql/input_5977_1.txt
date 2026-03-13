@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  country = 25  AND  training_name < 50  ORDER BY  asset_name  ASC ;

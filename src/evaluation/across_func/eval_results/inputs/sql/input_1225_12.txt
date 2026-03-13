@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN trainings JOIN assets ON projects.department_id = departments.id ON meetings.client_id = clients.id WHERE  training_name <=Engineering OR  employee_id !=Finance;

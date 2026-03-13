@@ -1,0 +1,1 @@
+SELECT  project_id , last_name , age , bonus  employee_id , id , location  end_date , id  asset_type  end_date  description , last_name  FROM departments ORDER BY  id  ASC ;

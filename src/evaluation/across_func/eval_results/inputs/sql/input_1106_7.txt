@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  base_salary < 4  OR  department_id >= 50000.5  OR  country > 120000.0  OR  employee_id < 50  AND  country < 18  AND  meeting_date < 120000.0  OR  retirement_plan  LIKE Hamburg OR  employee_id = 30000.0  AND  assigned_to_employee >= 1  OR  completion_date  LIKE  120000.0  AND  employee_id =Hamburg AND  start_date <=SQL OR  hire_date  LIKE  2 ;

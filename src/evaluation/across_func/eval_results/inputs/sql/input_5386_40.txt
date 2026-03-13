@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  training_name  LIKE Todo;

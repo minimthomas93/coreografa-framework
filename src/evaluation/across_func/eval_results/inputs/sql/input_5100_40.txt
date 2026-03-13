@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN clients ON projects.department_id = departments.id WHERE  end_date >= 40  AND  industry >= 75000.99  AND  project_id <=Leipzig AND  asset_type >= 18  AND  assigned_to_employee = 30000.0  OR  bonus =Excel AND  completion_date <= 25  AND  contact_email <= 40  AND  age = 18  OR  age = 1  OR  asset_type <Education OR  last_name <=Berlin;

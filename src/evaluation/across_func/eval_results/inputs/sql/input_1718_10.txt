@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN assets JOIN trainings JOIN projects JOIN trainings JOIN tasks JOIN departments ON employees.department_id = departments.id ON trainings.employee_id = employees.id ON meetings.project_id = projects.id ON meetings.client_id = clients.id ON meetings.project_id = projects.id ON meetings.project_id = projects.id ORDER BY  end_date  DESC ;

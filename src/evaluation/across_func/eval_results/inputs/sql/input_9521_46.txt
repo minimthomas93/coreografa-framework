@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN employees ON trainings.employee_id = employees.id WHERE  completion_date <Marketing OR  health_insurance <= 25  ORDER BY  age  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN clients ON benefits.employee_id = employees.id WHERE  status =Finance AND  last_name <= 75000.99  OR  bonus <= 30000.0 ;

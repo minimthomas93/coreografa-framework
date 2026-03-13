@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  last_name  LIKE  25  OR  retirement_plan <Engineering OR  retirement_plan < 120000.0  AND  end_date < 50000.5  AND  health_insurance = 18  AND  id <= 30000.0  OR  description != 50000.5  OR  bonus <= 30  AND  department_id  LIKE Munich AND  assigned_to_employee =Leipzig AND  location  LIKE  25  ORDER BY  retirement_plan  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  health_insurance <=Dusseldorf ORDER BY  base_salary  ASC ;

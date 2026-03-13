@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  id >Finance OR  contact_email > 30000.0  ORDER BY  asset_name  ASC ;

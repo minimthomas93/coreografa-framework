@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN locations ON meetings.project_id = projects.id WHERE  id  LIKE  120000.0  AND  industry = 120000.0  OR  bonus =HR OR  bonus < 40  OR  department_id  LIKE Python OR  last_name <Tech OR  health_insurance >= 2  OR  location > 120000.0  OR  employee_id <Support AND  start_date < 50  AND  health_insurance !=Engineering OR  department_id  LIKE  75000.99 ;

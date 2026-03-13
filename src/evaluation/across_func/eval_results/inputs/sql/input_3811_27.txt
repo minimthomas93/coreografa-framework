@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  description >=Stuttgart;

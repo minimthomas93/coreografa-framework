@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN clients JOIN trainings ON tasks.project_id = projects.id ON projects.department_id = departments.id WHERE  first_name < 50000.5  ORDER BY  hire_date  ASC ;

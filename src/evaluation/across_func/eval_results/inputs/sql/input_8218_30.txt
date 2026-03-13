@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN meetings JOIN projects JOIN salaries JOIN departments JOIN salaries ON meetings.project_id = projects.id ON meetings.project_id = projects.id ON meetings.client_id = clients.id ON employees.department_id = departments.id ON employees.department_id = departments.id;

@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN locations ON benefits.employee_id = employees.id WHERE  employee_id =Operations OR  training_name = 75000.99  AND  first_name > 50000.5  OR  last_name = 2  AND  completion_date  LIKE  120000.0  AND  country <Python OR  department_id >= 40  ORDER BY  end_date  ASC ;

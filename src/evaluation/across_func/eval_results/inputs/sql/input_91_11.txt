@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN salaries JOIN tasks ON employees.department_id = departments.id ON benefits.employee_id = employees.id WHERE  base_salary = 50000.5  AND  training_name <=Dusseldorf OR  name < 120000.0  AND  base_salary  LIKE  4  ORDER BY  completion_date  DESC ;

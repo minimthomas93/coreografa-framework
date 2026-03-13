@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN assets ON tasks.employee_id = employees.id WHERE  base_salary !=Hamburg OR  location !=Dusseldorf OR  meeting_date !=Sales OR  hire_date >SQL AND  asset_name <= 25  AND  assigned_to_employee = 4  AND  hire_date != 30  AND  age <= 60  OR  status >= 50000.5  OR  last_name >= 3  AND  start_date = 1 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  hire_date < 2 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN assets ON meetings.client_id = clients.id;

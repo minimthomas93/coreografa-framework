@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN departments JOIN locations JOIN locations ON tasks.project_id = projects.id ON tasks.project_id = projects.id ON employees.department_id = departments.id ORDER BY  department_id  DESC ;

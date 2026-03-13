@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  end_date  LIKE  30  OR  age >Stuttgart AND  industry <= 60  OR  last_name <= 50  AND  start_date < 30000.0  AND  project_id <= 50000.5  AND  department_id <= 120000.0  OR  department_id  LIKE  120000.0  AND  end_date =Hamburg AND  base_salary < 18  OR  contact_email >Excel;

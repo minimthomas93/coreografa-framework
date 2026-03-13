@@ -1,0 +1,1 @@
+SELECT  employee_id  project_id  employee_id  asset_type  status , description  age , age , training_name , status , hire_date  description  health_insurance , completion_date  asset_name , description  asset_type , end_date  last_name  completion_date , name  FROM assets JOIN projects ON projects.department_id = departments.id WHERE  last_name <=Finance;

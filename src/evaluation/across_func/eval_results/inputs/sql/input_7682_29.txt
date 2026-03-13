@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN tasks ON trainings.employee_id = employees.id WHERE  first_name !=Excel AND  age > 25  AND  health_insurance >=Excel OR  end_date >Support OR  id !=Communication OR  health_insurance <=Dusseldorf OR  contact_email =Munich AND  age <= 3  OR  industry <= 120000.0  ORDER BY  id  DESC ;

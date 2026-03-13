@@ -1,0 +1,1 @@
+SELECT  {21,30}  FROM tasks JOIN departments JOIN locations JOIN salaries ON salaries.employee_id = employees.id ON employees.department_id = departments.id ON meetings.client_id = clients.id WHERE  start_date  LIKE In Progress OR  industry  LIKE  2  AND  industry <Hamburg;

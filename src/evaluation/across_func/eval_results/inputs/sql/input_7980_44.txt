@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN trainings JOIN trainings ON meetings.project_id = projects.id ON employees.department_id = departments.id;

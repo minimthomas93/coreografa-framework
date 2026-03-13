@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  hire_date < 2  AND  end_date  LIKE Dusseldorf AND  asset_name >= 1  AND  last_name != 25  AND  project_id <Munich AND  industry != 120000.0  OR  bonus != 50000.5  AND  hire_date != 3  OR  project_id = 25  AND  project_id  LIKE SQL OR  training_name >= 50000.5  OR  country > 60  OR  age < 120000.0  AND  description = 30  ORDER BY  project_id  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN assets JOIN employees ON tasks.project_id = projects.id ON tasks.project_id = projects.id WHERE  bonus > 60  AND  contact_email  LIKE Python OR  bonus > 30000.0 ;

@@ -1,0 +1,1 @@
+SELECT  {21,30}  FROM trainings JOIN trainings ON assets.assigned_to_employee = employees.id;

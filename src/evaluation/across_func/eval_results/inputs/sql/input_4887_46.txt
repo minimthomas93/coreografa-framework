@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  meeting_date <= 120000.0  OR  project_id != 3  OR  location <Berlin;

@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN tasks ON projects.department_id = departments.id WHERE  age >= 30  OR  description <R&D AND  first_name <= 120000.0  AND  location > 50000.5  OR  meeting_date <= 75000.99 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  last_name < 75000.99  AND  assigned_to_employee > 30000.0  OR  end_date =Hamburg OR  base_salary <= 120000.0  OR  project_id < 60  AND  city >=Excel OR  training_name > 120000.0  ORDER BY  base_salary  DESC ;

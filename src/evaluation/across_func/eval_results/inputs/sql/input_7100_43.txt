@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  health_insurance  LIKE  60  AND  asset_name <= 30000.0  AND  start_date >= 4  OR  department_id != 60  AND  contact_email <Dusseldorf AND  name >= 30000.0  AND  retirement_plan < 4  AND  health_insurance =Cologne OR  id >= 50000.5  AND  asset_type >=Leipzig OR  completion_date  LIKE  18  OR  location <=Dusseldorf ORDER BY  location  ASC ;

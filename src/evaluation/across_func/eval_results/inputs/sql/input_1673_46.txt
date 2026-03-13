@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  base_salary >= 120000.0  OR  age <=SQL AND  employee_id = 18  ORDER BY  project_id  ASC ;

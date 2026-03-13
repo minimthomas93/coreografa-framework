@@ -1,0 +1,1 @@
+SELECT  {31,40}  FROM clients WHERE  retirement_plan = 120000.0  OR  hire_date > 60  AND  id > 50000.5  OR  contact_email = 18  OR  contact_email >=Berlin AND  assigned_to_employee >= 1  AND  contact_email <= 3  OR  hire_date  LIKE Finance AND  assigned_to_employee <= 1  ORDER BY  city  ASC ;

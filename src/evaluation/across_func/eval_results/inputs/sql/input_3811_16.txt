@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN trainings ON assets.assigned_to_employee = employees.id ORDER BY  description  DESC ;

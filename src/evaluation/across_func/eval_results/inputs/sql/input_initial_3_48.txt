@@ -1,0 +1,1 @@
+SELECT  {31,40}  FROM tasks JOIN tasks ON trainings.employee_id = employees.id ORDER BY  hire_date  ASC ;

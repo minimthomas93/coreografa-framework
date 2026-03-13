@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  hire_date = 120000.0  AND  hire_date >=Cologne AND  industry = 75000.99  OR  start_date >= 75000.99  AND  first_name <Communication OR  country < 30000.0  OR  base_salary != 120000.0  AND  completion_date < 2  AND  industry  LIKE  50000.5  AND  bonus = 30000.0  AND  hire_date <= 30000.0  AND  id =Python AND  status >=Leadership;

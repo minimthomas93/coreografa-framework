@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  employee_id <=Marketing OR  name  LIKE  50000.5  OR  bonus < 120000.0  AND  retirement_plan <= 50  OR  completion_date < 40  AND  age <= 25  OR  name != 120000.0  AND  industry > 40  OR  last_name >Support OR  project_id = 1  OR  project_id >=Operations OR  location <=Dusseldorf OR  retirement_plan < 18  AND  project_id <= 2 ;

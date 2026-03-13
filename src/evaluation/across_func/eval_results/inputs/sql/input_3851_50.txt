@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN locations ON employees.department_id = departments.id;

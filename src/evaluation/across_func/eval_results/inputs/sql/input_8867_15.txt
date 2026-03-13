@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  hire_date >= 50  AND  start_date  LIKE  75000.99  ORDER BY  end_date  DESC ;

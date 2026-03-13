@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  age != 50000.5 ;

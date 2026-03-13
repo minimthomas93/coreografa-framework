@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  hire_date = 50000.5  OR  industry  LIKE  75000.99  OR  contact_email = 120000.0  AND  contact_email  LIKE  50000.5  AND  department_id < 30000.0  AND  health_insurance > 30000.0  OR  project_id > 75000.99  AND  health_insurance !=Finance AND  completion_date =Dusseldorf AND  location = 120000.0  OR  asset_name > 3  AND  last_name  LIKE  25 ;

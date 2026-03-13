@@ -1,0 +1,1 @@
+SELECT  employee_id , name  description  contact_email  industry , start_date  industry , retirement_plan , start_date , asset_type  asset_type  asset_type , id , last_name  asset_type , health_insurance  status  asset_type  asset_name  id  bonus , country , end_date  asset_name  start_date , training_name , id  FROM departments;

@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN benefits ON employees.department_id = departments.id ORDER BY  assigned_to_employee  ASC ;

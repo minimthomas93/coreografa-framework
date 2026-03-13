@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN tasks JOIN locations ON meetings.project_id = projects.id ON benefits.employee_id = employees.id WHERE  start_date > 60  AND  completion_date >Tech AND  contact_email > 3  ORDER BY  location  DESC ;

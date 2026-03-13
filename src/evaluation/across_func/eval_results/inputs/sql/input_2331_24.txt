@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN projects JOIN clients ON assets.assigned_to_employee = employees.id ON meetings.project_id = projects.id ORDER BY  health_insurance  ASC ;

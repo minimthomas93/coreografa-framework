@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  asset_type <= 2  OR  country >= 75000.99  AND  status <= 30000.0  OR  name <=Hamburg OR  industry = 30000.0  AND  industry <=Dusseldorf OR  contact_email != 18  AND  department_id >=Engineering AND  asset_name = 30000.0  AND  asset_type = 120000.0  ORDER BY  first_name  DESC ;

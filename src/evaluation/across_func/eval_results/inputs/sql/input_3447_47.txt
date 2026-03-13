@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  assigned_to_employee  LIKE Done ORDER BY  training_name  ASC ;

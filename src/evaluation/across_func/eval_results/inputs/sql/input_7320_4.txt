@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  country <= 30  ORDER BY  training_name  DESC ;

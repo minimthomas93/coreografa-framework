@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN salaries JOIN clients ON meetings.project_id = projects.id ON tasks.project_id = projects.id;

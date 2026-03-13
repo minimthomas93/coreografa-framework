@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN employees JOIN meetings ON assets.assigned_to_employee = employees.id ON tasks.employee_id = employees.id ORDER BY  asset_type  ASC ;

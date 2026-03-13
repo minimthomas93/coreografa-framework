@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN trainings ON tasks.employee_id = employees.id ORDER BY  start_date  DESC ;

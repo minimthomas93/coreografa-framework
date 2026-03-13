@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN meetings ON tasks.project_id = projects.id WHERE  last_name <HR OR  country < 120000.0 ;

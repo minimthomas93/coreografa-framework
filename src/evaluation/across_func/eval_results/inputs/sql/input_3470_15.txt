@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN projects ON projects.department_id = departments.id WHERE  end_date  LIKE SQL AND  hire_date > 120000.0  AND  project_id = 60 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN locations ON benefits.employee_id = employees.id WHERE  project_id <Hamburg ORDER BY  hire_date  ASC ;

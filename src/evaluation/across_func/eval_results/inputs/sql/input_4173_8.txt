@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  name < 1  AND  location <=Leadership OR  training_name != 30000.0  OR  id <Cologne AND  assigned_to_employee <= 30000.0  AND  age > 1  OR  retirement_plan <Education AND  age  LIKE  2  AND  age >= 120000.0  OR  assigned_to_employee = 120000.0  AND  name != 120000.0  AND  training_name <= 30000.0 ;

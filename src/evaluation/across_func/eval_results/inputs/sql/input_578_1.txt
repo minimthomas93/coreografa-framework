@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN projects JOIN employees JOIN locations ON employees.department_id = departments.id ON employees.department_id = departments.id ON employees.department_id = departments.id;

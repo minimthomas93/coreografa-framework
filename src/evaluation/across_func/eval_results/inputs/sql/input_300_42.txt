@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN clients ON assets.assigned_to_employee = employees.id WHERE  end_date !=Engineering OR  description  LIKE Leipzig OR  location >Communication OR  start_date >= 25  OR  end_date !=Berlin AND  city <= 30000.0  AND  location  LIKE  4  OR  industry !=Operations AND  health_insurance >= 50  AND  retirement_plan  LIKE  50000.5  OR  asset_name !=Berlin;

@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  meeting_date >Frankfurt ORDER BY  industry  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  project_id < 18  AND  base_salary <Engineering AND  asset_type > 25  AND  base_salary > 1  OR  project_id =Leipzig AND  asset_name =Engineering OR  bonus <Retail AND  retirement_plan >= 120000.0  AND  first_name <= 25  OR  first_name  LIKE  50000.5  OR  bonus  LIKE Leadership AND  country < 120000.0  OR  training_name >=Python ORDER BY  city  ASC ;

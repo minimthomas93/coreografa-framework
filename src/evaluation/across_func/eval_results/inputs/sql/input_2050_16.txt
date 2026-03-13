@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks ORDER BY  training_name  ASC ;

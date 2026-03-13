@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN clients ON tasks.project_id = projects.id WHERE  completion_date != 120000.0 ;

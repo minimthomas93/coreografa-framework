@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  training_name = 75000.99  OR  asset_type > 1  ORDER BY  contact_email  DESC ;

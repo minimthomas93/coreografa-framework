@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN benefits JOIN clients ON meetings.client_id = clients.id ON meetings.project_id = projects.id WHERE  country !=Sales ORDER BY  department_id  ASC ;

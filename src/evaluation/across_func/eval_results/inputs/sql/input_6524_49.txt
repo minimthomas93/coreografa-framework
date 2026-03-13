@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  completion_date <=Hamburg ORDER BY  description  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  first_name >Education AND  id >= 60  OR  retirement_plan >= 1  AND  retirement_plan < 30  OR  completion_date  LIKE  50000.5  AND  department_id >=Retail OR  first_name != 1  OR  completion_date = 60  OR  employee_id >= 120000.0  OR  country >= 30  OR  contact_email >= 120000.0 ;

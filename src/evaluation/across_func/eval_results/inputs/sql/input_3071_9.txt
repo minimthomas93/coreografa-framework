@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  first_name >= 75000.99  AND  department_id = 3  AND  city =Todo AND  project_id >= 50  OR  age > 3  AND  asset_name > 50000.5  AND  last_name =Tech AND  assigned_to_employee = 18  AND  completion_date >= 75000.99  AND  project_id < 30  OR  employee_id <=Healthcare ORDER BY  department_id  ASC ;

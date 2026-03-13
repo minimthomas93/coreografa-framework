@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN salaries JOIN locations ON salaries.employee_id = employees.id ON salaries.employee_id = employees.id WHERE  project_id <Communication;

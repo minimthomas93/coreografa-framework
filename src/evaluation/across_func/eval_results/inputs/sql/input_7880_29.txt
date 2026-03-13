@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN employees JOIN locations ON meetings.client_id = clients.id ON tasks.employee_id = employees.id ORDER BY  completion_date  ASC ;

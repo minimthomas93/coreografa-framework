@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN projects JOIN locations JOIN meetings JOIN employees JOIN projects ON tasks.employee_id = employees.id ON tasks.employee_id = employees.id ON tasks.employee_id = employees.id ON tasks.project_id = projects.id ON benefits.employee_id = employees.id WHERE  training_name  LIKE  50 ;

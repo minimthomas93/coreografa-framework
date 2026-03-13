@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  contact_email >Munich OR  employee_id <= 120000.0  AND  hire_date <= 60  AND  asset_type = 3  OR  department_id <= 4  OR  bonus != 2  AND  industry > 30  AND  country != 30000.0  OR  age > 18 ;

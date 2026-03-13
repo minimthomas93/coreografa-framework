@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  description <Dusseldorf ORDER BY  hire_date  ASC ;

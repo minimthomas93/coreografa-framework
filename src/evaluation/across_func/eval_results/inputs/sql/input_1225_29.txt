@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN clients JOIN assets JOIN tasks JOIN benefits ON projects.department_id = departments.id ON salaries.employee_id = employees.id ON meetings.project_id = projects.id ON salaries.employee_id = employees.id WHERE  status = 30  OR  description >= 60  ORDER BY  contact_email  ASC ;

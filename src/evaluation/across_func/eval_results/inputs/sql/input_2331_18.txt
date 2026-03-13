@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN departments JOIN benefits ON projects.department_id = departments.id ON employees.department_id = departments.id WHERE  city < 50000.5 ;

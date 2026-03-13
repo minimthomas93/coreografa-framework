@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN employees ON meetings.project_id = projects.id ORDER BY  base_salary  ASC ;

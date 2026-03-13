@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  health_insurance != 60  ORDER BY  end_date  DESC ;

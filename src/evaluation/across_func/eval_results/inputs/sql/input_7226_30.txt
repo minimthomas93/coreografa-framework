@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  city  LIKE Cologne OR  meeting_date <Education OR  project_id  LIKE  25  ORDER BY  country  DESC ;

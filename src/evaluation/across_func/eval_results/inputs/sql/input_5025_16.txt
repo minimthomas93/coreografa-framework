@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  employee_id >=Munich OR  status != 75000.99  AND  contact_email >SQL AND  id <= 4  OR  description >Stuttgart AND  hire_date <= 30  OR  health_insurance  LIKE  18  AND  contact_email < 3  OR  health_insurance = 75000.99  OR  health_insurance <= 25  AND  industry >= 40  AND  id =Done OR  age <=Retail;

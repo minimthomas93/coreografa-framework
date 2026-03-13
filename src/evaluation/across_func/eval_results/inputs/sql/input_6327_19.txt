@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  name <Finance ORDER BY  city  ASC ;

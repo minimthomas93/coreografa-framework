@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  retirement_plan = 30000.0  AND  completion_date = 1  AND  contact_email != 40  OR  name >= 120000.0  OR  status >=Frankfurt OR  health_insurance !=Healthcare AND  employee_id <= 1  OR  retirement_plan = 120000.0  AND  asset_type >=SQL OR  completion_date < 60  AND  first_name =Finance OR  country <= 50000.5 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  hire_date <= 30000.0  OR  hire_date >= 50000.5  OR  country <Stuttgart AND  industry > 120000.0  OR  start_date  LIKE Operations OR  training_name = 60  AND  first_name > 120000.0  AND  hire_date >= 30000.0  AND  first_name < 50000.5  AND  name > 50  AND  country = 30000.0  OR  name  LIKE  3  OR  description  LIKE  40  OR  location != 1 ;

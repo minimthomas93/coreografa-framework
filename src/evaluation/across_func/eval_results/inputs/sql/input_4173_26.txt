@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  city > 40  ORDER BY  city  DESC ;

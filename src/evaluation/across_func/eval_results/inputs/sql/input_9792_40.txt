@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  meeting_date = 120000.0  OR  base_salary != 30000.0  OR  start_date !=Berlin OR  age =Cologne AND  retirement_plan = 25  AND  city = 75000.99  OR  age <= 50000.5  OR  country < 2  OR  id >= 3  AND  first_name <Engineering;

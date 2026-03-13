@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  base_salary <= 50000.5 ;

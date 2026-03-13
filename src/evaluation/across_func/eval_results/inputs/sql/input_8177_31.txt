@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN clients ON meetings.project_id = projects.id WHERE  id != 50000.5  ORDER BY  assigned_to_employee  ASC ;

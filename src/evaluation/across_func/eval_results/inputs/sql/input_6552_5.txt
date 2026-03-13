@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  hire_date >= 2  OR  start_date  LIKE  25  AND  health_insurance >=HR AND  project_id > 50  OR  hire_date = 25  AND  asset_type >Leadership OR  bonus = 75000.99  OR  base_salary >= 120000.0  OR  start_date <Hamburg OR  completion_date  LIKE  1 ;

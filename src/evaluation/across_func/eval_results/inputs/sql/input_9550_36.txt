@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  project_id =Done AND  name != 120000.0  OR  country = 40  OR  first_name  LIKE  30  AND  base_salary <=Sales AND  contact_email  LIKE Engineering AND  retirement_plan >Leipzig AND  asset_type >Stuttgart AND  city <= 1  AND  last_name <In Progress OR  contact_email  LIKE  30000.0  OR  status < 120000.0  OR  status != 30000.0 ;

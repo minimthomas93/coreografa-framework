@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN salaries ON assets.assigned_to_employee = employees.id WHERE  employee_id  LIKE Berlin;

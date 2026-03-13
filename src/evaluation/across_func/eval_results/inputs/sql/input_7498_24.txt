@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  age <= 30000.0 ;

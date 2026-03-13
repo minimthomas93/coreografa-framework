@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN assets JOIN locations ON trainings.employee_id = employees.id ON benefits.employee_id = employees.id ORDER BY  last_name  DESC ;

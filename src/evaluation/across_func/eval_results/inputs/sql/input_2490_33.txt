@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN tasks ON salaries.employee_id = employees.id WHERE  id <= 30 ;

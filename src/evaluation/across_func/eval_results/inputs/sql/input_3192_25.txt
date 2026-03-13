@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN projects ON meetings.client_id = clients.id WHERE  contact_email  LIKE Finance ORDER BY  name  DESC ;

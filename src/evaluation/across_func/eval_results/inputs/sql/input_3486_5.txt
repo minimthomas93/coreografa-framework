@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN benefits ON employees.department_id = departments.id WHERE  name > 50000.5  AND  health_insurance < 30000.0  AND  department_id !=R&D OR  id  LIKE Retail AND  age >= 75000.99  AND  status != 50  AND  id <= 4  AND  completion_date = 60  OR  start_date !=Frankfurt AND  first_name < 30000.0  OR  project_id > 25  AND  name >= 2  OR  country = 30000.0 ;

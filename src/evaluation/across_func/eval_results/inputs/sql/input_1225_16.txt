@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN salaries JOIN clients ON meetings.project_id = projects.id ON assets.assigned_to_employee = employees.id WHERE  health_insurance = 50000.5  AND  start_date  LIKE  1  OR  first_name = 50000.5 ;

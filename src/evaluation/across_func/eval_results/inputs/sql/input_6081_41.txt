@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN assets ON assets.assigned_to_employee = employees.id WHERE  bonus  LIKE  50000.5  OR  base_salary != 75000.99  OR  department_id =Healthcare OR  asset_type >=Healthcare AND  employee_id = 3  OR  id <= 50  AND  bonus > 30000.0  AND  asset_name = 50000.5  OR  age != 30  OR  assigned_to_employee >= 75000.99  OR  status = 30  ORDER BY  age  ASC ;

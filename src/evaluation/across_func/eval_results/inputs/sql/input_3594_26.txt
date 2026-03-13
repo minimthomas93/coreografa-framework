@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN salaries JOIN departments JOIN projects ON meetings.project_id = projects.id ON benefits.employee_id = employees.id ON meetings.project_id = projects.id WHERE  name > 50 ;

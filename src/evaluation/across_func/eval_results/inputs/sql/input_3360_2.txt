@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  id = 4  AND  bonus != 50000.5  OR  completion_date >= 75000.99  AND  name <Python OR  name  LIKE  3  AND  project_id != 3  AND  city > 50000.5  OR  name >=Berlin AND  completion_date = 30000.0  AND  status  LIKE  60  OR  age != 30000.0  OR  employee_id != 75000.99  OR  asset_name <=Dusseldorf AND  industry  LIKE  120000.0 ;

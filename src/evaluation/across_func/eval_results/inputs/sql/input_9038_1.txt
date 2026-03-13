@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN benefits ON projects.department_id = departments.id WHERE  employee_id <Leipzig OR  health_insurance > 1  OR  age <=Finance AND  base_salary < 18  AND  asset_type <=Leadership OR  employee_id  LIKE Finance OR  department_id =Todo OR  employee_id <Retail OR  industry  LIKE  25  ORDER BY  description  ASC ;

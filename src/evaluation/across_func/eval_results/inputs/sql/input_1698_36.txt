@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN benefits JOIN employees JOIN meetings ON trainings.employee_id = employees.id ON employees.department_id = departments.id ON projects.department_id = departments.id WHERE  base_salary > 1  ORDER BY  age  DESC ;

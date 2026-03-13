@@ -1,0 +1,53 @@
+{
+    "function": "xml_v04",
+    "initial_pop": [
+        "<O4>YVMZ3+hGzYXa?MfG=XLt6</q-42>\n",
+        "<x. l30.99=\"LrE2WWR\" ><y N7=\"nEu\" >P</S2538></x7>\n",
+        "<D><u6>V</K></q>\n",
+        "<W9O7 a.=\"bF4\" >3GY\t2FJkEA?Yc8OdPQR&quot;ak\t,PNTrFr=pVNKt&#x27;</d8>\n",
+        "<_>&quot;XbY/dDjIq&#x27;rr4q2tNVLjamanf\t5 H60p</HX9>\n",
+        "<k M=\"?.U\" p=\"O\" m9.-1=\"t\" ZP=\"Xp\" >b</h7>\n",
+        "<a545 G=\"S\" ><Q32 d=\"Nv\" ><j2768><f y=\"\t8\" ><J T=\"i\" >V</M></Y5></m></L></X>\n",
+        "<d X=\"bMQ7\" ><C q=\"7M\" ><I><B h=\"I\" >Sjk</A3></a.55></B0></K>\n"
+    ],
+    "initial_pop_files": [
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\xml\\input_2722_35.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\xml\\input_1170_7.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\xml\\input_2340_49.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\xml\\input_1526_49.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\xml\\input_1869_25.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\xml\\input_1190_13.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\xml\\input_2709_41.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\xml\\input_2751_47.txt"
+    ],
+    "metric_constraints": [
+        {
+            "name": "memory_peak",
+            "op": ">=",
+            "type": "metric",
+            "value": 23698.2
+        },
+        {
+            "name": "memory_peak",
+            "op": "<=",
+            "type": "metric",
+            "value": 24286.0
+        }
+    ],
+    "name": "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\split_summary\\xml\\xml_v04_summary.csv",
+    "prop_constraints": [
+        {
+            "name": "count_xml_attribute",
+            "op": ">=",
+            "type": "prop",
+            "value": 2.0
+        },
+        {
+            "name": "count_xml_attribute",
+            "op": "<=",
+            "type": "prop",
+            "value": 5.0
+        }
+    ],
+    "request_type": "frequency request"
+}

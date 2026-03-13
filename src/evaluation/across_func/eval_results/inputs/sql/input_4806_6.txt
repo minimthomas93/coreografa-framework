@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  hire_date != 75000.99  AND  country >= 30000.0  OR  base_salary >= 18  OR  start_date > 30000.0  AND  age >Support AND  department_id < 75000.99  AND  age =Leadership OR  age <=In Progress OR  first_name = 40  OR  country >= 25  AND  last_name = 50000.5  OR  city  LIKE  4  AND  city <R&D OR  retirement_plan <= 30  ORDER BY  city  DESC ;

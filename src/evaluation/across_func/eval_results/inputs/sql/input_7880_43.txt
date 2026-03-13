@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN meetings ON trainings.employee_id = employees.id ORDER BY  asset_name  ASC ;

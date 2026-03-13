@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  industry <= 3  AND  id > 3  AND  status <= 75000.99  AND  health_insurance >R&D AND  last_name <= 3  OR  meeting_date < 40  OR  last_name > 120000.0  OR  health_insurance >= 30000.0  AND  training_name >= 40  AND  end_date = 30000.0  OR  employee_id <= 50000.5  AND  first_name > 50000.5 ;

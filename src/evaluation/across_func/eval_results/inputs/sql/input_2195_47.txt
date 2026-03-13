@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  training_name != 50  OR  health_insurance > 75000.99  OR  last_name > 4  OR  completion_date =R&D OR  city > 30000.0  OR  name >= 30000.0  OR  hire_date > 50000.5  AND  start_date != 50  AND  retirement_plan > 4  AND  bonus != 3  OR  asset_name > 30000.0  ORDER BY  status  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  age  LIKE  75000.99  OR  country !=Cologne OR  retirement_plan != 1  OR  training_name != 4  AND  start_date >= 4  AND  end_date <Support AND  asset_name > 4  AND  assigned_to_employee >=Leadership AND  bonus > 25  OR  id >Done OR  city >=Retail;

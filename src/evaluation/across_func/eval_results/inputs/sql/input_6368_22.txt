@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  base_salary =Marketing OR  asset_name = 120000.0  OR  health_insurance  LIKE Leipzig AND  asset_name <=SQL OR  employee_id  LIKE  30000.0  AND  age != 30000.0  OR  last_name >= 40  AND  retirement_plan <= 120000.0  OR  location <Excel OR  name  LIKE  1  AND  department_id = 1  ORDER BY  last_name  DESC ;

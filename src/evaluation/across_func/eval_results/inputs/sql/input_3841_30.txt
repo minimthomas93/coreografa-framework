@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN salaries ON salaries.employee_id = employees.id WHERE  asset_name  LIKE Finance OR  asset_type >= 40  AND  age  LIKE  30000.0  AND  id <=Berlin OR  asset_name !=Finance OR  retirement_plan != 1  OR  id <Finance AND  hire_date <Finance AND  age = 50000.5  AND  industry = 30000.0 ;

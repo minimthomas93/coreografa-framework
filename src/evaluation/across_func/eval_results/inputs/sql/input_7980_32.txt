@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN meetings JOIN trainings JOIN locations JOIN tasks ON meetings.project_id = projects.id ON benefits.employee_id = employees.id ON trainings.employee_id = employees.id ON salaries.employee_id = employees.id WHERE  name >= 25  AND  asset_name >= 4  ORDER BY  end_date  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  asset_type !=Retail OR  last_name <= 50  AND  bonus <Leadership AND  contact_email <= 120000.0  AND  industry >=In Progress OR  asset_type = 30000.0  AND  country > 75000.99  OR  health_insurance >=R&D OR  asset_type > 50000.5  OR  country <= 50 ;

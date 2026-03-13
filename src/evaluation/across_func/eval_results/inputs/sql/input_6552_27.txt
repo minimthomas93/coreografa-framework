@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  age != 75000.99  AND  assigned_to_employee < 75000.99  OR  hire_date >=Done AND  first_name > 120000.0  OR  asset_name >=Marketing AND  completion_date =R&D OR  location >=Healthcare OR  employee_id <= 60  AND  first_name !=Finance OR  training_name != 30000.0  AND  first_name < 25  AND  employee_id !=Finance;

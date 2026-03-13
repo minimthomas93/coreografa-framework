@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  first_name >= 3  ORDER BY  id  ASC ;

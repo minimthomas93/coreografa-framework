@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  status != 40  AND  completion_date > 3  AND  location < 60  AND  retirement_plan !=Tech AND  meeting_date != 60  AND  id =Leipzig OR  contact_email != 3  AND  first_name !=R&D OR  training_name < 3  AND  description =Finance OR  country = 40  AND  name >= 18  AND  bonus >= 50000.5 ;

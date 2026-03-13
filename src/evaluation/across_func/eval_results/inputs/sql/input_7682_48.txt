@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  base_salary != 2  OR  training_name <=Leipzig OR  meeting_date >= 2  OR  description > 50000.5  AND  contact_email > 120000.0  AND  project_id = 50000.5  AND  asset_name <= 2  AND  training_name  LIKE  75000.99  AND  age > 60  OR  id >Sales OR  asset_type = 40  ORDER BY  assigned_to_employee  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN projects ON projects.department_id = departments.id WHERE  assigned_to_employee  LIKE  120000.0  ORDER BY  bonus  DESC ;

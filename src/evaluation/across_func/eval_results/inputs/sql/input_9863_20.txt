@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN trainings ON meetings.project_id = projects.id ORDER BY  hire_date  DESC ;

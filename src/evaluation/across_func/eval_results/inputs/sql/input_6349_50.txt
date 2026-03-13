@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN benefits ON meetings.client_id = clients.id WHERE  health_insurance != 120000.0  OR  last_name = 18  OR  location < 50  AND  name >= 2  AND  base_salary >= 30  OR  industry  LIKE  18  OR  city >SQL AND  last_name  LIKE Berlin OR  completion_date >= 60  AND  training_name >= 120000.0  AND  start_date =Frankfurt OR  employee_id =Healthcare;

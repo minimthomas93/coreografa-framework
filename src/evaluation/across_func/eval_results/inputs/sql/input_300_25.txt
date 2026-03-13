@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  age !=Education OR  completion_date <= 75000.99  OR  end_date <Tech AND  end_date <Sales OR  assigned_to_employee <= 120000.0  OR  description > 2  AND  id != 60  AND  contact_email <=Tech AND  training_name =Berlin OR  meeting_date > 2  AND  city >Operations AND  location <= 18  AND  assigned_to_employee <= 60 ;

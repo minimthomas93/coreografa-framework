@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN tasks JOIN locations ON tasks.project_id = projects.id ON projects.department_id = departments.id WHERE  asset_name >=Leadership ORDER BY  department_id  DESC ;

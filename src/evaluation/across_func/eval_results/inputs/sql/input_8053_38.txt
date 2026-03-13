@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN clients JOIN employees ON trainings.employee_id = employees.id ON meetings.client_id = clients.id;

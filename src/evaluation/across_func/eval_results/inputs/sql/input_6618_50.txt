@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN salaries ON projects.department_id = departments.id WHERE  start_date =Finance AND  start_date < 60  AND  meeting_date >=HR AND  retirement_plan >= 25  OR  country <Cologne AND  contact_email !=Leipzig AND  id >= 50 ;

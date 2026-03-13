@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  description >= 75000.99  AND  description <=Cologne AND  industry = 1  OR  retirement_plan >=Berlin AND  last_name <HR OR  employee_id != 2  OR  id !=Healthcare AND  start_date != 120000.0  AND  name >=Done OR  retirement_plan <Communication AND  start_date = 50000.5  AND  assigned_to_employee <Retail AND  meeting_date > 4 ;

@@ -1,0 +1,1 @@
+SELECT  {1,10}  FROM locations WHERE  completion_date < 3  AND  industry > 4  AND  hire_date != 75000.99  OR  description !=Finance;

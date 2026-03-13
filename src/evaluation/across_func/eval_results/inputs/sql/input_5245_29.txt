@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  start_date >= 30  OR  description <Support AND  bonus >= 30000.0  AND  country  LIKE Frankfurt OR  last_name != 40  OR  training_name >= 40  AND  name < 50  AND  status != 40  OR  department_id < 30  AND  age  LIKE  4  AND  bonus >= 30  OR  health_insurance  LIKE  18  AND  end_date >= 75000.99  OR  health_insurance > 18 ;

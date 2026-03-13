@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  retirement_plan  LIKE  25  AND  age <=Cologne;

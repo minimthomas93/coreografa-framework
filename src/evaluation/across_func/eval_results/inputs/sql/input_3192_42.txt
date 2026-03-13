@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN trainings ON salaries.employee_id = employees.id WHERE  retirement_plan  LIKE  25  AND  employee_id = 120000.0  OR  city !=Healthcare AND  age < 30  OR  status !=Marketing OR  end_date = 30  AND  completion_date != 120000.0  OR  location =Munich OR  contact_email !=Finance AND  age = 1  OR  description  LIKE  4  AND  last_name  LIKE  30 ;

@@ -1,0 +1,1 @@
+SELECT  first_name  retirement_plan , assigned_to_employee  end_date , last_name  training_name , country , status , location , meeting_date  first_name  first_name  age  health_insurance  bonus , description , contact_email , bonus , contact_email  asset_name , department_id  status  FROM benefits JOIN employees ON projects.department_id = departments.id;

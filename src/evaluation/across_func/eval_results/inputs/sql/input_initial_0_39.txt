@@ -1,0 +1,1 @@
+SELECT  health_insurance , assigned_to_employee , project_id  country  description , meeting_date  industry , city  training_name , meeting_date  age , id  FROM salaries ORDER BY  country  ASC ;

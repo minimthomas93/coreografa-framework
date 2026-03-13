@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  start_date !=Dusseldorf ORDER BY  asset_name  ASC ;

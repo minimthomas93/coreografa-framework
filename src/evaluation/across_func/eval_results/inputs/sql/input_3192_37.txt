@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN tasks ON projects.department_id = departments.id WHERE  department_id >= 50000.5 ;

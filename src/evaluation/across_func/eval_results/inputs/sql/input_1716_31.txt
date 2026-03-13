@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  project_id  LIKE  2  AND  department_id >= 120000.0  OR  first_name >= 50000.5  OR  location =Engineering AND  asset_type < 120000.0  AND  training_name  LIKE Sales AND  contact_email !=Healthcare AND  end_date != 18  OR  asset_type  LIKE In Progress AND  country <= 50000.5  ORDER BY  hire_date  DESC ;

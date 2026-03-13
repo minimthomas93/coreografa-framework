@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  asset_type >= 3  AND  department_id <= 50000.5  AND  name != 30000.0  OR  city  LIKE SQL OR  training_name = 4  OR  asset_type  LIKE  40  AND  industry >= 30000.0  AND  industry > 75000.99  AND  status !=Sales AND  location >= 30  AND  end_date >=Finance AND  base_salary <=Support AND  retirement_plan = 18  AND  asset_type > 40 ;

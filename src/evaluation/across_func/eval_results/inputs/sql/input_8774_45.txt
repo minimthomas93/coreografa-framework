@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN benefits ON meetings.project_id = projects.id ORDER BY  assigned_to_employee  ASC ;

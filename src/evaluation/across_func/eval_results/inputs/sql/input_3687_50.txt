@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN employees ON meetings.project_id = projects.id WHERE  asset_type > 50000.5  AND  meeting_date = 2  AND  department_id < 1  AND  training_name <SQL ORDER BY  status  ASC ;

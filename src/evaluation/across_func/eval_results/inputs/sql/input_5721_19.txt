@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN projects JOIN projects ON salaries.employee_id = employees.id ON tasks.employee_id = employees.id WHERE  last_name > 50000.5  ORDER BY  project_id  ASC ;

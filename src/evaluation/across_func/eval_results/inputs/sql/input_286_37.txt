@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  bonus >Sales OR  status > 1  OR  employee_id <= 120000.0  OR  status <=Todo OR  id >= 50  OR  retirement_plan >=Communication OR  asset_name > 30  AND  meeting_date != 50  AND  asset_name < 3  AND  end_date >= 50  OR  retirement_plan < 1  AND  health_insurance  LIKE  1  OR  last_name >= 2  ORDER BY  asset_type  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  asset_name =Stuttgart OR  base_salary >Frankfurt OR  department_id = 25  OR  industry !=Finance AND  health_insurance >= 75000.99  AND  hire_date >= 120000.0  OR  description != 50000.5  OR  city  LIKE  4  OR  assigned_to_employee =Engineering AND  id  LIKE Support OR  country < 30000.0  AND  city > 30000.0  ORDER BY  id  ASC ;

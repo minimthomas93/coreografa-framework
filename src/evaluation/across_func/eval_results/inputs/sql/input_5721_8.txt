@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  meeting_date != 75000.99  AND  department_id  LIKE  120000.0  OR  asset_type <=Education OR  meeting_date <=Education OR  location  LIKE Support OR  start_date =Todo AND  meeting_date >Tech AND  base_salary  LIKE  40  OR  id > 75000.99  AND  country = 120000.0  OR  base_salary = 30000.0  AND  name != 75000.99 ;

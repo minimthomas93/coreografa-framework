@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  completion_date <Tech AND  department_id !=Engineering AND  id <= 75000.99  OR  base_salary = 120000.0  OR  base_salary  LIKE Leipzig OR  status  LIKE  30000.0  AND  contact_email != 60  OR  end_date > 50000.5  OR  industry <= 4  OR  asset_type  LIKE  30  OR  description != 25  OR  description < 4  AND  country  LIKE Leipzig ORDER BY  age  DESC ;

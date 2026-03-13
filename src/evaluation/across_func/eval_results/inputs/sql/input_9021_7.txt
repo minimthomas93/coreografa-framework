@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN clients ON employees.department_id = departments.id WHERE  training_name > 4  OR  end_date <= 50  AND  description >Finance OR  department_id  LIKE  120000.0  AND  last_name <=Sales OR  asset_type  LIKE  75000.99  AND  id > 75000.99  AND  asset_name >= 75000.99  AND  id <= 18 ;

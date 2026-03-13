@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  location <= 25  OR  last_name != 25 ;

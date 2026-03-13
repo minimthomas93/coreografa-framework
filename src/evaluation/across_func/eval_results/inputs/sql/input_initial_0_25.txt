@@ -1,0 +1,1 @@
+SELECT  {1,10}  FROM tasks JOIN clients JOIN projects JOIN locations ON salaries.employee_id = employees.id ON meetings.project_id = projects.id ON trainings.employee_id = employees.id ORDER BY  location  ASC ;

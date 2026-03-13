@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN assets ON salaries.employee_id = employees.id;

@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN tasks ON projects.department_id = departments.id WHERE  country < 120000.0  OR  status <=Marketing AND  bonus  LIKE  50  AND  age != 75000.99  AND  age >Tech OR  department_id <= 50  OR  project_id  LIKE  50000.5  AND  status != 3  OR  contact_email  LIKE  75000.99  AND  status >=Excel AND  meeting_date >= 30  AND  retirement_plan <=Sales;

@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  contact_email >= 50  ORDER BY  description  ASC ;

@@ -1,0 +1,1 @@
+SELECT  {21,30}  FROM trainings WHERE  description !=Dusseldorf ORDER BY  start_date  DESC ;

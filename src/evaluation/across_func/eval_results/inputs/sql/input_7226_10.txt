@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN clients ON projects.department_id = departments.id ORDER BY  department_id  DESC ;

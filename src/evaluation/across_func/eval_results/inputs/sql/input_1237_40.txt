@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  project_id != 30  ORDER BY  asset_name  ASC ;

@@ -1,0 +1,1 @@
+SELECT  {21,30}  FROM locations JOIN salaries JOIN clients JOIN salaries JOIN tasks JOIN benefits ON benefits.employee_id = employees.id ON assets.assigned_to_employee = employees.id ON tasks.employee_id = employees.id ON tasks.employee_id = employees.id ON salaries.employee_id = employees.id WHERE  status >=Operations;

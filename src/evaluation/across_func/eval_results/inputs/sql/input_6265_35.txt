@@ -1,0 +1,1 @@
+SELECT  start_date , training_name , name , retirement_plan  city  employee_id  bonus  completion_date , project_id  employee_id , completion_date , city  description , age  country , employee_id  health_insurance  asset_type  first_name  project_id  first_name  health_insurance , contact_email , name  FROM assets WHERE  hire_date >=Munich ORDER BY  training_name  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN benefits ON meetings.project_id = projects.id;

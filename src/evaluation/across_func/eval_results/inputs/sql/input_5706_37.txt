@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN meetings ON projects.department_id = departments.id ORDER BY  training_name  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  base_salary  LIKE Finance OR  first_name = 2  OR  base_salary  LIKE  75000.99  OR  assigned_to_employee >= 3  AND  end_date <= 30000.0 ;

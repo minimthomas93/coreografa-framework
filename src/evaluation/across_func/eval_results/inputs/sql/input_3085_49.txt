@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  department_id !=Tech OR  hire_date  LIKE Cologne AND  asset_type >= 2  AND  asset_type >Leipzig OR  department_id > 30000.0  AND  asset_type = 30000.0  OR  base_salary  LIKE  1  OR  completion_date = 4  OR  asset_name  LIKE HR AND  training_name > 25  AND  city > 18  AND  assigned_to_employee > 40  OR  project_id <=Stuttgart;

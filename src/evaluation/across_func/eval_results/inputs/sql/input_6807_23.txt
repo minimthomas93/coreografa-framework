@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN projects JOIN salaries ON salaries.employee_id = employees.id ON trainings.employee_id = employees.id ORDER BY  id  DESC ;

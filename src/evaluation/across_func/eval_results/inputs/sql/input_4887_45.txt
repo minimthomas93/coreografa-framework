@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN locations JOIN clients ON assets.assigned_to_employee = employees.id ON trainings.employee_id = employees.id WHERE  status > 30000.0  OR  completion_date  LIKE  60  OR  project_id < 2  AND  training_name  LIKE  3  ORDER BY  completion_date  ASC ;

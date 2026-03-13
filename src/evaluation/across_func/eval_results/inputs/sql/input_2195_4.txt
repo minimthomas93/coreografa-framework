@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN meetings JOIN salaries ON employees.department_id = departments.id ON meetings.client_id = clients.id ORDER BY  description  ASC ;

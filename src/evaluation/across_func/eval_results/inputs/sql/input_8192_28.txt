@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  description >=Leipzig ORDER BY  asset_type  DESC ;

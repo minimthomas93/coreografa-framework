@@ -1,0 +1,1 @@
+SELECT  location , meeting_date  meeting_date  training_name  project_id  country , asset_name  FROM tasks ORDER BY  description  DESC ;

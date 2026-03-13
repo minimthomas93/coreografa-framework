@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN departments JOIN departments ON tasks.project_id = projects.id ON meetings.client_id = clients.id ORDER BY  asset_type  ASC ;

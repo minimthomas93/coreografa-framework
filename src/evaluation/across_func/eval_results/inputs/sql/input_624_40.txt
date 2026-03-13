@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN clients JOIN projects ON assets.assigned_to_employee = employees.id ON meetings.project_id = projects.id WHERE  base_salary < 40 ;

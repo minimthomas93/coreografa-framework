@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  contact_email =Retail AND  health_insurance != 120000.0  OR  completion_date <= 2  OR  last_name = 25  OR  location  LIKE  120000.0  OR  health_insurance =Dusseldorf AND  asset_name = 3  AND  name =Python OR  age  LIKE  2  OR  description != 25  AND  country = 3  AND  meeting_date >= 4  ORDER BY  retirement_plan  ASC ;

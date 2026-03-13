@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  hire_date >= 30000.0  AND  assigned_to_employee < 120000.0  AND  industry  LIKE Berlin AND  end_date >Berlin AND  health_insurance  LIKE  120000.0  AND  asset_name > 25  OR  contact_email  LIKE  120000.0  AND  base_salary > 75000.99  OR  description >=Done AND  industry != 18  AND  asset_name  LIKE  75000.99  ORDER BY  assigned_to_employee  ASC ;

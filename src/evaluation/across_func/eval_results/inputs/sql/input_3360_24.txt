@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  end_date < 50000.5  AND  retirement_plan > 4  AND  location >= 3  OR  asset_name = 120000.0  OR  base_salary >= 1  AND  location = 30000.0  AND  completion_date >= 50000.5  AND  location > 75000.99  OR  start_date = 50000.5  OR  first_name  LIKE Finance AND  status > 75000.99  ORDER BY  industry  DESC ;

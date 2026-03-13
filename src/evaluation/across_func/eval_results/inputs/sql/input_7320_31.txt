@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  name  LIKE Dusseldorf AND  base_salary >Healthcare AND  training_name  LIKE Hamburg AND  bonus = 60  AND  age < 75000.99  OR  age > 120000.0  OR  contact_email >= 30  AND  description != 30000.0  ORDER BY  start_date  ASC ;

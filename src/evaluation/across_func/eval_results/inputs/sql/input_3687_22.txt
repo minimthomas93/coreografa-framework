@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN meetings JOIN employees ON employees.department_id = departments.id ON meetings.project_id = projects.id WHERE  employee_id >= 30000.0  AND  base_salary  LIKE Dusseldorf AND  age <= 50 ;

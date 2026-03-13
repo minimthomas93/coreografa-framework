@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  department_id < 25 ;

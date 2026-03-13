@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  training_name = 2  OR  asset_type <= 50  OR  bonus >=Communication ORDER BY  start_date  ASC ;

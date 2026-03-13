@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  age = 1  AND  id < 30  OR  country < 120000.0  AND  last_name >= 50000.5  OR  department_id = 30  OR  employee_id != 50000.5  AND  asset_type  LIKE  30000.0 ;

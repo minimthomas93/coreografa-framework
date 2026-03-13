@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN trainings ON benefits.employee_id = employees.id;

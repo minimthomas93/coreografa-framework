@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN clients ON salaries.employee_id = employees.id WHERE  status > 30  OR  bonus <= 1  AND  base_salary  LIKE Berlin OR  assigned_to_employee  LIKE  60  OR  city >= 30000.0  AND  meeting_date !=HR OR  city <= 2  ORDER BY  asset_type  DESC ;

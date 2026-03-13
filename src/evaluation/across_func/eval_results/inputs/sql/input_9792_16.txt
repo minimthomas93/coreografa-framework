@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN employees ON employees.department_id = departments.id WHERE  last_name != 1  OR  retirement_plan >Healthcare AND  hire_date !=Tech OR  end_date <=Cologne AND  industry  LIKE  30000.0  AND  asset_name != 25  OR  start_date > 4  AND  bonus <Operations;

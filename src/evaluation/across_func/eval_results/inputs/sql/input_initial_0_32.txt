@@ -1,0 +1,1 @@
+SELECT  asset_name  end_date , first_name , description , name , employee_id , asset_name , last_name , end_date  meeting_date  first_name  FROM locations JOIN locations ON employees.department_id = departments.id ORDER BY  status  ASC ;

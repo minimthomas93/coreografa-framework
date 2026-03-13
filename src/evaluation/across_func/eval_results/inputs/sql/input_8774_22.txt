@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  assigned_to_employee  LIKE  75000.99 ;

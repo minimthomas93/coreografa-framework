@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  description != 50  ORDER BY  name  ASC ;

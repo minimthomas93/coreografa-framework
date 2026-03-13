@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN departments JOIN locations JOIN meetings JOIN employees ON projects.department_id = departments.id ON tasks.employee_id = employees.id ON assets.assigned_to_employee = employees.id ON tasks.employee_id = employees.id WHERE  description > 120000.0  ORDER BY  training_name  ASC ;

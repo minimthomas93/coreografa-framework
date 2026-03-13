@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN trainings ON trainings.employee_id = employees.id WHERE  name = 4  AND  meeting_date = 75000.99  OR  contact_email != 50000.5  AND  meeting_date > 40  OR  project_id >= 1  AND  asset_type  LIKE  25  AND  age <=Retail ORDER BY  last_name  ASC ;

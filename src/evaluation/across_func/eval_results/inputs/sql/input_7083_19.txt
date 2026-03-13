@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN departments JOIN meetings ON tasks.project_id = projects.id ON assets.assigned_to_employee = employees.id;

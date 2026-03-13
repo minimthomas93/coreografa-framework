@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN assets JOIN assets JOIN employees ON trainings.employee_id = employees.id ON tasks.employee_id = employees.id ON salaries.employee_id = employees.id ORDER BY  city  DESC ;

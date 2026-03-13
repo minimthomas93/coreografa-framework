@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN benefits ON projects.department_id = departments.id ORDER BY  project_id  ASC ;

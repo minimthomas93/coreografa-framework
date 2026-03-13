@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  training_name =Support OR  asset_name > 120000.0  OR  retirement_plan <= 60  OR  location < 60  AND  first_name >=Excel OR  hire_date  LIKE  3  AND  assigned_to_employee  LIKE  75000.99  AND  retirement_plan != 2  OR  assigned_to_employee <=Operations OR  name  LIKE  40  OR  status < 120000.0  ORDER BY  health_insurance  DESC ;

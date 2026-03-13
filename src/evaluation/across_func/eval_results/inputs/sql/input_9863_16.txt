@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  hire_date = 75000.99  OR  hire_date  LIKE In Progress;

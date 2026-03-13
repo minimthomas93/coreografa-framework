@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN trainings ON salaries.employee_id = employees.id WHERE  asset_type  LIKE Support ORDER BY  first_name  ASC ;

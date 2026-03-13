@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  assigned_to_employee > 50000.5  OR  completion_date = 40  ORDER BY  last_name  ASC ;

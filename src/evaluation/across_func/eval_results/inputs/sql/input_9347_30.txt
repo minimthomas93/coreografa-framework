@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN projects ON benefits.employee_id = employees.id WHERE  employee_id < 4  AND  bonus <=Frankfurt AND  end_date < 30  AND  hire_date < 50000.5  AND  meeting_date >Dusseldorf ORDER BY  description  ASC ;

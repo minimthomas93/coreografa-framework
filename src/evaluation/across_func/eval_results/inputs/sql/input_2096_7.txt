@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  bonus  LIKE Finance AND  industry =Support OR  base_salary < 3  OR  id != 60  OR  asset_type !=Sales OR  retirement_plan != 75000.99  OR  industry = 30  OR  bonus =Tech AND  age >=Leipzig AND  health_insurance > 120000.0  OR  country <= 30  OR  bonus  LIKE  120000.0  AND  department_id  LIKE HR AND  age =HR;

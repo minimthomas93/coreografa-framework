@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  project_id  LIKE Leadership AND  end_date = 120000.0  AND  last_name <= 50000.5 ;

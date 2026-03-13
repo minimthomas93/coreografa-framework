@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN trainings ON meetings.client_id = clients.id WHERE  completion_date != 4  OR  age  LIKE  40  OR  age = 1  AND  asset_name != 18 ;

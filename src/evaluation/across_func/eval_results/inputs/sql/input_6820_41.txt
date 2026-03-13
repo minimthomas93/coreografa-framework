@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  hire_date !=Munich AND  age =R&D OR  completion_date !=Stuttgart OR  asset_name = 30000.0  AND  asset_name >=SQL AND  name  LIKE  25  AND  project_id >=Leipzig AND  project_id >= 2  AND  hire_date != 25  AND  completion_date != 2  AND  employee_id <Python AND  base_salary > 60  AND  base_salary <= 50000.5  ORDER BY  contact_email  DESC ;

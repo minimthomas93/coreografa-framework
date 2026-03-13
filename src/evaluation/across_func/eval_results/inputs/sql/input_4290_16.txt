@@ -1,0 +1,1 @@
+SELECT  base_salary , meeting_date , health_insurance , completion_date , department_id , last_name  description  assigned_to_employee , asset_name  completion_date  industry  end_date  name , status  project_id  id  base_salary , meeting_date  start_date  retirement_plan  start_date  industry  employee_id  FROM salaries;

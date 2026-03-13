@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  city !=Leadership AND  bonus  LIKE Todo OR  health_insurance  LIKE Leipzig OR  id =R&D AND  training_name =Education OR  last_name != 3  OR  end_date != 120000.0  OR  bonus >= 120000.0 ;

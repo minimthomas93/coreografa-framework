@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  hire_date <= 50000.5  OR  age  LIKE  30 ;

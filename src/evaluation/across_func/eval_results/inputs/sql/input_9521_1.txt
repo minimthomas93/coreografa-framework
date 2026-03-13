@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN departments ON benefits.employee_id = employees.id;

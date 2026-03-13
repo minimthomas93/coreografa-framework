@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN salaries ON meetings.client_id = clients.id WHERE  description  LIKE  120000.0  ORDER BY  training_name  DESC ;

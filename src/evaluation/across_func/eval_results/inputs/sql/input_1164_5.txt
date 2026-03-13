@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  country  LIKE  25  AND  age != 3  AND  last_name <= 75000.99  AND  completion_date <Munich OR  description >= 1  AND  contact_email <= 120000.0  OR  department_id  LIKE  50000.5  AND  project_id =SQL AND  bonus <= 18  AND  location < 3  AND  bonus >Healthcare OR  country != 3  AND  assigned_to_employee != 75000.99 ;

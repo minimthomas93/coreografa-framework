@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN projects ON tasks.project_id = projects.id WHERE  start_date <= 50000.5 ;

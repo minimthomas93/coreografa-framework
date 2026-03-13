@@ -1,0 +1,9 @@
+Metric,weasyprint_63,weasyprint_64
+Min. Run time,28928700,27845900
+Max. Run time,593358800,526622700
+Min. Memory peak,175535,176244
+Max. Memory peak,1523613,1462903
+Min. Paragraph text count,1,1
+Max. Paragraph text count,49,49
+Min. Image tag count,1,1
+Max. Image tag count,17,17

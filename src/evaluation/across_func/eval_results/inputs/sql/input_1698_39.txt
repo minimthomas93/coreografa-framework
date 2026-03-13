@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  id != 60  AND  completion_date <= 18  AND  retirement_plan !=Leipzig OR  country >Support AND  end_date >= 50  OR  project_id  LIKE Dusseldorf OR  health_insurance <=Dusseldorf AND  id = 75000.99  OR  training_name = 30  AND  end_date <= 2  AND  employee_id =Leadership OR  completion_date !=Healthcare OR  country  LIKE  120000.0 ;

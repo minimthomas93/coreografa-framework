@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings ORDER BY  age  ASC ;

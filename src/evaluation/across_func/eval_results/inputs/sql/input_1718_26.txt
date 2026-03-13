@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN salaries JOIN clients JOIN employees ON trainings.employee_id = employees.id ON trainings.employee_id = employees.id ON projects.department_id = departments.id ORDER BY  asset_name  DESC ;

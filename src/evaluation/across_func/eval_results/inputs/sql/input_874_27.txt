@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  name <= 75000.99  AND  industry > 4  AND  age != 50000.5  AND  age > 75000.99  OR  hire_date != 1  OR  description  LIKE  25  OR  base_salary  LIKE Berlin OR  status  LIKE  2  AND  assigned_to_employee >= 1  AND  first_name >= 75000.99  AND  start_date  LIKE  50000.5  OR  start_date <Healthcare OR  health_insurance > 50000.5 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  start_date  LIKE  2  OR  country >SQL AND  name  LIKE  1  AND  age < 30  OR  first_name <= 60  OR  start_date =Frankfurt OR  location > 2  OR  name >=Python AND  health_insurance > 30000.0  AND  id > 4  AND  base_salary >= 30000.0  OR  status >= 120000.0  AND  name  LIKE  1  ORDER BY  id  DESC ;

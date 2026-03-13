@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN employees JOIN employees ON salaries.employee_id = employees.id ON tasks.project_id = projects.id WHERE  training_name < 30 ;

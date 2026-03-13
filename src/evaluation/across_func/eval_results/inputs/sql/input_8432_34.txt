@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  description <Dusseldorf ORDER BY  base_salary  ASC ;

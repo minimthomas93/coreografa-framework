@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  id = 4  OR  id !=Munich AND  end_date >= 1  AND  location <=Hamburg AND  meeting_date >=HR OR  industry = 50000.5  AND  assigned_to_employee > 3  AND  training_name <=Dusseldorf OR  id < 60  OR  assigned_to_employee <=Education OR  assigned_to_employee <= 1  AND  start_date = 120000.0  ORDER BY  industry  DESC ;

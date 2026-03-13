@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  age = 60  AND  project_id <= 120000.0  ORDER BY  completion_date  ASC ;

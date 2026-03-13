@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN assets JOIN assets ON meetings.project_id = projects.id ON meetings.project_id = projects.id WHERE  hire_date <In Progress;

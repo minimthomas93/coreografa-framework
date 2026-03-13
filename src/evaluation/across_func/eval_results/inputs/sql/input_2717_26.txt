@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN meetings ON tasks.project_id = projects.id WHERE  country =Support OR  employee_id <SQL OR  status <=Finance AND  employee_id  LIKE  30000.0  OR  contact_email <= 40  OR  retirement_plan >= 60  OR  project_id > 50000.5  AND  bonus <= 120000.0  AND  start_date  LIKE Education OR  completion_date  LIKE Berlin ORDER BY  city  DESC ;

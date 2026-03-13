@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  meeting_date  LIKE  3  ORDER BY  employee_id  DESC ;

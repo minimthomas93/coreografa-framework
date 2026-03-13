@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  contact_email  LIKE Python AND  assigned_to_employee >= 4  AND  status >Finance OR  asset_type < 40  OR  industry < 75000.99  OR  employee_id >=Excel AND  contact_email < 50000.5  AND  start_date > 60  OR  bonus != 3  OR  name > 50  OR  id <Berlin AND  department_id <= 120000.0  AND  id <= 60 ;

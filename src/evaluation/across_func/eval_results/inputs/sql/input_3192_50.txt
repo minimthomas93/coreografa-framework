@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN clients ON trainings.employee_id = employees.id;

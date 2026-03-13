@@ -1,0 +1,53 @@
+{
+    "function": "quicksort",
+    "initial_pop": [
+        "721,-21,-44730,-2,132,3965,-25,201,1,-9,908,-9427,2867,-5628,-361,28617,887,-17\n",
+        "-939,-3,-5036,97379,7,9,-718,-211,-559,-2,-2678,-82249,-1,141,809,33292,5,693\n",
+        "27,5164,1307,-8,-6,42,3,-6,-1791,-458,-9594,0,15960,7255,-8229,-33,82754,-9,31\n",
+        "-17171,-755,8,-53849,108,4932,9,699,-6,-52,4072,3,-7877,-9,11705,14,-9,-50896,-6126\n",
+        "-10,-76179,103,1,1,6,-56,-5,-2,67,0,629,-71037,-9,76,-354,7586,78761,-6,28,20\n",
+        "-585,40981,-46,-75,-865,-25,860,6900,-831,94,73,0,4,238,0,-4,-97832,-7,71,28,95\n",
+        "-55405,925,-37383,-34,3067,-2896,21753,9,-3824,-93,84,2,1301,-745,76,-109,38\n",
+        "6,-3,-82,23,9003,-9,-285,1033,15,72,-3552,4148,-4,-402,-22,-877,-9144,-904,-5\n"
+    ],
+    "initial_pop_files": [
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_1210_6.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_3058_34.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_3069_14.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_3003_44.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_2026_20.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_3000_15.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_3000_35.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sort\\input_1840_46.txt"
+    ],
+    "metric_constraints": [
+        {
+            "name": "memory_peak",
+            "op": ">=",
+            "type": "metric",
+            "value": 1823.6000000000001
+        },
+        {
+            "name": "memory_peak",
+            "op": "<=",
+            "type": "metric",
+            "value": 2016.0
+        }
+    ],
+    "name": "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\split_summary\\sort\\quicksort_summary.csv",
+    "prop_constraints": [
+        {
+            "name": "sortedness",
+            "op": ">=",
+            "type": "prop",
+            "value": 0.35294117647058826
+        },
+        {
+            "name": "sortedness",
+            "op": "<=",
+            "type": "prop",
+            "value": 0.6666666666666666
+        }
+    ],
+    "request_type": "frequency request"
+}

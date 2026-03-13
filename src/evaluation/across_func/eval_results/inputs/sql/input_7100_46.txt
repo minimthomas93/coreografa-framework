@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  employee_id != 2  AND  bonus = 40  OR  assigned_to_employee > 30000.0  OR  industry  LIKE Hamburg OR  employee_id !=Excel AND  start_date < 18  OR  status != 40  AND  industry > 50000.5  OR  employee_id <= 3  AND  last_name >= 25  OR  retirement_plan  LIKE Sales OR  status !=Berlin;

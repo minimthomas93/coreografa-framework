@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  end_date <Leadership AND  project_id >= 120000.0  ORDER BY  age  DESC ;

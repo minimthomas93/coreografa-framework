@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN meetings ON meetings.project_id = projects.id WHERE  project_id >Todo;

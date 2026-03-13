@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN locations ON assets.assigned_to_employee = employees.id;

@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  project_id >Done OR  meeting_date = 30000.0  OR  end_date = 2  AND  retirement_plan <Dusseldorf OR  hire_date > 75000.99 ;

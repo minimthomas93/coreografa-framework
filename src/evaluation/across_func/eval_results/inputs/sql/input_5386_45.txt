@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  asset_type != 120000.0 ;

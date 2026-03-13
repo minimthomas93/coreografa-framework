@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN tasks ON salaries.employee_id = employees.id WHERE  start_date >=Leipzig AND  first_name !=Operations OR  industry =Excel AND  asset_type > 18  OR  end_date <Python OR  retirement_plan  LIKE  50000.5  OR  hire_date <R&D OR  industry <=HR OR  last_name != 50  ORDER BY  assigned_to_employee  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN salaries JOIN assets ON tasks.project_id = projects.id ON tasks.employee_id = employees.id WHERE  department_id > 50000.5  OR  country  LIKE  4  AND  asset_type = 75000.99  AND  base_salary > 25  AND  description <Tech OR  name >=Python OR  first_name = 120000.0  AND  country != 60  OR  assigned_to_employee <Education;

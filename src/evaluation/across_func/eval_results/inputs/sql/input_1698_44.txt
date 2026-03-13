@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN locations ON meetings.project_id = projects.id WHERE  description =Munich;

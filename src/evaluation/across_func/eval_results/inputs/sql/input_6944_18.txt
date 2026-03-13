@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  health_insurance  LIKE  30000.0 ;

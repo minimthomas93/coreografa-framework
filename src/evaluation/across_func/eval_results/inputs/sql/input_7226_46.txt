@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN benefits JOIN departments JOIN assets ON employees.department_id = departments.id ON salaries.employee_id = employees.id ON tasks.employee_id = employees.id ORDER BY  asset_type  ASC ;

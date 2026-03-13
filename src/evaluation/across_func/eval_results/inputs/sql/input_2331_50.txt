@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN clients ON tasks.employee_id = employees.id WHERE  health_insurance  LIKE  120000.0  ORDER BY  status  ASC ;

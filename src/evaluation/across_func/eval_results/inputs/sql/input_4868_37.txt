@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN projects ON employees.department_id = departments.id ORDER BY  country  DESC ;

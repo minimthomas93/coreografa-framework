@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN tasks JOIN locations JOIN tasks JOIN clients ON meetings.client_id = clients.id ON projects.department_id = departments.id ON tasks.project_id = projects.id ON tasks.employee_id = employees.id ORDER BY  description  DESC ;

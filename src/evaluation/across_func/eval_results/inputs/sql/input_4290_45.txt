@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  city >= 120000.0 ;

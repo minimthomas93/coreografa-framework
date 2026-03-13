@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  id <= 75000.99  AND  employee_id >Operations OR  department_id <= 50000.5  OR  age  LIKE Healthcare OR  last_name <=Frankfurt OR  status > 4  AND  hire_date  LIKE  30000.0  AND  city  LIKE  120000.0  OR  department_id <HR AND  age < 120000.0  AND  location > 3  OR  project_id  LIKE  120000.0  AND  training_name <=Todo AND  base_salary >=Retail;

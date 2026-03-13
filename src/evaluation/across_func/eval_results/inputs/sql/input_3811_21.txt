@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN projects ON tasks.project_id = projects.id WHERE  city >=Sales AND  base_salary <=Cologne;

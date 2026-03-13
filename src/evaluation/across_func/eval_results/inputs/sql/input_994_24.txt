@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  asset_name <Excel ORDER BY  training_name  ASC ;

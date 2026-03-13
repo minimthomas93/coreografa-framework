@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  industry >= 2  OR  asset_type >Berlin OR  meeting_date = 30  AND  start_date =Sales AND  retirement_plan <=Sales OR  age  LIKE  25  AND  status > 4  OR  asset_type <=Finance AND  hire_date <=HR AND  last_name >Munich AND  industry > 2  OR  base_salary =Python AND  location < 40 ;

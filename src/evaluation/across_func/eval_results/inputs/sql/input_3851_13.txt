@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  age >= 75000.99  AND  meeting_date <=Frankfurt AND  age  LIKE  2  AND  retirement_plan !=Operations OR  meeting_date >=Munich AND  asset_type > 50  OR  start_date >= 25  AND  hire_date < 2  AND  employee_id = 75000.99  OR  location !=HR AND  hire_date  LIKE  30000.0  OR  description  LIKE Engineering AND  last_name >= 25  OR  hire_date >=Leipzig;

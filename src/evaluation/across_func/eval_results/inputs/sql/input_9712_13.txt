@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN clients ON benefits.employee_id = employees.id WHERE  end_date >= 25 ;

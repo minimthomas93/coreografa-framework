@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN trainings ON tasks.project_id = projects.id WHERE  assigned_to_employee != 120000.0  AND  employee_id != 50000.5  ORDER BY  employee_id  DESC ;

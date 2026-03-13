@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN trainings JOIN departments JOIN departments ON trainings.employee_id = employees.id ON meetings.project_id = projects.id ON projects.department_id = departments.id WHERE  hire_date >Cologne AND  name  LIKE Retail;

@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN departments ON projects.department_id = departments.id WHERE  status >Retail AND  description > 3  OR  industry >= 60  OR  hire_date >= 75000.99  AND  asset_name  LIKE  30000.0  OR  id <Support OR  start_date > 2  AND  meeting_date =SQL OR  asset_type  LIKE  50000.5  AND  country = 120000.0 ;

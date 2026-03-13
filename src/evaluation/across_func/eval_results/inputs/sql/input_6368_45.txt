@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  base_salary = 4 ;

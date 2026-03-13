@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  asset_name < 75000.99  ORDER BY  department_id  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  meeting_date = 2  OR  age  LIKE  75000.99  AND  asset_type > 18  OR  first_name != 75000.99  AND  status  LIKE  1  AND  name > 60  OR  bonus <=Frankfurt AND  assigned_to_employee != 3  OR  asset_name = 2  OR  first_name > 50000.5  ORDER BY  training_name  ASC ;

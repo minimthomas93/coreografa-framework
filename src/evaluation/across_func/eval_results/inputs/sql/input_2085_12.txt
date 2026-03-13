@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  last_name > 2  OR  training_name =Finance OR  last_name >= 30000.0  AND  last_name  LIKE  25  OR  employee_id  LIKE  30000.0  AND  completion_date >Munich ORDER BY  health_insurance  ASC ;

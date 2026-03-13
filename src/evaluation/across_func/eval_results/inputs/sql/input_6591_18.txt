@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN assets JOIN salaries JOIN assets JOIN employees ON assets.assigned_to_employee = employees.id ON meetings.project_id = projects.id ON projects.department_id = departments.id ON benefits.employee_id = employees.id ORDER BY  status  ASC ;

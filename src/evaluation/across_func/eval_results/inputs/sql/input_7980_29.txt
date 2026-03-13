@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN tasks JOIN locations ON tasks.employee_id = employees.id ON employees.department_id = departments.id ORDER BY  end_date  ASC ;

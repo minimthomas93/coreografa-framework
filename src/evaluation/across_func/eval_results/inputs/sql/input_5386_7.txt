@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN trainings ON assets.assigned_to_employee = employees.id ORDER BY  completion_date  ASC ;

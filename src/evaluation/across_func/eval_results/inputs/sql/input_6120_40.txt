@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  country !=Sales AND  asset_type <=Communication OR  industry <Sales AND  location <=Python AND  hire_date = 30000.0  AND  base_salary < 50000.5  OR  city > 120000.0  OR  industry = 3  AND  id >= 18  AND  industry <= 18  OR  bonus <=Excel;

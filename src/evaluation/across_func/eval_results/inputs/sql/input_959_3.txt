@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN employees ON projects.department_id = departments.id WHERE  assigned_to_employee <=Stuttgart;

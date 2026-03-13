@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN projects JOIN departments JOIN benefits ON tasks.employee_id = employees.id ON tasks.employee_id = employees.id ON benefits.employee_id = employees.id ORDER BY  health_insurance  ASC ;

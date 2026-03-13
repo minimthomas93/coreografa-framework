@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN employees JOIN meetings JOIN clients JOIN trainings ON tasks.project_id = projects.id ON salaries.employee_id = employees.id ON employees.department_id = departments.id ON trainings.employee_id = employees.id WHERE  status !=Python OR  end_date >= 30 ;

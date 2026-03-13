@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN clients ON projects.department_id = departments.id ORDER BY  country  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  asset_name >Marketing OR  age <=Healthcare AND  country =Frankfurt OR  health_insurance > 60  OR  health_insurance <Berlin OR  health_insurance <= 2  AND  contact_email <Finance OR  hire_date > 50  AND  meeting_date >= 30  OR  name =Frankfurt AND  status != 50  OR  bonus >= 120000.0  AND  health_insurance =SQL AND  id =Frankfurt;

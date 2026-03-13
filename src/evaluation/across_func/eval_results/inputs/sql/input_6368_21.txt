@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  completion_date <=Leadership OR  description < 30  OR  base_salary != 18  OR  assigned_to_employee != 30000.0  OR  location != 18  AND  id <Sales OR  status >= 50000.5  AND  name !=Communication AND  base_salary  LIKE SQL OR  description = 40  AND  contact_email != 30  AND  last_name !=Retail OR  id > 120000.0 ;

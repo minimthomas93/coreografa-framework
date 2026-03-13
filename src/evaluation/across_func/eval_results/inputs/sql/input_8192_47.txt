@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN departments JOIN benefits ON meetings.client_id = clients.id ON projects.department_id = departments.id;

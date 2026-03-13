@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN locations ON tasks.project_id = projects.id ORDER BY  first_name  ASC ;

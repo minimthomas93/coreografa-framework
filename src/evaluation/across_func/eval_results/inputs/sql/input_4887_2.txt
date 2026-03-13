@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  id >= 30000.0  ORDER BY  city  DESC ;

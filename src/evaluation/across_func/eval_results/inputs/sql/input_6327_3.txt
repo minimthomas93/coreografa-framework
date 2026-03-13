@@ -1,0 +1,1 @@
+SELECT  *  FROM projects ORDER BY  status  DESC ;

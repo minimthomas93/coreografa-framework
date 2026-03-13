@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN departments ON tasks.project_id = projects.id WHERE  retirement_plan  LIKE  120000.0 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  description <=Finance ORDER BY  country  DESC ;

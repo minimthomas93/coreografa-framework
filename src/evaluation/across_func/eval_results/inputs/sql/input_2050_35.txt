@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN benefits ON meetings.project_id = projects.id ORDER BY  asset_type  DESC ;

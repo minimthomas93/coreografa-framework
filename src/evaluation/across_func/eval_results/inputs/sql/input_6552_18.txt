@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  department_id !=R&D ORDER BY  base_salary  DESC ;

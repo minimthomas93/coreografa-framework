@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN locations JOIN projects ON tasks.project_id = projects.id ON employees.department_id = departments.id WHERE  meeting_date = 120000.0 ;

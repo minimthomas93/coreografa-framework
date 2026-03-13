@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  retirement_plan <= 75000.99  AND  health_insurance  LIKE  3  OR  country = 3  ORDER BY  health_insurance  ASC ;

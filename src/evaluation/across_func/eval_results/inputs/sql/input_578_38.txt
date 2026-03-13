@@ -1,0 +1,1 @@
+SELECT  assigned_to_employee  end_date , completion_date , retirement_plan  name  asset_type  last_name  status  contact_email , country  last_name  completion_date  FROM benefits JOIN tasks JOIN locations JOIN locations ON projects.department_id = departments.id ON benefits.employee_id = employees.id ON benefits.employee_id = employees.id ORDER BY  employee_id  DESC ;

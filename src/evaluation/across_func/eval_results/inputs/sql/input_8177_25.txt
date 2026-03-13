@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries ORDER BY  hire_date  ASC ;

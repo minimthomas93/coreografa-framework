@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN employees JOIN meetings ON employees.department_id = departments.id ON meetings.project_id = projects.id ORDER BY  description  DESC ;

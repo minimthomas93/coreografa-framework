@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN trainings ON employees.department_id = departments.id;

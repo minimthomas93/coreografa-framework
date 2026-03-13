@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  retirement_plan =Cologne;

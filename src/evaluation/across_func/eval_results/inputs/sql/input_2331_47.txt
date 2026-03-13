@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  end_date >Frankfurt OR  first_name < 40  AND  description >Cologne OR  bonus > 30000.0  OR  bonus < 2  AND  location >Stuttgart AND  retirement_plan >Operations OR  employee_id >=Hamburg OR  bonus >=Stuttgart OR  contact_email != 1  AND  description  LIKE  3  OR  retirement_plan = 4  AND  city >=Todo;

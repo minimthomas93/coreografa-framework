@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN employees ON salaries.employee_id = employees.id WHERE  location != 120000.0  AND  meeting_date >= 50 ;

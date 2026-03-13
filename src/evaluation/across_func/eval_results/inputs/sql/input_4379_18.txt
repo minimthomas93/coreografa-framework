@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  city <R&D OR  country <= 50000.5  AND  last_name >Berlin OR  start_date < 50000.5  OR  industry <HR OR  asset_name > 120000.0  AND  completion_date != 50000.5  AND  training_name <Hamburg OR  base_salary  LIKE Dusseldorf AND  location = 30  AND  end_date <= 30000.0  AND  asset_type > 1  OR  asset_name >Hamburg;

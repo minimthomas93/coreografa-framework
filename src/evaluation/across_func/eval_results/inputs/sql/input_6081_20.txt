@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN locations ON assets.assigned_to_employee = employees.id ORDER BY  description  DESC ;

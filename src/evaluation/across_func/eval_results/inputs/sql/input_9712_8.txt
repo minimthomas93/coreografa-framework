@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN tasks JOIN locations ON employees.department_id = departments.id ON meetings.client_id = clients.id WHERE  meeting_date != 75000.99 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  assigned_to_employee < 75000.99  OR  bonus >= 30000.0  AND  location > 30000.0  ORDER BY  name  DESC ;

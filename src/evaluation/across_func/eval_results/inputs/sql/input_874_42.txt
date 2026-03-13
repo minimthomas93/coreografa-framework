@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN departments ON meetings.project_id = projects.id WHERE  completion_date  LIKE  60 ;

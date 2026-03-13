@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN trainings ON salaries.employee_id = employees.id WHERE  id <= 75000.99  AND  status = 30000.0  OR  industry < 30000.0  OR  contact_email >Engineering OR  meeting_date <=Stuttgart AND  project_id <=Sales AND  first_name >Retail AND  description <=HR OR  department_id < 30000.0  AND  base_salary < 75000.99  ORDER BY  project_id  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  hire_date > 25  AND  base_salary >= 30000.0 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN meetings ON meetings.project_id = projects.id;

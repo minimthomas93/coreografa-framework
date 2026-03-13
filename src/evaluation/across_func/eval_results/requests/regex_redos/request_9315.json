@@ -1,0 +1,33 @@
+{
+    "function": "redos_match",
+    "initial_pop": [
+        "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab\n"
+    ],
+    "initial_pop_files": [
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex_redos\\input_1761_11.txt"
+    ],
+    "metric_constraints": [
+        {
+            "name": "runtime_ns",
+            "op": ">=",
+            "type": "metric",
+            "value": 718000.0
+        },
+        {
+            "name": "runtime_ns",
+            "op": "<=",
+            "type": "metric",
+            "value": 718000.0
+        }
+    ],
+    "name": "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\split_summary\\regex_redos\\redos_match_summary.csv",
+    "prop_constraints": [
+        {
+            "name": "count_a",
+            "op": ">=",
+            "type": "prop",
+            "value": 10.0
+        }
+    ],
+    "request_type": "upper edge request"
+}

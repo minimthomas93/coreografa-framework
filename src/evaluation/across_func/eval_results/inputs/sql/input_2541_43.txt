@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN departments ON tasks.employee_id = employees.id ORDER BY  id  ASC ;

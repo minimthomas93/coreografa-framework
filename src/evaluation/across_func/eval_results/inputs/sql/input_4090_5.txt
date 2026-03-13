@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  asset_type !=Engineering AND  start_date > 60  AND  contact_email <Cologne OR  city  LIKE  50000.5  AND  description  LIKE  3  AND  age != 50000.5  OR  hire_date > 50000.5  OR  assigned_to_employee =Communication AND  training_name =Todo AND  project_id <=Communication AND  department_id >HR AND  employee_id > 30000.0  OR  id  LIKE  40 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN clients ON meetings.project_id = projects.id WHERE  location =SQL OR  meeting_date <=Python;

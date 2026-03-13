@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN departments ON benefits.employee_id = employees.id WHERE  asset_name =Dusseldorf;

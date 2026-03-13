@@ -1,0 +1,1 @@
+SELECT  department_id  country  contact_email , training_name , bonus , name  end_date  end_date  FROM benefits;

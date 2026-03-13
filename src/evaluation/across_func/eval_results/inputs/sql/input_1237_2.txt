@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN employees JOIN employees JOIN assets ON meetings.client_id = clients.id ON meetings.client_id = clients.id ON meetings.client_id = clients.id ORDER BY  completion_date  ASC ;

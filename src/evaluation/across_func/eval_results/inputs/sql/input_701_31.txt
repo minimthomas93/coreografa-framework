@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  contact_email = 18  AND  first_name !=Leadership AND  department_id <= 75000.99  AND  end_date <= 1  AND  health_insurance < 30000.0  OR  status >= 120000.0  AND  location = 60  AND  name = 2  AND  first_name >=Python OR  location > 50000.5 ;

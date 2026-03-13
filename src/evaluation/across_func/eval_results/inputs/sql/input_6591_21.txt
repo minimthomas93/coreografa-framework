@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  department_id !=Munich AND  department_id  LIKE Stuttgart OR  training_name >=Todo OR  retirement_plan  LIKE Marketing;

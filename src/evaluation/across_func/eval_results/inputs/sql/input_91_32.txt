@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  country >Berlin OR  city > 50  OR  project_id = 4  AND  name != 2  OR  status >=Finance OR  asset_type >= 1  AND  health_insurance < 50  OR  location  LIKE  50000.5  OR  contact_email = 1  OR  health_insurance <= 3  AND  last_name <Berlin AND  retirement_plan =Stuttgart AND  start_date = 1 ;

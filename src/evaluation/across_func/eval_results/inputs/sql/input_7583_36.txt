@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN tasks JOIN salaries ON tasks.employee_id = employees.id ON benefits.employee_id = employees.id;

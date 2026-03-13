@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  country >= 30  AND  meeting_date = 30  ORDER BY  location  ASC ;

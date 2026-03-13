@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  health_insurance >Tech ORDER BY  health_insurance  ASC ;

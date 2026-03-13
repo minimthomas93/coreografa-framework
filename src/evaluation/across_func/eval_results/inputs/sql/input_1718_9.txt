@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN benefits JOIN meetings JOIN meetings ON employees.department_id = departments.id ON benefits.employee_id = employees.id ON tasks.project_id = projects.id WHERE  end_date =Marketing ORDER BY  industry  DESC ;

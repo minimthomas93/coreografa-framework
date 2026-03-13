@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN locations ON tasks.project_id = projects.id WHERE  asset_type  LIKE In Progress OR  employee_id <= 60  AND  name >=Healthcare ORDER BY  training_name  ASC ;

@@ -1,0 +1,1 @@
+SELECT  asset_name  city , first_name , asset_type , asset_type , city  id  hire_date , end_date , employee_id  city , base_salary  completion_date , status  completion_date  department_id  FROM locations WHERE  last_name <Tech;

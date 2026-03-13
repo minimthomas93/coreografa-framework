@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN assets ON salaries.employee_id = employees.id ORDER BY  status  ASC ;

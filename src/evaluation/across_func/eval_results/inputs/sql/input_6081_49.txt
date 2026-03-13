@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN trainings ON tasks.employee_id = employees.id WHERE  meeting_date >= 50000.5  OR  start_date  LIKE Operations AND  description < 50000.5  OR  age <=Done OR  last_name <=Done OR  age = 2  AND  employee_id < 2  OR  completion_date < 4  OR  completion_date != 30000.0  OR  completion_date > 75000.99  AND  hire_date <=Berlin;

@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  start_date <= 4  AND  training_name < 4  ORDER BY  base_salary  DESC ;

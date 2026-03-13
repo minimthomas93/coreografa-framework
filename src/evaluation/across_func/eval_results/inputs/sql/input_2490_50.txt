@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  base_salary  LIKE  30000.0  AND  asset_type != 3  AND  status > 75000.99  OR  age =Retail AND  base_salary <= 2  AND  name <=Finance AND  start_date <Finance AND  last_name  LIKE  50000.5  AND  base_salary > 1  AND  base_salary <Education OR  assigned_to_employee = 50  AND  training_name = 4  AND  last_name > 75000.99  ORDER BY  asset_name  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN salaries JOIN departments ON employees.department_id = departments.id ON tasks.employee_id = employees.id ORDER BY  assigned_to_employee  DESC ;

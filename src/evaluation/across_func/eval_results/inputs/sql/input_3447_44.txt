@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN clients JOIN tasks JOIN projects ON employees.department_id = departments.id ON employees.department_id = departments.id ON salaries.employee_id = employees.id;

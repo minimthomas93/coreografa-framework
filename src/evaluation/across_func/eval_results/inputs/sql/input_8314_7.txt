@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  location < 75000.99  OR  age = 75000.99  ORDER BY  first_name  ASC ;

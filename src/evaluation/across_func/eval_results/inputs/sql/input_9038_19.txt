@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN clients JOIN benefits JOIN meetings JOIN trainings ON tasks.employee_id = employees.id ON meetings.client_id = clients.id ON salaries.employee_id = employees.id ON trainings.employee_id = employees.id ORDER BY  base_salary  DESC ;

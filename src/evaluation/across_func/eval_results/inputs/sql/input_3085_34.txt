@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN trainings JOIN clients JOIN employees JOIN assets JOIN departments ON salaries.employee_id = employees.id ON projects.department_id = departments.id ON meetings.client_id = clients.id ON meetings.client_id = clients.id ON employees.department_id = departments.id ORDER BY  name  ASC ;

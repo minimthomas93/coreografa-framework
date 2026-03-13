@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN departments ON benefits.employee_id = employees.id ORDER BY  employee_id  ASC ;

@@ -1,0 +1,51 @@
+{
+    "function": "sql_sqlite",
+    "initial_pop": [
+        "SELECT  *  FROM tasks ORDER BY  training_name  DESC ;\n",
+        "SELECT  meeting_date , retirement_plan  name  city , hire_date , meeting_date , bonus , retirement_plan  last_name  asset_name  description  first_name , name  department_id  name , bonus  hire_date  employee_id , location  hire_date  retirement_plan  project_id  contact_email , asset_name  hire_date , age  location , project_id  training_name  completion_date , base_salary , start_date  end_date , location , city  base_salary , first_name  meeting_date  base_salary  location  base_salary , project_id , asset_type , project_id , meeting_date , base_salary , retirement_plan , start_date  description , age  contact_email , asset_name  FROM clients;\n",
+        "SELECT  *  FROM assets JOIN meetings JOIN projects JOIN meetings JOIN trainings JOIN departments JOIN meetings JOIN clients ON assets.assigned_to_employee = employees.id ON tasks.project_id = projects.id ON employees.department_id = departments.id ON trainings.employee_id = employees.id ON tasks.employee_id = employees.id ON assets.assigned_to_employee = employees.id ON salaries.employee_id = employees.id ORDER BY  name  ASC ;\n",
+        "SELECT  *  FROM employees JOIN assets ON trainings.employee_id = employees.id WHERE  bonus >= 30000.0 ;\n",
+        "SELECT  *  FROM tasks WHERE  start_date < 40 ;\n",
+        "SELECT  assigned_to_employee , last_name , retirement_plan  training_name , contact_email  contact_email , location  training_name  employee_id , completion_date , last_name , employee_id , status , project_id , hire_date , last_name  asset_type  contact_email , asset_name , id , employee_id , last_name  id , description  project_id , last_name  asset_type  project_id , first_name  id  last_name , employee_id  contact_email , description , description  employee_id , name  last_name , asset_name , asset_name  meeting_date  employee_id , age  retirement_plan , training_name , base_salary  industry  first_name , retirement_plan , status  FROM tasks;\n",
+        "SELECT  *  FROM benefits WHERE  start_date != 30000.0  AND  base_salary <= 30000.0  AND  meeting_date <=Support AND  project_id = 60  OR  name  LIKE Berlin OR  industry <= 30  OR  hire_date  LIKE Operations OR  age > 75000.99  OR  assigned_to_employee >Excel AND  description  LIKE  40  AND  start_date <R&D AND  training_name >=Excel AND  base_salary = 60  AND  id < 75000.99 ;\n"
+    ],
+    "initial_pop_files": [
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_1079_28.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_1237_47.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_1718_4.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_2331_37.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_2490_46.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_3071_11.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_3085_15.txt"
+    ],
+    "metric_constraints": [
+        {
+            "name": "memory_peak",
+            "op": ">=",
+            "type": "metric",
+            "value": 4094.6
+        },
+        {
+            "name": "memory_peak",
+            "op": "<=",
+            "type": "metric",
+            "value": 4424.299999999999
+        }
+    ],
+    "name": "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\split_summary\\sql\\sql_sqlite_summary.csv",
+    "prop_constraints": [
+        {
+            "name": "count_tables",
+            "op": ">=",
+            "type": "prop",
+            "value": 1.0
+        },
+        {
+            "name": "count_tables",
+            "op": "<=",
+            "type": "prop",
+            "value": 1.0
+        }
+    ],
+    "request_type": "frequency request"
+}

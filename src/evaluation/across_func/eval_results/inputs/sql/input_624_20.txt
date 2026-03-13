@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN salaries ON tasks.employee_id = employees.id ORDER BY  last_name  DESC ;

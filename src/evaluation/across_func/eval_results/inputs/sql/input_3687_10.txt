@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  location >= 40  AND  bonus  LIKE R&D OR  completion_date >=Cologne;

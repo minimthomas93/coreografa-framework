@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  assigned_to_employee >=Tech AND  project_id < 30  OR  training_name = 25  OR  completion_date >= 60  OR  city =Engineering OR  asset_type <Engineering AND  department_id != 75000.99  OR  health_insurance  LIKE Engineering OR  end_date = 3  OR  age >= 50000.5  ORDER BY  meeting_date  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  id >Leadership OR  employee_id >=Communication AND  location < 75000.99  AND  description <=Tech AND  base_salary =Engineering AND  asset_name >= 120000.0  AND  project_id >= 120000.0  OR  health_insurance  LIKE  30000.0  OR  end_date !=Cologne OR  employee_id >= 3  OR  bonus = 1  AND  last_name >Communication ORDER BY  base_salary  ASC ;

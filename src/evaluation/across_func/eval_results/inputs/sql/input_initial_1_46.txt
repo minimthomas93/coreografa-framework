@@ -1,0 +1,1 @@
+SELECT  {11,20}  FROM clients JOIN projects JOIN employees ON tasks.project_id = projects.id ON meetings.client_id = clients.id WHERE  name <=Todo ORDER BY  name  ASC ;

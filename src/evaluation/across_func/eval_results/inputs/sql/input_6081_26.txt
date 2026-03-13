@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN trainings ON employees.department_id = departments.id ORDER BY  city  ASC ;

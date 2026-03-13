@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN benefits JOIN salaries JOIN meetings JOIN assets ON employees.department_id = departments.id ON salaries.employee_id = employees.id ON meetings.project_id = projects.id ON assets.assigned_to_employee = employees.id ORDER BY  completion_date  DESC ;

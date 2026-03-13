@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  name > 30  AND  first_name >Dusseldorf ORDER BY  asset_type  ASC ;

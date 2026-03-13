@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  name > 120000.0  OR  project_id > 2  AND  age = 40  OR  meeting_date >=Excel AND  status = 120000.0  OR  asset_name <Excel OR  city >=Munich AND  id <=Frankfurt AND  department_id >=Python ORDER BY  start_date  ASC ;

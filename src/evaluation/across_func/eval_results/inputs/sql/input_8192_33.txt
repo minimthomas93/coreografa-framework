@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN salaries JOIN projects ON tasks.employee_id = employees.id ON tasks.project_id = projects.id ORDER BY  city  ASC ;

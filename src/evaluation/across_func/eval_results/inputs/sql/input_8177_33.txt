@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  name <= 30000.0  ORDER BY  employee_id  DESC ;

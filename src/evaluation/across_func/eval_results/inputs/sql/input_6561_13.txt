@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  description !=Frankfurt OR  age =Munich AND  bonus  LIKE  2  OR  industry >=Dusseldorf AND  name >= 30  OR  asset_name < 120000.0  AND  base_salary >Operations OR  employee_id >=Operations OR  health_insurance <= 120000.0  AND  asset_type <= 50000.5  AND  health_insurance <=Stuttgart OR  status <= 2  OR  location != 3  OR  hire_date != 2 ;

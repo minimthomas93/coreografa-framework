@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  first_name = 50000.5 ;

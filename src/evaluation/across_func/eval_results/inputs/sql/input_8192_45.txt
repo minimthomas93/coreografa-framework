@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  hire_date > 75000.99  ORDER BY  location  ASC ;

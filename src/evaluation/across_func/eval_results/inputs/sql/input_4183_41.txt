@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  project_id < 3  AND  asset_name != 4  OR  id >Python OR  city = 60  AND  start_date < 60  AND  description >= 75000.99  OR  hire_date  LIKE  1  OR  employee_id > 50000.5  OR  description =R&D OR  id < 40  OR  bonus  LIKE Engineering ORDER BY  training_name  DESC ;

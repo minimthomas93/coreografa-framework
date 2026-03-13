@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN trainings JOIN projects JOIN trainings ON tasks.project_id = projects.id ON tasks.project_id = projects.id ON tasks.project_id = projects.id;

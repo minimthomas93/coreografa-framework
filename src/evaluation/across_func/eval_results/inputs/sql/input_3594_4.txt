@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN projects JOIN assets ON projects.department_id = departments.id ON meetings.client_id = clients.id WHERE  status <= 60  AND  description >= 50  ORDER BY  last_name  DESC ;

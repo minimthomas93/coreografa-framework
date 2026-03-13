@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  city = 50  OR  asset_name = 120000.0  AND  industry != 3  OR  meeting_date >= 18  AND  contact_email <= 30  OR  status >Finance OR  last_name <=Engineering AND  city >= 30  OR  last_name  LIKE Cologne AND  completion_date >= 75000.99  OR  last_name  LIKE  1 ;

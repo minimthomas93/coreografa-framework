@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN benefits JOIN departments ON projects.department_id = departments.id ON meetings.project_id = projects.id ORDER BY  start_date  DESC ;

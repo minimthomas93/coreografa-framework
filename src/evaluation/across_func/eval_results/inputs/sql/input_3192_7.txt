@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN departments ON employees.department_id = departments.id WHERE  start_date < 25  OR  meeting_date < 2  OR  id < 50000.5  AND  start_date <=Communication OR  age != 30000.0  AND  end_date >= 60  OR  location > 120000.0  AND  asset_name <= 50000.5  AND  age >= 120000.0  OR  description  LIKE  30000.0  OR  location <Sales ORDER BY  last_name  DESC ;

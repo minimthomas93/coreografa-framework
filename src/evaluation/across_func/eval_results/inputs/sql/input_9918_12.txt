@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  training_name > 50000.5 ;

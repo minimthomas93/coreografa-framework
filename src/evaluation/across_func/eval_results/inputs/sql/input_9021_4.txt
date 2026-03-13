@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN projects JOIN locations ON salaries.employee_id = employees.id ON meetings.project_id = projects.id ORDER BY  description  ASC ;

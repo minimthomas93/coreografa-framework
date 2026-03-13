@@ -1,0 +1,1 @@
+SELECT  {1,10}  FROM assets JOIN clients ON benefits.employee_id = employees.id WHERE  description !=Sales AND  age = 30000.0 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN employees ON employees.department_id = departments.id WHERE  city < 4  OR  status <= 40  OR  project_id <= 30000.0  AND  completion_date =Finance AND  end_date >= 25  OR  contact_email >Sales OR  status <= 40  AND  city != 4  AND  retirement_plan >= 1  OR  country >=Excel OR  status >Done ORDER BY  meeting_date  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN tasks ON meetings.project_id = projects.id WHERE  industry >Cologne OR  health_insurance >= 25  AND  asset_name > 30 ;

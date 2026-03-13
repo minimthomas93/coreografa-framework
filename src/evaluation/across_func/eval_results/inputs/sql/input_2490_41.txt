@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  start_date <= 2  OR  asset_type >Done OR  start_date = 75000.99  OR  industry > 2  AND  assigned_to_employee  LIKE  30  OR  asset_name <=Done AND  asset_name = 50  OR  asset_name !=Sales AND  completion_date =Tech OR  description  LIKE HR OR  assigned_to_employee =Todo OR  industry > 2  AND  end_date > 50000.5  ORDER BY  asset_type  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  end_date  LIKE Todo OR  retirement_plan <= 50000.5  OR  id =Cologne AND  project_id  LIKE Cologne AND  training_name !=Engineering OR  hire_date != 50  OR  base_salary >Healthcare OR  description != 75000.99  AND  industry != 30000.0  AND  project_id !=Finance ORDER BY  city  ASC ;

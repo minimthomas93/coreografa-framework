@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  project_id =Stuttgart OR  start_date >Finance AND  city < 60  OR  start_date <= 120000.0  OR  age > 2  AND  asset_name > 50000.5  OR  base_salary != 50  OR  employee_id =Healthcare OR  start_date !=Marketing AND  description < 120000.0  OR  age <= 30000.0  AND  bonus = 18  AND  hire_date <=Communication AND  training_name >= 120000.0 ;

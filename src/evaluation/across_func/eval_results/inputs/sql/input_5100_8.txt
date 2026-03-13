@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  department_id  LIKE  40  OR  training_name = 50  OR  health_insurance  LIKE SQL OR  hire_date <= 4  OR  start_date >=Tech OR  description != 30000.0  OR  asset_type = 50000.5  AND  asset_type > 120000.0  OR  contact_email != 3  AND  country <= 75000.99  OR  status = 60  OR  id > 75000.99  AND  base_salary != 40  AND  asset_type <= 30 ;

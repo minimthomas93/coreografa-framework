@@ -1,0 +1,1 @@
+SELECT  age , contact_email , assigned_to_employee  first_name , end_date  retirement_plan  project_id  training_name  project_id , last_name  training_name  FROM clients;

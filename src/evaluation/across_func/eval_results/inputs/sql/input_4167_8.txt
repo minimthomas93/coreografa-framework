@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  asset_name !=Cologne ORDER BY  assigned_to_employee  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN trainings JOIN locations ON projects.department_id = departments.id ON benefits.employee_id = employees.id WHERE  employee_id <= 50000.5  ORDER BY  age  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  age >= 30  OR  employee_id  LIKE  30000.0  AND  status  LIKE  4  ORDER BY  first_name  ASC ;

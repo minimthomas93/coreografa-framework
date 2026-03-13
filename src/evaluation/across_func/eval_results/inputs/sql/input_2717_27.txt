@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  location < 120000.0  ORDER BY  description  ASC ;

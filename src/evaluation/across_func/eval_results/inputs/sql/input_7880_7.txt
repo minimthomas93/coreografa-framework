@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  end_date >=Excel;

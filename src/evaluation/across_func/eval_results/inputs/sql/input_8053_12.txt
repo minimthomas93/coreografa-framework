@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  start_date >=Excel OR  end_date <= 40  AND  last_name <=Marketing OR  first_name != 75000.99  OR  asset_type <Communication OR  hire_date >= 75000.99  OR  first_name != 4  OR  start_date =Retail AND  age =Excel OR  location =Marketing AND  employee_id =Munich AND  start_date != 50000.5  OR  first_name >=Communication OR  city = 75000.99 ;

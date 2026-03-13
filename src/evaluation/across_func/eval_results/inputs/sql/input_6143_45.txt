@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  retirement_plan <= 60  AND  start_date != 4  OR  industry >Munich AND  hire_date != 1  AND  asset_type >Marketing OR  description >=Frankfurt OR  name = 50  AND  contact_email < 75000.99  AND  training_name  LIKE In Progress AND  training_name  LIKE Marketing OR  project_id >Finance ORDER BY  location  ASC ;

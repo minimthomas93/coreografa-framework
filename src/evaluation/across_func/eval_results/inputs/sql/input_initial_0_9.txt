@@ -1,0 +1,1 @@
+SELECT  industry  status , project_id  last_name , status  hire_date , training_name  FROM salaries WHERE  meeting_date <=Education ORDER BY  description  ASC ;

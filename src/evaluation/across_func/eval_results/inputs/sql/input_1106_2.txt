@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  employee_id > 30  ORDER BY  completion_date  DESC ;

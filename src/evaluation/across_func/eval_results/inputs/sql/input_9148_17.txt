@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  asset_name  LIKE Berlin OR  asset_name >= 75000.99  OR  country > 60  AND  employee_id = 3  AND  bonus = 30000.0  AND  asset_type =Done AND  employee_id != 60  AND  country >= 25  AND  start_date <HR OR  asset_type <Hamburg AND  last_name  LIKE Retail;

@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  project_id  LIKE  120000.0  OR  city > 3  ORDER BY  location  DESC ;

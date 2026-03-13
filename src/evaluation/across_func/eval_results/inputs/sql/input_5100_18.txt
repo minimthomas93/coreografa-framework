@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN locations ON trainings.employee_id = employees.id ORDER BY  assigned_to_employee  ASC ;

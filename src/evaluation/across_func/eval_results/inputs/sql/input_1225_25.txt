@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN departments JOIN departments ON assets.assigned_to_employee = employees.id ON benefits.employee_id = employees.id WHERE  age < 60  OR  employee_id <= 75000.99 ;

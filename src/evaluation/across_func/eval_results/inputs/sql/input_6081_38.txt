@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN projects ON employees.department_id = departments.id WHERE  project_id >= 50000.5  AND  meeting_date <=Sales AND  asset_type < 120000.0  OR  industry  LIKE  30  AND  end_date != 50000.5  AND  retirement_plan <=Todo OR  asset_name <Engineering AND  assigned_to_employee >= 30000.0  OR  retirement_plan != 75000.99  AND  location <=Munich;

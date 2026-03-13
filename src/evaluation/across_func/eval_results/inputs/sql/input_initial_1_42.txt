@@ -1,0 +1,1 @@
+SELECT  {11,20}  FROM clients JOIN tasks ON projects.department_id = departments.id;

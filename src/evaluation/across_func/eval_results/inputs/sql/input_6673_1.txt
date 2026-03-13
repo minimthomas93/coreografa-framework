@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  meeting_date > 75000.99  ORDER BY  department_id  ASC ;

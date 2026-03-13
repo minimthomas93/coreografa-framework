@@ -1,0 +1,1 @@
+SELECT  base_salary , retirement_plan  completion_date  bonus  health_insurance , end_date  location  retirement_plan , id , city  start_date  FROM projects JOIN projects ON salaries.employee_id = employees.id ORDER BY  city  ASC ;

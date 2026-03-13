@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN meetings ON benefits.employee_id = employees.id WHERE  start_date  LIKE  75000.99  OR  industry >= 75000.99  OR  description !=Support OR  name  LIKE  40  AND  bonus  LIKE Berlin AND  last_name > 3  AND  asset_name <= 120000.0  OR  asset_name  LIKE In Progress OR  start_date = 30  AND  city <HR AND  employee_id >=Tech OR  base_salary <= 25 ;

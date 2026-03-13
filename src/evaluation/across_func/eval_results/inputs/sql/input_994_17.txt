@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  asset_name = 50000.5  AND  training_name < 120000.0  OR  base_salary < 50000.5  OR  country >HR OR  hire_date  LIKE  18  AND  training_name < 50  AND  start_date >= 3  AND  project_id  LIKE  4  OR  training_name <= 50000.5  AND  meeting_date =Todo AND  id =Operations OR  location >=Cologne OR  last_name < 40  OR  hire_date  LIKE  120000.0 ;

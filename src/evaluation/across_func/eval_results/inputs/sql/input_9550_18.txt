@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN benefits ON benefits.employee_id = employees.id ORDER BY  hire_date  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  project_id > 18  OR  industry  LIKE  75000.99  AND  retirement_plan >=Leipzig;

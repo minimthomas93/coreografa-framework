@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN meetings JOIN clients ON tasks.employee_id = employees.id ON assets.assigned_to_employee = employees.id ORDER BY  asset_name  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  department_id <=Education ORDER BY  assigned_to_employee  ASC ;

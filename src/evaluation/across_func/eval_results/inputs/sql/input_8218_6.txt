@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN salaries JOIN projects JOIN benefits ON tasks.project_id = projects.id ON tasks.project_id = projects.id ON benefits.employee_id = employees.id WHERE  training_name !=Operations ORDER BY  country  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN benefits ON meetings.project_id = projects.id WHERE  id > 75000.99 ;

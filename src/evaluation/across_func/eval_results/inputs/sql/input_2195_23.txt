@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  city !=Retail ORDER BY  department_id  ASC ;

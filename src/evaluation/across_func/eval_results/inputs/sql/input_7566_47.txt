@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN trainings ON trainings.employee_id = employees.id ORDER BY  bonus  ASC ;

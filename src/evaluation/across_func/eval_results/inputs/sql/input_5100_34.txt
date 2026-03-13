@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN employees JOIN projects ON benefits.employee_id = employees.id ON meetings.client_id = clients.id ORDER BY  last_name  DESC ;

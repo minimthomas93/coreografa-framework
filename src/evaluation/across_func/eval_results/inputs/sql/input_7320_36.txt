@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  first_name !=Finance AND  id <Finance OR  status !=Excel OR  industry <= 120000.0  OR  city >Python AND  bonus < 30  AND  bonus >= 4  AND  project_id >=Python OR  industry !=Retail OR  asset_type < 75000.99  OR  asset_type >=Marketing AND  description = 30  OR  base_salary >= 40 ;

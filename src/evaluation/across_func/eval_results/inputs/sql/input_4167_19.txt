@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  city  LIKE  50  ORDER BY  completion_date  ASC ;

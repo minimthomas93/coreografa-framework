@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN salaries ON benefits.employee_id = employees.id WHERE  base_salary >= 25  ORDER BY  country  DESC ;

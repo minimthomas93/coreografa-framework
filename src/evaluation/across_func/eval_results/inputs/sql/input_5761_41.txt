@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  training_name <=Sales AND  completion_date >=Leadership OR  location > 50000.5  AND  asset_name <= 75000.99  OR  asset_name <=Leadership OR  completion_date != 50000.5  AND  employee_id =Dusseldorf AND  assigned_to_employee > 30000.0  AND  description >= 120000.0  OR  country <= 18  OR  name  LIKE  30000.0  ORDER BY  completion_date  DESC ;

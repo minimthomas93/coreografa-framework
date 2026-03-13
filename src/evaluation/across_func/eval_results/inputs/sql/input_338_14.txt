@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  city  LIKE Python AND  asset_type =Stuttgart OR  city != 30000.0  AND  health_insurance > 120000.0  OR  project_id >=Hamburg AND  city  LIKE  60  OR  start_date  LIKE  25  OR  location != 30000.0  AND  assigned_to_employee > 50  AND  first_name <Berlin;

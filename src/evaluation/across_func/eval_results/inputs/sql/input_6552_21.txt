@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  country >=Healthcare OR  age <= 30000.0  AND  status > 60  AND  base_salary >= 4  AND  first_name >= 25  AND  completion_date < 75000.99  AND  country >Stuttgart AND  city <=Sales OR  employee_id < 18  AND  base_salary  LIKE  1  OR  project_id <=Operations;

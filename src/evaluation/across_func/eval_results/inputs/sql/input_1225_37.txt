@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  employee_id  LIKE  75000.99  OR  location !=Finance AND  meeting_date = 75000.99  OR  location <= 2 ;

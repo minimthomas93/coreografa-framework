@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN trainings ON employees.department_id = departments.id;

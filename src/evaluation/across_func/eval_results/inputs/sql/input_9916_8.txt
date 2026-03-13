@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN meetings ON meetings.project_id = projects.id WHERE  location >=Todo AND  employee_id >= 18  ORDER BY  asset_type  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  industry != 18  OR  last_name < 2  OR  health_insurance <Retail AND  base_salary  LIKE  40  OR  location = 3  OR  status  LIKE  30000.0  AND  first_name !=Cologne OR  city !=Healthcare AND  health_insurance <=Dusseldorf AND  location < 3  AND  project_id <= 2  OR  department_id > 50 ;

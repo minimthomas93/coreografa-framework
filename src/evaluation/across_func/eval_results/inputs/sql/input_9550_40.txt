@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN projects JOIN meetings ON meetings.client_id = clients.id ON assets.assigned_to_employee = employees.id WHERE  training_name <Hamburg OR  assigned_to_employee = 4  AND  city < 25  AND  base_salary <=Finance AND  end_date != 60  AND  project_id >= 75000.99  OR  last_name <=Frankfurt OR  industry > 30  AND  first_name <= 18  OR  industry < 30000.0 ;

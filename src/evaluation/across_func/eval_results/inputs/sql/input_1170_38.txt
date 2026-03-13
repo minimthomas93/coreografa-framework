@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  name !=Support ORDER BY  base_salary  ASC ;

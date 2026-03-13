@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  industry < 75000.99  OR  asset_type !=Python AND  base_salary  LIKE Tech OR  project_id < 3  AND  first_name <=Stuttgart OR  country <Todo OR  name  LIKE  50000.5  AND  bonus != 40  AND  department_id <= 30000.0  AND  asset_type <=Cologne OR  assigned_to_employee  LIKE  30000.0  OR  completion_date > 2  ORDER BY  health_insurance  DESC ;

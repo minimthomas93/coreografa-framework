@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  bonus  LIKE  50  ORDER BY  employee_id  DESC ;

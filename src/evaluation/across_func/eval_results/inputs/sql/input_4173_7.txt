@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN benefits ON salaries.employee_id = employees.id ORDER BY  city  ASC ;

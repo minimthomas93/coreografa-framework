@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  contact_email >=Python ORDER BY  completion_date  ASC ;

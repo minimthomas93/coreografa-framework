@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN tasks ON tasks.employee_id = employees.id WHERE  id  LIKE Leipzig;

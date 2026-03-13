@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN departments ON employees.department_id = departments.id ORDER BY  meeting_date  DESC ;

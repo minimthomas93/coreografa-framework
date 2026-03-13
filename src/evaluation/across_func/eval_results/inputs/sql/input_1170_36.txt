@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN projects JOIN assets JOIN employees JOIN locations ON tasks.employee_id = employees.id ON benefits.employee_id = employees.id ON tasks.project_id = projects.id ON employees.department_id = departments.id WHERE  base_salary  LIKE  50000.5  AND  country !=Retail;

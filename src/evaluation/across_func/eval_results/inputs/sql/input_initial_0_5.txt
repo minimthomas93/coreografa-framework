@@ -1,0 +1,1 @@
+SELECT  department_id , description , bonus  name  project_id , training_name , start_date  asset_name  retirement_plan , completion_date  end_date  assigned_to_employee  assigned_to_employee  start_date  start_date , id , hire_date  FROM assets;

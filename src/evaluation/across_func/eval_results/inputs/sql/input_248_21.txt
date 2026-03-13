@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN salaries JOIN tasks JOIN employees JOIN trainings ON assets.assigned_to_employee = employees.id ON employees.department_id = departments.id ON benefits.employee_id = employees.id ON trainings.employee_id = employees.id WHERE  end_date > 50000.5  ORDER BY  asset_type  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN clients JOIN trainings ON meetings.project_id = projects.id ON tasks.project_id = projects.id WHERE  training_name <=Stuttgart AND  country <= 1  OR  project_id > 18  OR  status =Stuttgart AND  country <HR OR  hire_date >= 50  OR  hire_date < 18  OR  bonus != 30000.0  AND  last_name > 120000.0  AND  first_name <Operations OR  name > 120000.0 ;

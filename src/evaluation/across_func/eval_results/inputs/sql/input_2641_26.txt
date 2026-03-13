@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  asset_type  LIKE  75000.99  AND  description != 2  AND  name != 50000.5  OR  completion_date > 50  OR  city < 4  OR  department_id =Tech AND  assigned_to_employee != 25  OR  industry > 40  AND  end_date < 30  OR  meeting_date = 120000.0  OR  assigned_to_employee >= 1 ;

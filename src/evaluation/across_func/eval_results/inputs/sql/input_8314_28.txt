@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  completion_date >R&D;

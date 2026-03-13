@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  completion_date >= 50000.5  OR  health_insurance >= 3  OR  location <= 120000.0  AND  status = 50000.5  AND  id <In Progress OR  industry < 2  OR  training_name < 1  OR  name != 30000.0  OR  status >= 18  OR  start_date  LIKE  120000.0  AND  country >HR OR  base_salary >Healthcare OR  age = 18 ;

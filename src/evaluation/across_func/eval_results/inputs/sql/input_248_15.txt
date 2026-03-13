@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  country < 30  AND  project_id  LIKE Finance AND  hire_date =Python OR  base_salary != 75000.99  AND  project_id >Communication AND  end_date >=Frankfurt OR  bonus != 50000.5  AND  last_name >R&D AND  contact_email < 120000.0  OR  first_name != 75000.99  AND  training_name  LIKE  120000.0  AND  country > 4 ;

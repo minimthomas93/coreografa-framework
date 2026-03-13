@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  location < 120000.0  ORDER BY  asset_type  DESC ;

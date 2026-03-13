@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  start_date <Marketing OR  employee_id >= 4  OR  start_date >=Marketing AND  project_id != 1  AND  name < 30  OR  age > 40  OR  age != 50000.5  AND  name >=Done OR  country =Dusseldorf AND  id >Dusseldorf AND  description > 75000.99  AND  id  LIKE  25  AND  description < 50 ;

@@ -1,0 +1,45 @@
+{
+    "function": "sql_sqlite",
+    "initial_pop": [
+        "SELECT  department_id , bonus  first_name  industry  completion_date , training_name  last_name , department_id , department_id , department_id  asset_type , meeting_date  health_insurance  department_id  status  country  city  department_id , employee_id  age , asset_name  location  assigned_to_employee , completion_date , city , last_name  base_salary , meeting_date , bonus , age  employee_id  age , retirement_plan  meeting_date  department_id , retirement_plan , id  location  description , id  meeting_date  start_date , country , bonus  asset_name , asset_type  hire_date  project_id , name , meeting_date  age  completion_date  FROM tasks;\n",
+        "SELECT  *  FROM clients JOIN salaries ON employees.department_id = departments.id ORDER BY  training_name  DESC ;\n",
+        "SELECT  base_salary  age  age , start_date  meeting_date  country  start_date  first_name  last_name  name , asset_name  project_id , city  completion_date  bonus  first_name  age , description  bonus , end_date , contact_email , start_date , last_name  asset_type  last_name  retirement_plan  employee_id  description , health_insurance  end_date  department_id  health_insurance  description , assigned_to_employee  id  base_salary  end_date , last_name , bonus  employee_id , country  asset_name  retirement_plan  department_id , employee_id , base_salary  bonus , id , health_insurance , project_id  asset_name , meeting_date , project_id , country  FROM salaries;\n",
+        "SELECT  department_id , asset_type  hire_date  country , health_insurance , asset_name  country , retirement_plan  end_date  city  employee_id , base_salary , first_name , city , employee_id  asset_name  asset_name , status  assigned_to_employee , assigned_to_employee  id  asset_name  asset_name  first_name , department_id , start_date  location  employee_id  location , city , id , id , first_name , employee_id  retirement_plan , contact_email  id , status  description , start_date , asset_name , id  end_date , employee_id  meeting_date , asset_name , completion_date  last_name , health_insurance  asset_type , city , id  FROM salaries;\n"
+    ],
+    "initial_pop_files": [
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_1079_11.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_1079_34.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_1147_22.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_2717_48.txt"
+    ],
+    "metric_constraints": [
+        {
+            "name": "memory_peak",
+            "op": ">=",
+            "type": "metric",
+            "value": 3764.9
+        },
+        {
+            "name": "memory_peak",
+            "op": "<=",
+            "type": "metric",
+            "value": 4094.6
+        }
+    ],
+    "name": "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\split_summary\\sql\\sql_sqlite_summary.csv",
+    "prop_constraints": [
+        {
+            "name": "count_tables",
+            "op": ">=",
+            "type": "prop",
+            "value": 1.0
+        },
+        {
+            "name": "count_tables",
+            "op": "<=",
+            "type": "prop",
+            "value": 1.0
+        }
+    ],
+    "request_type": "frequency request"
+}

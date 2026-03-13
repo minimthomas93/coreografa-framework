@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  employee_id > 3  AND  country  LIKE  60  OR  completion_date !=Sales OR  employee_id >Education;

@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN projects ON tasks.project_id = projects.id WHERE  training_name  LIKE Sales AND  start_date > 30  OR  retirement_plan = 50  OR  retirement_plan !=R&D OR  name > 50000.5  AND  last_name >Python OR  completion_date >=HR OR  first_name >=Cologne OR  employee_id < 30000.0  AND  description != 30000.0  OR  hire_date >= 18 ;

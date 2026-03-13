@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  name != 40  OR  country = 120000.0  OR  project_id >= 120000.0  AND  id != 3  OR  completion_date < 50  AND  meeting_date <=Dusseldorf AND  start_date = 30000.0  OR  project_id <=Hamburg OR  end_date != 120000.0  AND  employee_id > 75000.99  OR  location < 75000.99  AND  completion_date <Todo;

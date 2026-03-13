@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN salaries ON tasks.employee_id = employees.id WHERE  contact_email > 50000.5  OR  hire_date = 50000.5  ORDER BY  asset_type  DESC ;

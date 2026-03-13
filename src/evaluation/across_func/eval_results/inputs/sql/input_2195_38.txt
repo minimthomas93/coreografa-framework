@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  description =Cologne ORDER BY  retirement_plan  ASC ;

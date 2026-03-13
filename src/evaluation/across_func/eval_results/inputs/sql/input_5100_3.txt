@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  assigned_to_employee <= 25 ;

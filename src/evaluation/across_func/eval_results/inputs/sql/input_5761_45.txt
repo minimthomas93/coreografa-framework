@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  bonus <= 50000.5  AND  first_name =Dusseldorf OR  description  LIKE  60  AND  employee_id !=Retail AND  employee_id != 30000.0  OR  bonus != 75000.99  OR  department_id > 50000.5  OR  status >Done OR  completion_date != 30000.0  OR  project_id !=Sales AND  description !=Stuttgart OR  last_name >= 60  OR  asset_name != 50000.5 ;

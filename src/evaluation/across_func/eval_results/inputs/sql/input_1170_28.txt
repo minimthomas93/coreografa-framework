@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN tasks JOIN projects JOIN assets ON trainings.employee_id = employees.id ON projects.department_id = departments.id ON benefits.employee_id = employees.id WHERE  asset_type <= 30  AND  base_salary < 30  OR  country != 25  AND  assigned_to_employee =Done;

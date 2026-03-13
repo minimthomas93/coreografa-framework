@@ -1,0 +1,1 @@
+SELECT  {21,30}  FROM salaries JOIN benefits JOIN employees ON trainings.employee_id = employees.id ON meetings.client_id = clients.id WHERE  country <= 4 ;

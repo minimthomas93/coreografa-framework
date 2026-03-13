@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN meetings JOIN tasks ON trainings.employee_id = employees.id ON trainings.employee_id = employees.id ORDER BY  retirement_plan  DESC ;

@@ -1,0 +1,53 @@
+{
+    "function": "re_match",
+    "initial_pop": [
+        "d?7[jq-k]|[3-7f-q]|((([2g-g]{8,3}(([q])?6+(j)|[i4])?))*)(rx)|og\n",
+        "l*\n",
+        "m+(o*){7}|([p]d8?c([p4-8]+|(([s][k])?4[n])*|[s-t])|cy?)|u{8}[v]\n",
+        "(p1*)?d([o-t5-b]|f([c](((c[1-f])|sh*){6}|(i))){3}|([y])){4,7}|(u)\n",
+        "b{4,1}[6-ey]|9|h*j{9,7}|[z-5]\n",
+        "[2]|((m{8}(c){6,1})*)?|(s{6,3}[c-39]|[1-n9]{1,9}t)\n",
+        "[5-2i-i]{6,3}(([e-zm-f]|[9-hw]|m){2,6}([6w-8][j9]|[v-n]*n)t?vy+)+|e+|a\n",
+        "[0-n]?\n"
+    ],
+    "initial_pop_files": [
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_276_18.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_1456_45.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_1517_31.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_1840_35.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_2190_9.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_1204_45.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_276_14.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_2805_13.txt"
+    ],
+    "metric_constraints": [
+        {
+            "name": "memory_peak",
+            "op": ">=",
+            "type": "metric",
+            "value": 11806.1
+        },
+        {
+            "name": "memory_peak",
+            "op": "<=",
+            "type": "metric",
+            "value": 12949.0
+        }
+    ],
+    "name": "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\split_summary\\regex\\re_match_summary.csv",
+    "prop_constraints": [
+        {
+            "name": "count_term",
+            "op": ">=",
+            "type": "prop",
+            "value": 16.0
+        },
+        {
+            "name": "count_term",
+            "op": "<=",
+            "type": "prop",
+            "value": 21.0
+        }
+    ],
+    "request_type": "frequency request"
+}

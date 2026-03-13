@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN benefits JOIN tasks JOIN employees ON tasks.employee_id = employees.id ON salaries.employee_id = employees.id ON meetings.project_id = projects.id ORDER BY  assigned_to_employee  ASC ;

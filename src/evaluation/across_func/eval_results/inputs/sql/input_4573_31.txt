@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  country < 4  AND  contact_email  LIKE  50  OR  contact_email <= 50000.5  AND  first_name <= 4  OR  industry = 30  AND  health_insurance > 3  OR  location != 2  AND  id  LIKE Stuttgart OR  health_insurance >= 2  OR  industry != 2  OR  age =Hamburg AND  location <= 50  OR  employee_id <= 2  OR  meeting_date < 75000.99  ORDER BY  base_salary  ASC ;

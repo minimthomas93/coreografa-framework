@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  asset_type = 2  AND  health_insurance < 50000.5  OR  country > 2  OR  start_date > 2  OR  assigned_to_employee  LIKE  30000.0  OR  project_id <=Engineering OR  name != 120000.0  AND  country <= 75000.99  OR  asset_name < 30000.0 ;

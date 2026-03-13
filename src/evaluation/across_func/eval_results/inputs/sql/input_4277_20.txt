@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  health_insurance != 120000.0  AND  age = 18  AND  bonus =Todo OR  description < 2  OR  training_name < 75000.99  AND  bonus <= 120000.0  AND  bonus >=Todo AND  meeting_date <Retail AND  meeting_date  LIKE  2  OR  base_salary != 50000.5  AND  bonus >= 75000.99  AND  hire_date >= 18  AND  last_name < 2  ORDER BY  health_insurance  DESC ;

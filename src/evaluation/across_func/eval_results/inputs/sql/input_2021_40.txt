@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  completion_date <= 30  OR  bonus !=Berlin AND  hire_date <Berlin AND  base_salary =Finance OR  start_date > 30000.0  OR  industry < 40  OR  description < 60  AND  location >Excel AND  project_id < 18  OR  id > 75000.99  AND  asset_name = 60  AND  description =Done AND  end_date != 3  OR  base_salary >=Sales ORDER BY  asset_name  ASC ;

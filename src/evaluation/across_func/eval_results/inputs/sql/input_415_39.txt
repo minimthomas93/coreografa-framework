@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN meetings ON trainings.employee_id = employees.id ORDER BY  first_name  DESC ;

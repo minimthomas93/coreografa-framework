@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN benefits ON meetings.client_id = clients.id WHERE  project_id <= 75000.99  ORDER BY  asset_name  DESC ;

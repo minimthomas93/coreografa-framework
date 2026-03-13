@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN employees ON meetings.client_id = clients.id WHERE  department_id <Stuttgart OR  id < 50  AND  asset_type != 60  AND  department_id > 50000.5  OR  country = 4  AND  training_name  LIKE Frankfurt AND  industry  LIKE  25  OR  project_id != 30000.0  OR  completion_date <= 18  OR  retirement_plan < 60  OR  asset_type !=R&D ORDER BY  status  ASC ;

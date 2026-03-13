@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN locations ON tasks.employee_id = employees.id WHERE  department_id = 75000.99  OR  start_date != 120000.0  ORDER BY  meeting_date  ASC ;

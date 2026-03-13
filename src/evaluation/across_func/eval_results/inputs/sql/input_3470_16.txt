@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  name >Operations OR  industry > 120000.0  ORDER BY  age  ASC ;

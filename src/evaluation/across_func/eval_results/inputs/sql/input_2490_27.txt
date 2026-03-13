@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN departments ON meetings.project_id = projects.id WHERE  end_date > 30000.0  ORDER BY  city  DESC ;

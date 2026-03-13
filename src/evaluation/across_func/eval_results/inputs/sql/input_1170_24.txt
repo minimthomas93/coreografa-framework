@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  hire_date <=Leipzig;

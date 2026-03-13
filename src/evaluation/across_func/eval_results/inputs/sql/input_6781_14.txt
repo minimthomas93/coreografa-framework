@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  employee_id <= 18  OR  country <= 18  OR  end_date <= 40  OR  employee_id <Leipzig AND  bonus  LIKE  75000.99  AND  end_date >Berlin AND  employee_id < 30  OR  industry < 1  AND  employee_id < 50000.5  AND  description < 30000.0  AND  first_name > 75000.99 ;

@@ -1,0 +1,43 @@
+{
+    "function": "xml_v04",
+    "initial_pop": [
+        "<L8 d08=\"A\" ><u.>-w=PQ-e</C></s>\n",
+        "<L>u</gN>\n",
+        "<f><s1 _=\"D\" >-</c7c.u></I>\n"
+    ],
+    "initial_pop_files": [
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\xml\\input_2539_20.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\xml\\input_1729_50.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\xml\\input_1468_41.txt"
+    ],
+    "metric_constraints": [
+        {
+            "name": "memory_peak",
+            "op": ">=",
+            "type": "metric",
+            "value": 18995.8
+        },
+        {
+            "name": "memory_peak",
+            "op": "<=",
+            "type": "metric",
+            "value": 19583.6
+        }
+    ],
+    "name": "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\split_summary\\xml\\xml_v04_summary.csv",
+    "prop_constraints": [
+        {
+            "name": "depth",
+            "op": ">=",
+            "type": "prop",
+            "value": 7.0
+        },
+        {
+            "name": "depth",
+            "op": "<=",
+            "type": "prop",
+            "value": 12.0
+        }
+    ],
+    "request_type": "frequency request"
+}

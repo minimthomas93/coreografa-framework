@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN departments JOIN benefits ON trainings.employee_id = employees.id ON projects.department_id = departments.id ORDER BY  start_date  ASC ;

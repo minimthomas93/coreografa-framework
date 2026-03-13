@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  health_insurance <= 75000.99  ORDER BY  completion_date  ASC ;

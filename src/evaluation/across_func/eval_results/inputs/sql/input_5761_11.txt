@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN benefits ON trainings.employee_id = employees.id WHERE  id >=Tech AND  bonus !=Education OR  project_id < 50000.5  AND  location =SQL AND  department_id <= 30000.0  OR  assigned_to_employee = 18  AND  base_salary  LIKE  75000.99  ORDER BY  description  DESC ;

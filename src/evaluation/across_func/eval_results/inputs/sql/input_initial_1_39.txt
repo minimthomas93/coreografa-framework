@@ -1,0 +1,1 @@
+SELECT  {11,20}  FROM benefits JOIN trainings JOIN meetings ON assets.assigned_to_employee = employees.id ON salaries.employee_id = employees.id;

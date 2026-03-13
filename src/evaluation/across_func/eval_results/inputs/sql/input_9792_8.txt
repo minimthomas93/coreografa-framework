@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  age <= 120000.0  ORDER BY  hire_date  ASC ;

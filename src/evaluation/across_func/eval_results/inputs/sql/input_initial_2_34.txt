@@ -1,0 +1,1 @@
+SELECT  {21,30}  FROM tasks JOIN locations JOIN tasks JOIN trainings ON tasks.project_id = projects.id ON salaries.employee_id = employees.id ON meetings.client_id = clients.id ORDER BY  base_salary  DESC ;

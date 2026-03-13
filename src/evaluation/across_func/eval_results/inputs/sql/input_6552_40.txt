@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  hire_date !=Todo AND  contact_email < 120000.0  AND  location > 50000.5  ORDER BY  start_date  ASC ;

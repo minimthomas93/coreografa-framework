@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  department_id !=Tech AND  description <= 25  AND  health_insurance != 1  ORDER BY  completion_date  ASC ;

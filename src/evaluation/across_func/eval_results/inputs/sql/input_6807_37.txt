@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  city = 120000.0 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN projects ON meetings.client_id = clients.id WHERE  country <Communication OR  country != 50000.5  ORDER BY  contact_email  ASC ;

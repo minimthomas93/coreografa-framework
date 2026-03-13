@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  industry < 3  AND  start_date >= 40  AND  first_name = 30000.0  AND  asset_name <=R&D OR  employee_id  LIKE  60  AND  age = 3  OR  end_date  LIKE  30  OR  contact_email > 30000.0  OR  employee_id > 60  OR  country  LIKE  1  AND  assigned_to_employee  LIKE HR OR  status  LIKE  50000.5  OR  project_id != 2  ORDER BY  last_name  DESC ;

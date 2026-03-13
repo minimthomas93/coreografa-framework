@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  project_id >= 30000.0  AND  last_name != 25  OR  last_name >= 120000.0  AND  assigned_to_employee <=In Progress AND  training_name <= 4  OR  asset_name != 40  AND  location > 30  OR  last_name  LIKE  2  OR  city >=Support AND  hire_date =Sales AND  training_name <= 4  OR  asset_name < 18  ORDER BY  start_date  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN tasks ON assets.assigned_to_employee = employees.id WHERE  meeting_date < 30000.0  ORDER BY  end_date  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  bonus <= 30000.0  OR  project_id > 30000.0  OR  training_name > 30  AND  employee_id >= 25  AND  project_id >=Finance OR  retirement_plan <=Education OR  city >= 30  OR  asset_type <Marketing OR  contact_email < 3  OR  hire_date <= 30000.0  OR  start_date >Python AND  id !=In Progress;

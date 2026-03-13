@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  name >= 3  ORDER BY  description  ASC ;

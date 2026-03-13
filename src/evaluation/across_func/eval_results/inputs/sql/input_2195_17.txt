@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN employees ON assets.assigned_to_employee = employees.id WHERE  status = 120000.0 ;

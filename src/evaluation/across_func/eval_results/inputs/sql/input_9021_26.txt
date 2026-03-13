@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  assigned_to_employee > 120000.0 ;

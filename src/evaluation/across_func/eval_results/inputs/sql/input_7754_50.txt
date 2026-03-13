@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  assigned_to_employee >Engineering OR  first_name != 25  OR  location > 50000.5 ;

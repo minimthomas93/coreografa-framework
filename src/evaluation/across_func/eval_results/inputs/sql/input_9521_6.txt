@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN departments ON meetings.client_id = clients.id WHERE  hire_date <=Leadership AND  id > 3  OR  completion_date >= 50000.5  OR  department_id  LIKE Support OR  industry <= 60  OR  start_date = 60  OR  name != 120000.0  OR  status >=Excel OR  status != 75000.99  AND  training_name >= 25 ;

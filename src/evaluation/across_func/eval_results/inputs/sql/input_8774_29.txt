@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN departments ON benefits.employee_id = employees.id WHERE  location  LIKE  75000.99 ;

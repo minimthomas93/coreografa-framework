@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN benefits JOIN meetings JOIN employees JOIN clients JOIN trainings ON meetings.client_id = clients.id ON employees.department_id = departments.id ON benefits.employee_id = employees.id ON meetings.client_id = clients.id ON assets.assigned_to_employee = employees.id WHERE  bonus >=Leipzig ORDER BY  start_date  DESC ;

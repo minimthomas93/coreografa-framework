@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  department_id >Education ORDER BY  last_name  ASC ;

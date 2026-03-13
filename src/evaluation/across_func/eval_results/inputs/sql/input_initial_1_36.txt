@@ -1,0 +1,1 @@
+SELECT  {11,20}  FROM meetings WHERE  last_name <= 1  OR  completion_date <Retail AND  name >= 120000.0  OR  asset_name != 60  AND  location >=Marketing AND  id <=Sales AND  start_date != 30000.0  OR  first_name < 120000.0  AND  completion_date <= 2  OR  asset_type >= 25  OR  country = 120000.0  AND  employee_id  LIKE  120000.0 ;

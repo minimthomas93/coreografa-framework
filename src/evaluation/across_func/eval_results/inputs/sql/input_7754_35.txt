@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  asset_name  LIKE  25  ORDER BY  last_name  DESC ;

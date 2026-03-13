@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  base_salary <Operations OR  base_salary >= 50000.5  AND  project_id > 75000.99  AND  end_date < 2  OR  assigned_to_employee <=Todo OR  training_name =Python AND  department_id <= 30000.0  OR  department_id <In Progress AND  id <=Education OR  training_name < 30000.0 ;

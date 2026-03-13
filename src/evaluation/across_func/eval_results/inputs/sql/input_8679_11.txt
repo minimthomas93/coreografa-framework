@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  description = 50000.5  ORDER BY  city  ASC ;

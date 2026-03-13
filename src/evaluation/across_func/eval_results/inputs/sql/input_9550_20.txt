@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  id >= 4  OR  age !=Education ORDER BY  end_date  DESC ;

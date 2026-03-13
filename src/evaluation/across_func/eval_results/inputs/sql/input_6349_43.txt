@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN assets ON meetings.client_id = clients.id ORDER BY  industry  DESC ;

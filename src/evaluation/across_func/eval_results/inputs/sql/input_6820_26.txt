@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  completion_date < 120000.0  OR  health_insurance >=Healthcare AND  status >=Leipzig AND  first_name  LIKE  50000.5  AND  department_id <= 120000.0  AND  asset_type < 60  AND  end_date  LIKE  60  AND  hire_date >SQL OR  description = 4  AND  name >Operations AND  employee_id < 30000.0 ;

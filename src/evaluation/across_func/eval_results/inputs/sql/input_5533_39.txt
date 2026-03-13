@@ -1,0 +1,1 @@
+SELECT  completion_date , assigned_to_employee , country  hire_date  employee_id  asset_type  department_id , id  age , industry  id , completion_date , department_id , contact_email , meeting_date  age , asset_name  age  description  bonus  end_date , city  age  FROM locations WHERE  asset_name >= 40 ;

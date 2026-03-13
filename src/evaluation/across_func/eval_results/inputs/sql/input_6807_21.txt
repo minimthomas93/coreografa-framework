@@ -1,0 +1,1 @@
+SELECT  training_name , project_id  FROM salaries JOIN employees ON projects.department_id = departments.id WHERE  asset_name  LIKE Todo OR  bonus >=Berlin OR  project_id >Communication AND  city =Tech AND  start_date <=Sales;

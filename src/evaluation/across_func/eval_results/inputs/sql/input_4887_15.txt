@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN assets JOIN meetings JOIN locations ON assets.assigned_to_employee = employees.id ON meetings.client_id = clients.id ON projects.department_id = departments.id WHERE  age  LIKE Sales AND  project_id <HR ORDER BY  retirement_plan  DESC ;

@@ -1,0 +1,41 @@
+{
+    "function": "xml_v04",
+    "initial_pop": [
+        "<s-><r7 J81-33390=\"TU:\" ><c8 K5=\"CQ=\" >Z</H></Y></n>\n",
+        "<o e0=\"p\" ><A w=\"i\" >Z</y></AA.204>\n"
+    ],
+    "initial_pop_files": [
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\xml\\input_3026_33.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\xml\\input_2605_30.txt"
+    ],
+    "metric_constraints": [
+        {
+            "name": "runtime_ns",
+            "op": ">=",
+            "type": "metric",
+            "value": 26877560.0
+        },
+        {
+            "name": "runtime_ns",
+            "op": "<=",
+            "type": "metric",
+            "value": 40175740.0
+        }
+    ],
+    "name": "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\split_summary\\xml\\xml_v04_summary.csv",
+    "prop_constraints": [
+        {
+            "name": "depth",
+            "op": ">=",
+            "type": "prop",
+            "value": 12.0
+        },
+        {
+            "name": "depth",
+            "op": "<=",
+            "type": "prop",
+            "value": 14.0
+        }
+    ],
+    "request_type": "frequency request"
+}

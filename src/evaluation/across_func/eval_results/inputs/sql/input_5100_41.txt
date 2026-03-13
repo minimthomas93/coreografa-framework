@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN trainings JOIN trainings JOIN departments JOIN employees JOIN projects ON tasks.project_id = projects.id ON meetings.project_id = projects.id ON meetings.project_id = projects.id ON assets.assigned_to_employee = employees.id ON tasks.employee_id = employees.id;

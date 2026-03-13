@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  location > 75000.99  OR  country <= 50000.5  AND  contact_email < 40  OR  training_name <=Healthcare AND  id <Marketing AND  description >Operations AND  location  LIKE  75000.99  AND  industry < 75000.99  AND  country = 120000.0  OR  name != 40  AND  name =Operations AND  start_date >= 18  OR  start_date <= 30000.0  ORDER BY  city  DESC ;

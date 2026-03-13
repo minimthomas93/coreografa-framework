@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN locations JOIN meetings JOIN benefits JOIN trainings JOIN benefits JOIN projects ON meetings.project_id = projects.id ON meetings.client_id = clients.id ON meetings.client_id = clients.id ON tasks.project_id = projects.id ON employees.department_id = departments.id ON salaries.employee_id = employees.id;

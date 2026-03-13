@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN trainings JOIN trainings ON meetings.project_id = projects.id ON benefits.employee_id = employees.id ORDER BY  retirement_plan  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN salaries JOIN salaries JOIN trainings ON employees.department_id = departments.id ON projects.department_id = departments.id ON tasks.project_id = projects.id;

@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  asset_name < 30000.0  OR  assigned_to_employee = 30000.0 ;

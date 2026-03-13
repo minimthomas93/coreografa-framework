@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN meetings ON projects.department_id = departments.id;

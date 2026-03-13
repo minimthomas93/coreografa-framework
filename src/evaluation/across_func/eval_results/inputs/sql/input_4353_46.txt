@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  description  LIKE  25  AND  contact_email = 75000.99  AND  first_name > 75000.99  AND  bonus <=Munich OR  end_date >= 120000.0  AND  meeting_date <= 50000.5  AND  first_name <Done AND  base_salary <= 30  OR  status = 60  OR  id !=HR AND  contact_email >= 50000.5  OR  department_id !=Engineering;

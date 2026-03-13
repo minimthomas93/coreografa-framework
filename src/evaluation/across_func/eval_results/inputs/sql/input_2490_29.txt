@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  location =Munich ORDER BY  id  ASC ;

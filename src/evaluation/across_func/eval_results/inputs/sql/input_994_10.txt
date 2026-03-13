@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN clients JOIN employees JOIN benefits JOIN meetings ON tasks.project_id = projects.id ON benefits.employee_id = employees.id ON employees.department_id = departments.id ON meetings.project_id = projects.id ORDER BY  asset_name  ASC ;

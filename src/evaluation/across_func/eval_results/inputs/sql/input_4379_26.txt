@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN assets ON employees.department_id = departments.id WHERE  country > 120000.0  ORDER BY  hire_date  DESC ;

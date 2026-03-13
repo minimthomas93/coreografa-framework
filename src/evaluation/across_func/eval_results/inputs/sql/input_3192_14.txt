@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN salaries ON salaries.employee_id = employees.id WHERE  country <Operations AND  hire_date = 3  OR  name > 30000.0  AND  asset_type !=Leadership OR  hire_date >= 25  OR  location != 2  OR  location <= 2  AND  country >=Leipzig AND  retirement_plan >Dusseldorf AND  employee_id <= 75000.99  OR  assigned_to_employee != 3 ;

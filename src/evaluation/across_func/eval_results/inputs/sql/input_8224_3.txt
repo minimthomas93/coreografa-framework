@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN projects JOIN salaries ON employees.department_id = departments.id ON tasks.employee_id = employees.id ORDER BY  last_name  DESC ;

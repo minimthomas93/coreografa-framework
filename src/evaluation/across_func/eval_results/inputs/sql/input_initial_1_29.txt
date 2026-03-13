@@ -1,0 +1,1 @@
+SELECT  contact_email  id , hire_date  end_date , base_salary  completion_date , retirement_plan , start_date  employee_id  asset_type  age  project_id  department_id , description  asset_type , completion_date  bonus , base_salary  FROM salaries JOIN trainings JOIN projects ON projects.department_id = departments.id ON salaries.employee_id = employees.id WHERE  name >= 1 ;

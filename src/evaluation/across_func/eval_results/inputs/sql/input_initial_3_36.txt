@@ -1,0 +1,1 @@
+SELECT  {31,40}  FROM meetings ORDER BY  base_salary  DESC ;

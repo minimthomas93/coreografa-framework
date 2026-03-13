@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN meetings ON meetings.project_id = projects.id WHERE  status >Done ORDER BY  name  ASC ;

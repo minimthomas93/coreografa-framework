@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN salaries ON trainings.employee_id = employees.id;

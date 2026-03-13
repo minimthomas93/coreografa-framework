@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  assigned_to_employee < 50  OR  assigned_to_employee = 40  AND  city <= 25  OR  employee_id >=Operations;

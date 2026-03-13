@@ -1,0 +1,1 @@
+SELECT  description , training_name  health_insurance , retirement_plan  assigned_to_employee , id , base_salary  FROM benefits JOIN departments ON employees.department_id = departments.id WHERE  first_name > 50  OR  training_name >=Sales ORDER BY  last_name  DESC ;

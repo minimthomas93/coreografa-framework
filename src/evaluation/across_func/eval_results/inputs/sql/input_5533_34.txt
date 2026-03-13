@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  age  LIKE Python AND  asset_type >Python OR  asset_name != 18  AND  department_id = 50  OR  name <=Finance AND  assigned_to_employee >In Progress AND  end_date  LIKE Healthcare OR  retirement_plan = 60  OR  first_name  LIKE Munich OR  id <Done AND  name  LIKE  30000.0  AND  department_id != 25 ;

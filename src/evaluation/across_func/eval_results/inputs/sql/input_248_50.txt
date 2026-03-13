@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  contact_email >Munich OR  hire_date  LIKE Support OR  name != 18  OR  start_date < 40 ;

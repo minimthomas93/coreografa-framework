@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN meetings JOIN trainings ON projects.department_id = departments.id ON meetings.client_id = clients.id;

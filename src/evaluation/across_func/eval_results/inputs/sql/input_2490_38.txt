@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  country <Communication OR  country != 50000.5  ORDER BY  contact_email  ASC ;

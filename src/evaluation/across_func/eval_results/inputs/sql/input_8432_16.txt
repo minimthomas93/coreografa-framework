@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  last_name > 30000.0  AND  start_date >= 75000.99 ;

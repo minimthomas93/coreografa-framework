@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  meeting_date >Operations OR  completion_date  LIKE  30  AND  city <Cologne OR  department_id >= 75000.99  OR  id > 50  AND  training_name >=HR AND  city >Leadership AND  contact_email > 50000.5  AND  base_salary >=Sales AND  status < 30  OR  hire_date = 30000.0  AND  asset_type <=Berlin;

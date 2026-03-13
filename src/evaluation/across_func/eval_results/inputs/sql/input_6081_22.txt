@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN clients ON meetings.client_id = clients.id ORDER BY  name  ASC ;

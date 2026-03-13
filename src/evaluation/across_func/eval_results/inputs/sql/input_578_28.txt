@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN projects JOIN projects JOIN projects ON projects.department_id = departments.id ON meetings.project_id = projects.id ON assets.assigned_to_employee = employees.id ORDER BY  name  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  last_name < 18  AND  first_name >= 30000.0  ORDER BY  training_name  DESC ;

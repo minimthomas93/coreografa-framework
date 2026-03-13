@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  training_name = 75000.99 ;

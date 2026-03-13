@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  employee_id =In Progress AND  health_insurance  LIKE  30  AND  industry <= 1  OR  hire_date <=In Progress AND  base_salary <= 50  OR  training_name >=SQL OR  description = 60  AND  retirement_plan = 3  AND  project_id = 2  AND  department_id >=Marketing OR  training_name != 18  AND  age != 60  ORDER BY  training_name  DESC ;

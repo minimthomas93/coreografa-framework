@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  asset_name !=Finance ORDER BY  asset_name  ASC ;

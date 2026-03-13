@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN benefits ON assets.assigned_to_employee = employees.id WHERE  completion_date <=R&D ORDER BY  industry  DESC ;

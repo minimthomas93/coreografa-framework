@@ -1,0 +1,1 @@
+SELECT  country , industry , asset_type , start_date , id , city  age  asset_name  contact_email , project_id , name , contact_email , assigned_to_employee , project_id , end_date , city  description , assigned_to_employee , last_name , age , assigned_to_employee , completion_date , city  health_insurance  retirement_plan  FROM assets ORDER BY  department_id  DESC ;

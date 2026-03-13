@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN benefits JOIN projects ON assets.assigned_to_employee = employees.id ON benefits.employee_id = employees.id;

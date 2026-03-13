@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  health_insurance <=Support AND  location >= 25  AND  industry >=R&D OR  meeting_date >= 18  OR  base_salary <=Frankfurt AND  end_date  LIKE  60  OR  last_name > 120000.0  OR  first_name >Frankfurt AND  description != 60  AND  hire_date  LIKE  30  AND  retirement_plan  LIKE  60  OR  project_id >= 50000.5  OR  completion_date >= 30 ;

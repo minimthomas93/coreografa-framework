@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN employees JOIN departments JOIN trainings ON meetings.client_id = clients.id ON trainings.employee_id = employees.id ON meetings.client_id = clients.id ORDER BY  training_name  DESC ;

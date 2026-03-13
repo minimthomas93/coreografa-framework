@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  base_salary != 40  OR  department_id !=Berlin OR  department_id = 4  OR  status = 1  OR  start_date < 50  AND  industry <= 25  OR  bonus = 30000.0  OR  last_name >= 30  AND  country =Done OR  asset_name < 120000.0  AND  asset_type != 60  AND  first_name >= 30000.0  AND  asset_type =Communication ORDER BY  completion_date  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  department_id  LIKE  30000.0  ORDER BY  employee_id  ASC ;

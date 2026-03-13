@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN tasks ON trainings.employee_id = employees.id WHERE  employee_id >=In Progress OR  retirement_plan = 30  OR  country  LIKE Tech OR  training_name <Retail AND  city != 2  AND  assigned_to_employee != 2  OR  contact_email != 1  AND  description  LIKE  50  OR  last_name <= 120000.0  AND  asset_type >= 120000.0  ORDER BY  id  DESC ;

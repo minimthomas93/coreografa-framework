@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  bonus !=Dusseldorf OR  completion_date > 4  AND  bonus != 25  OR  bonus != 18  AND  completion_date < 2  AND  first_name !=Finance AND  base_salary > 50000.5  OR  location >= 30  OR  training_name > 30000.0  AND  assigned_to_employee = 30000.0  AND  status != 30  AND  industry  LIKE SQL OR  base_salary != 40 ;

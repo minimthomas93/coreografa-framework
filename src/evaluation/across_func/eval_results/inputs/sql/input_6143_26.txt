@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  last_name <=Done OR  base_salary <=Done OR  end_date  LIKE  75000.99  OR  project_id  LIKE  30000.0  AND  country =Tech OR  hire_date  LIKE  50  OR  end_date <= 18  OR  assigned_to_employee <= 1  AND  country  LIKE  30000.0  AND  project_id = 50  OR  employee_id = 2  AND  last_name = 120000.0  OR  country < 30000.0 ;

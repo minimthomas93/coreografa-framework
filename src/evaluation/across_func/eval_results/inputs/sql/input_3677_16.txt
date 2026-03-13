@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN meetings JOIN clients ON trainings.employee_id = employees.id ON benefits.employee_id = employees.id ORDER BY  hire_date  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  employee_id <= 50  AND  description = 30000.0  OR  department_id !=Hamburg AND  department_id > 50000.5  AND  first_name >= 50  AND  department_id != 50000.5  AND  status  LIKE  30000.0  OR  country != 2  AND  status =R&D OR  project_id >= 75000.99  OR  last_name <Todo OR  start_date <Dusseldorf AND  project_id  LIKE  50 ;

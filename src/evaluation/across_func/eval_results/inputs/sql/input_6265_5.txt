@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  employee_id <= 40  AND  description < 30000.0  AND  training_name >= 25  AND  description >= 2  AND  name >In Progress OR  name != 2  OR  training_name < 30  AND  status != 75000.99  OR  project_id =Retail OR  description = 50000.5  AND  health_insurance = 3  OR  city !=Leadership AND  industry >R&D;

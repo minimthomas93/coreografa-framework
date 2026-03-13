@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN locations JOIN employees ON tasks.project_id = projects.id ON meetings.project_id = projects.id WHERE  project_id <=Finance;

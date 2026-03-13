@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  asset_name <= 120000.0  OR  contact_email <= 2  OR  employee_id = 120000.0  AND  hire_date != 75000.99  AND  completion_date < 30  OR  hire_date <= 75000.99  AND  department_id  LIKE  75000.99  AND  end_date <=Engineering OR  description >= 50  AND  name <=Operations;

@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  bonus != 75000.99  OR  first_name > 75000.99  OR  city >=Support AND  completion_date =Support AND  department_id < 25  OR  age  LIKE Todo OR  industry  LIKE Leadership AND  meeting_date <=Leadership AND  contact_email >= 50000.5  AND  age <= 30  AND  country  LIKE Python OR  asset_type != 1  OR  contact_email < 75000.99  AND  base_salary =Done;

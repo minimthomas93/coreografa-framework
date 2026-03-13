@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  industry >= 3  AND  asset_name >=Stuttgart OR  status <Marketing AND  bonus > 40  ORDER BY  status  ASC ;

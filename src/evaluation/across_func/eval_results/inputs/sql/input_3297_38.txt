@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN clients JOIN clients ON meetings.client_id = clients.id ON tasks.project_id = projects.id ORDER BY  status  DESC ;

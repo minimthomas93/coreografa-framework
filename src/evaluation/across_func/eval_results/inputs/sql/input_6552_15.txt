@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  assigned_to_employee <= 120000.0  ORDER BY  contact_email  DESC ;

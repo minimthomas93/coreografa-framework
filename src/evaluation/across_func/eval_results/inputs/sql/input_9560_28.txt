@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  retirement_plan < 50000.5  AND  training_name > 2  OR  employee_id = 2  AND  training_name >= 4  AND  location  LIKE  18  OR  hire_date < 30000.0  OR  industry != 30000.0  AND  city < 30000.0  OR  country  LIKE SQL OR  completion_date > 30000.0  AND  age != 50  AND  age > 30  AND  health_insurance  LIKE Finance ORDER BY  description  ASC ;

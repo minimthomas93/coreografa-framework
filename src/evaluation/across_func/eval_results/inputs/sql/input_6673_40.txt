@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  department_id =Operations OR  country < 60  OR  country > 30  OR  status > 50  AND  contact_email = 1  AND  hire_date >Retail AND  contact_email <Finance OR  asset_name >=Engineering OR  age >= 30  OR  health_insurance < 75000.99  OR  end_date >=Cologne OR  start_date != 30  OR  completion_date < 4  OR  country = 75000.99  ORDER BY  id  ASC ;

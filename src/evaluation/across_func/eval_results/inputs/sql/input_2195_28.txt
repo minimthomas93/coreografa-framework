@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  completion_date <= 30  AND  bonus = 50000.5  AND  asset_type >Leipzig OR  bonus = 50  OR  age =SQL OR  health_insurance != 3  AND  end_date >Tech AND  bonus != 30000.0  AND  training_name <=Finance ORDER BY  hire_date  ASC ;

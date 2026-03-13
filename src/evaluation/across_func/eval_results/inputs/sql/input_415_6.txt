@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN benefits ON projects.department_id = departments.id ORDER BY  employee_id  ASC ;

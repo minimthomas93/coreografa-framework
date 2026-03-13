@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN clients ON meetings.client_id = clients.id WHERE  city > 50000.5  AND  industry != 75000.99  ORDER BY  retirement_plan  DESC ;

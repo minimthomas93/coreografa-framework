@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN salaries JOIN meetings JOIN salaries ON employees.department_id = departments.id ON benefits.employee_id = employees.id ON tasks.employee_id = employees.id ORDER BY  name  DESC ;

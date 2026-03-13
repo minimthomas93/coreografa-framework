@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  last_name != 75000.99  OR  country = 120000.0  AND  completion_date > 50000.5  OR  status != 18  AND  last_name  LIKE Finance OR  retirement_plan != 30  OR  end_date < 2  OR  country  LIKE  30000.0  OR  contact_email >=Leadership OR  assigned_to_employee <= 1  OR  retirement_plan > 30000.0  AND  id > 60  AND  id <=SQL AND  retirement_plan <HR;

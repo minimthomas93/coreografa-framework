@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN clients ON employees.department_id = departments.id WHERE  health_insurance =SQL;

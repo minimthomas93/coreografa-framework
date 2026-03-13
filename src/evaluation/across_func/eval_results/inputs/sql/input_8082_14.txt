@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN departments ON assets.assigned_to_employee = employees.id WHERE  last_name != 3  OR  city > 18  OR  status  LIKE  2  OR  health_insurance = 50000.5  OR  health_insurance <Leipzig OR  id < 50  OR  employee_id = 1  AND  end_date >= 120000.0  OR  base_salary >=Todo AND  status != 4  OR  training_name != 50  ORDER BY  end_date  ASC ;

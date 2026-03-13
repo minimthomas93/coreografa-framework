@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN employees JOIN meetings JOIN trainings JOIN employees JOIN employees ON meetings.client_id = clients.id ON meetings.client_id = clients.id ON assets.assigned_to_employee = employees.id ON salaries.employee_id = employees.id ON employees.department_id = departments.id WHERE  description >=Communication ORDER BY  health_insurance  DESC ;

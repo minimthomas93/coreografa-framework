@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN assets JOIN trainings ON employees.department_id = departments.id ON tasks.project_id = projects.id WHERE  start_date != 18 ;

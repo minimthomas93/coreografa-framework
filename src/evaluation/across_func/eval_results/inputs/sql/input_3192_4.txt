@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN locations ON tasks.project_id = projects.id WHERE  department_id > 30000.0  ORDER BY  meeting_date  DESC ;

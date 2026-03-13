@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN benefits JOIN departments ON projects.department_id = departments.id ON meetings.project_id = projects.id WHERE  hire_date != 120000.0  ORDER BY  start_date  DESC ;

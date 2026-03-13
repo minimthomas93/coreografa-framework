@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  age <= 25  OR  hire_date >Berlin AND  name = 1  OR  project_id >= 40  OR  asset_name =Communication OR  completion_date < 4  AND  last_name != 50  OR  name >=In Progress AND  last_name <=SQL AND  bonus  LIKE  50  OR  project_id != 50000.5  AND  health_insurance = 2  OR  training_name <= 2  OR  start_date =Operations;

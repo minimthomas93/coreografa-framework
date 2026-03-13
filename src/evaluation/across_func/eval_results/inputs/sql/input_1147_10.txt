@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  base_salary > 1  OR  hire_date <= 120000.0  AND  employee_id <= 2  OR  description > 30000.0  AND  end_date > 4  AND  end_date >=Done OR  health_insurance = 120000.0  OR  asset_name <Healthcare AND  meeting_date != 120000.0  OR  meeting_date <=Sales OR  base_salary >= 75000.99  OR  asset_name !=Support AND  city <Berlin;

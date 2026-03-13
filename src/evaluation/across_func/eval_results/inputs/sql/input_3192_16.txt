@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN departments ON tasks.project_id = projects.id WHERE  description <SQL AND  employee_id  LIKE  50000.5  ORDER BY  completion_date  ASC ;

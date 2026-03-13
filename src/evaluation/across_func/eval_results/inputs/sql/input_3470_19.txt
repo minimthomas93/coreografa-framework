@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  country  LIKE  30000.0  OR  project_id !=Leadership AND  department_id <= 120000.0  OR  industry >=R&D OR  last_name >Todo AND  age = 3  AND  city < 30  AND  employee_id !=Munich OR  id != 4  OR  employee_id <=Marketing OR  status  LIKE Finance OR  name  LIKE Leadership OR  completion_date = 50000.5  OR  status >=HR OR  first_name >= 50000.5 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  asset_name != 120000.0 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN departments ON trainings.employee_id = employees.id WHERE  city < 50000.5  AND  asset_name !=HR OR  contact_email >Leadership OR  end_date < 3  AND  project_id = 1  OR  age <=Cologne AND  age !=Hamburg OR  meeting_date != 50000.5  OR  status >Operations OR  retirement_plan  LIKE In Progress OR  asset_type >=Tech AND  base_salary = 120000.0 ;

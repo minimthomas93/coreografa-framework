@@ -1,0 +1,1 @@
+SELECT  training_name , department_id , meeting_date , asset_name  assigned_to_employee  completion_date  asset_name  age  training_name , assigned_to_employee , name  training_name  FROM tasks;

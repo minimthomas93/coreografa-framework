@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  asset_type < 60 ;

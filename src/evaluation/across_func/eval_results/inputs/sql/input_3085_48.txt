@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN benefits JOIN projects JOIN salaries ON benefits.employee_id = employees.id ON tasks.employee_id = employees.id ON tasks.employee_id = employees.id ORDER BY  country  ASC ;

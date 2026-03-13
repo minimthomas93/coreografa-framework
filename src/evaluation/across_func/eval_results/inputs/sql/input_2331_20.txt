@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN trainings ON trainings.employee_id = employees.id ORDER BY  start_date  DESC ;

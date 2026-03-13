@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  project_id != 120000.0  AND  project_id = 40  OR  completion_date != 30  AND  assigned_to_employee  LIKE SQL AND  country <Stuttgart OR  employee_id !=Leipzig AND  industry  LIKE Communication OR  completion_date != 60  OR  hire_date = 1  OR  project_id = 18  OR  bonus <= 120000.0  OR  assigned_to_employee < 30  OR  description <= 2 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  employee_id  LIKE  30  AND  department_id !=Todo OR  status <= 50  AND  age  LIKE  1  OR  first_name = 30000.0  OR  meeting_date <= 30  OR  age <=Operations AND  bonus  LIKE  1  OR  assigned_to_employee >= 75000.99  OR  location <= 75000.99  AND  meeting_date > 2  AND  hire_date > 4  ORDER BY  training_name  ASC ;

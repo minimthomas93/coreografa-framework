@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  department_id !=Dusseldorf OR  meeting_date !=Communication OR  assigned_to_employee >= 50000.5  OR  hire_date < 50000.5  OR  city != 1  ORDER BY  last_name  DESC ;

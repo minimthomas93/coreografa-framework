@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN salaries ON employees.department_id = departments.id ORDER BY  end_date  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  location != 120000.0  OR  description = 3  OR  location < 30  OR  training_name >Frankfurt ORDER BY  id  ASC ;

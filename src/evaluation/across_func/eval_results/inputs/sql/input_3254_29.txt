@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN locations ON assets.assigned_to_employee = employees.id WHERE  employee_id >=Finance;

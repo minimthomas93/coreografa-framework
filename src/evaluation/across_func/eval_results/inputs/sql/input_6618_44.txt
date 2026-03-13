@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  asset_type >=Berlin OR  base_salary <= 120000.0  OR  location > 75000.99  OR  location <= 75000.99  AND  asset_name <Leipzig AND  asset_name != 3  AND  hire_date <Hamburg AND  hire_date  LIKE  50000.5  AND  hire_date <= 50000.5  AND  department_id = 1  OR  retirement_plan  LIKE Done ORDER BY  city  ASC ;

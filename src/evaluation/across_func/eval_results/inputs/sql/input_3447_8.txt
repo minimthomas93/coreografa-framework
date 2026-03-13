@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN projects ON trainings.employee_id = employees.id WHERE  age =Retail AND  last_name <=Python OR  status !=Cologne AND  end_date >= 30000.0  OR  hire_date <= 120000.0  AND  status  LIKE Tech OR  country = 1  OR  department_id >=SQL AND  age =Hamburg AND  base_salary !=Healthcare AND  age <=Todo;

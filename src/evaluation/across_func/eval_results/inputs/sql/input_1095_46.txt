@@ -1,0 +1,1 @@
+SELECT  hire_date , department_id  base_salary  location  city , end_date , start_date , employee_id , asset_type , base_salary , start_date  status  base_salary  last_name  name  hire_date , country , completion_date , id , name  FROM projects JOIN meetings ON trainings.employee_id = employees.id ORDER BY  status  DESC ;

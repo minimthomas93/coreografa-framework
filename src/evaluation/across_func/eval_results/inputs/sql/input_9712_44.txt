@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN locations JOIN employees ON assets.assigned_to_employee = employees.id ON benefits.employee_id = employees.id ORDER BY  completion_date  ASC ;

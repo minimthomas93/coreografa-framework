@@ -1,0 +1,1 @@
+SELECT  {31,40}  FROM assets JOIN locations ON projects.department_id = departments.id WHERE  city  LIKE  30000.0  ORDER BY  employee_id  ASC ;

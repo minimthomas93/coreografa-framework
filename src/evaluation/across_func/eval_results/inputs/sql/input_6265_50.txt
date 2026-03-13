@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  name < 30000.0  AND  location != 50  OR  training_name < 120000.0  AND  end_date !=Finance AND  location  LIKE  30000.0  OR  city <Hamburg AND  health_insurance > 120000.0  AND  end_date  LIKE Stuttgart OR  asset_type >= 1  AND  status >= 30000.0  AND  name  LIKE  75000.99 ;

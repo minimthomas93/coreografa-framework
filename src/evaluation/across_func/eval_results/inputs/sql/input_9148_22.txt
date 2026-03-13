@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN clients ON meetings.project_id = projects.id WHERE  end_date < 120000.0  OR  project_id =Frankfurt OR  contact_email >=Communication AND  status  LIKE Operations OR  last_name > 30  OR  city > 40  AND  age > 30000.0  AND  department_id  LIKE  50000.5  OR  asset_type  LIKE  2  ORDER BY  assigned_to_employee  DESC ;

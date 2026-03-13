@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  department_id < 3  OR  location =Todo OR  country >= 30000.0  OR  base_salary != 120000.0  AND  assigned_to_employee > 30000.0  OR  age !=In Progress OR  base_salary  LIKE Cologne AND  industry <= 60  OR  department_id <=Leipzig AND  asset_type <In Progress OR  health_insurance != 30000.0  ORDER BY  id  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  department_id =Done AND  age <=Leadership AND  asset_type  LIKE  30000.0  OR  first_name > 25  AND  id >= 120000.0  OR  base_salary = 30  OR  department_id < 1  AND  start_date <HR AND  first_name >Cologne;

@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN benefits ON meetings.client_id = clients.id ORDER BY  assigned_to_employee  ASC ;

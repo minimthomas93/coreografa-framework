@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  bonus != 40  OR  asset_name <= 18  AND  end_date =Done AND  base_salary > 50000.5  AND  assigned_to_employee >Dusseldorf AND  country <= 2  OR  asset_type  LIKE  30000.0  OR  country <= 120000.0  OR  status <=Cologne OR  name = 30000.0  ORDER BY  department_id  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN benefits ON trainings.employee_id = employees.id WHERE  age >Education OR  contact_email >= 30000.0  AND  first_name < 30000.0  AND  location  LIKE  30000.0  ORDER BY  end_date  ASC ;

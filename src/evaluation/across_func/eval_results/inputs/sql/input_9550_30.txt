@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN salaries JOIN assets JOIN locations JOIN tasks ON tasks.project_id = projects.id ON tasks.project_id = projects.id ON meetings.client_id = clients.id ON assets.assigned_to_employee = employees.id WHERE  first_name !=Healthcare OR  status  LIKE  50  ORDER BY  bonus  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN meetings ON projects.department_id = departments.id ORDER BY  contact_email  DESC ;

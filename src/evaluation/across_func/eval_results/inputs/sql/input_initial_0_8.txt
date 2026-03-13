@@ -1,0 +1,1 @@
+SELECT  {1,10}  FROM salaries WHERE  industry = 4  AND  industry =Sales OR  health_insurance <Leadership OR  department_id != 60  AND  name < 3  AND  industry =Education AND  bonus  LIKE  75000.99  OR  asset_name  LIKE Sales AND  last_name  LIKE Stuttgart AND  hire_date != 50  OR  health_insurance  LIKE  3  ORDER BY  first_name  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  completion_date <= 2  AND  hire_date <= 4  OR  asset_name > 4  AND  name  LIKE  30000.0  OR  age != 3  OR  location >=Hamburg AND  asset_type < 75000.99  OR  base_salary <= 30000.0  OR  department_id >= 50000.5  AND  assigned_to_employee != 75000.99  AND  bonus =Sales OR  project_id = 3  AND  last_name  LIKE  25  ORDER BY  id  DESC ;

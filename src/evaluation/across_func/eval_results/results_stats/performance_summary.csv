@@ -1,0 +1,3 @@
+System,Inputs,Mean Runtime (ms),Median Runtime (ms),Std Dev Runtime (ms),P95 Runtime (ms),Mean Memory,Median Memory,P95 Memory
+weasyprint_63,2800,72.612,59.7,43.306,152.934,419262.3,364646.0,825550.8
+weasyprint_64,2800,72.911,59.988,43.886,146.302,419628.5,363339.5,827688.6

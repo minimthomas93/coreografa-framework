@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN clients JOIN clients ON meetings.client_id = clients.id ON meetings.project_id = projects.id WHERE  asset_type >= 4  ORDER BY  base_salary  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN projects JOIN locations JOIN assets JOIN salaries JOIN assets ON employees.department_id = departments.id ON projects.department_id = departments.id ON meetings.client_id = clients.id ON benefits.employee_id = employees.id ON tasks.employee_id = employees.id WHERE  base_salary <HR;

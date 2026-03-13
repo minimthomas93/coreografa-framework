@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN trainings ON salaries.employee_id = employees.id WHERE  city < 50000.5  OR  country != 50000.5  OR  bonus = 50000.5  OR  department_id > 60  AND  retirement_plan != 75000.99  AND  status >=Engineering OR  industry >= 30000.0  OR  age = 30000.0  AND  meeting_date  LIKE SQL OR  country <=Leipzig AND  training_name <=Retail ORDER BY  name  DESC ;

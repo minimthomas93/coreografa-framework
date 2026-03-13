@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  start_date >= 30  ORDER BY  last_name  ASC ;

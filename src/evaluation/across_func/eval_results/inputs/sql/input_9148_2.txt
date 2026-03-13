@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  project_id < 50  AND  completion_date = 60  AND  health_insurance < 50  ORDER BY  status  DESC ;

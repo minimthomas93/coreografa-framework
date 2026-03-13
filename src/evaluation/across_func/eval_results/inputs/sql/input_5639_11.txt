@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  asset_type = 25  ORDER BY  country  DESC ;

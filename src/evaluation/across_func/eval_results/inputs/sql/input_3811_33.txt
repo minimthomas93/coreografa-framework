@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  training_name != 50  AND  bonus <= 40  AND  asset_name = 50000.5  AND  training_name >=R&D AND  location > 120000.0  AND  first_name =Healthcare AND  city = 50000.5  OR  name < 30000.0  OR  first_name <= 18  AND  status <Done OR  name <In Progress AND  end_date <= 30000.0  OR  description <= 2  OR  meeting_date <Hamburg;

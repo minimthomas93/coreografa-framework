@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  meeting_date =Communication ORDER BY  meeting_date  ASC ;

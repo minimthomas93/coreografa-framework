@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  industry >= 50000.5  ORDER BY  base_salary  ASC ;

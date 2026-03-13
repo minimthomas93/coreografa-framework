@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  assigned_to_employee = 3  OR  base_salary >Finance OR  last_name < 2  AND  contact_email =Leadership OR  asset_name <=Leadership OR  location < 50000.5  OR  meeting_date <= 75000.99  AND  employee_id <= 40  AND  name >Operations OR  end_date > 18  AND  id  LIKE Tech AND  hire_date <=Excel OR  city  LIKE  40 ;

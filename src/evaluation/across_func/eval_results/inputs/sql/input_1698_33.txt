@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN clients ON meetings.project_id = projects.id ORDER BY  age  DESC ;

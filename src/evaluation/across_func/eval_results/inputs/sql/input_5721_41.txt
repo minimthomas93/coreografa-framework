@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN meetings JOIN employees ON tasks.project_id = projects.id ON meetings.project_id = projects.id WHERE  asset_type < 18  OR  id = 3  AND  project_id >Python OR  department_id >Berlin AND  contact_email < 120000.0  AND  status != 30  OR  meeting_date <= 30  OR  hire_date <Operations OR  location >= 30000.0 ;

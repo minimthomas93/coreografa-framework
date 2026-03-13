@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN projects ON salaries.employee_id = employees.id ORDER BY  country  ASC ;

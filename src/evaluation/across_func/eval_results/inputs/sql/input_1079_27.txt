@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN benefits ON employees.department_id = departments.id;

@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN benefits ON tasks.employee_id = employees.id WHERE  last_name >= 25  OR  start_date < 30  AND  start_date <= 40  OR  country >Frankfurt OR  industry  LIKE Leadership AND  completion_date < 120000.0  OR  base_salary  LIKE  120000.0  AND  hire_date = 60  OR  status = 120000.0  AND  asset_name <= 75000.99  AND  city >= 30000.0 ;

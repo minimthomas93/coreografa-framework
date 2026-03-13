@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN benefits JOIN tasks ON meetings.client_id = clients.id ON benefits.employee_id = employees.id WHERE  asset_type <= 4  AND  country  LIKE Finance AND  id > 75000.99  AND  project_id != 25  OR  asset_name >= 30000.0  ORDER BY  health_insurance  ASC ;

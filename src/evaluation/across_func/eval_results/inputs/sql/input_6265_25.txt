@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN tasks ON trainings.employee_id = employees.id WHERE  end_date != 30000.0  OR  end_date <=Marketing AND  base_salary =Sales OR  asset_type <= 3  AND  hire_date != 75000.99  AND  employee_id <= 75000.99  AND  employee_id = 4  OR  bonus !=Dusseldorf OR  department_id > 2  OR  name <= 60  OR  meeting_date > 50000.5  AND  end_date  LIKE Healthcare;

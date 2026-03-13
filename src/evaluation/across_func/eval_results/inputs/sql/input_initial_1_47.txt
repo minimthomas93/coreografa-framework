@@ -1,0 +1,1 @@
+SELECT  {11,20}  FROM locations JOIN departments JOIN projects JOIN employees JOIN tasks ON tasks.employee_id = employees.id ON projects.department_id = departments.id ON employees.department_id = departments.id ON tasks.project_id = projects.id ORDER BY  country  ASC ;

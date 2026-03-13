@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  location >= 60  OR  health_insurance  LIKE SQL;

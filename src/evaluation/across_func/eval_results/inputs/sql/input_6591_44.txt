@@ -1,0 +1,1 @@
+SELECT  country , id , health_insurance  name , meeting_date  first_name  last_name , status  department_id  first_name , status  retirement_plan , industry , asset_name  assigned_to_employee , location , base_salary  location  FROM projects WHERE  meeting_date != 18 ;

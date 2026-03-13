@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN employees ON projects.department_id = departments.id WHERE  contact_email >=Finance OR  asset_name = 50000.5  OR  country  LIKE  120000.0  AND  hire_date  LIKE  3  OR  retirement_plan < 25  OR  meeting_date = 30000.0  AND  base_salary !=Finance AND  city <= 40  AND  department_id != 30  AND  age <Leadership AND  last_name != 75000.99 ;

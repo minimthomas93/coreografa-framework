@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  location  LIKE  1  AND  assigned_to_employee > 30000.0  ORDER BY  health_insurance  ASC ;

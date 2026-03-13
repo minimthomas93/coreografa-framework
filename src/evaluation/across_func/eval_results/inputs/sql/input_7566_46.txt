@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN employees ON salaries.employee_id = employees.id WHERE  country >= 40  ORDER BY  end_date  ASC ;

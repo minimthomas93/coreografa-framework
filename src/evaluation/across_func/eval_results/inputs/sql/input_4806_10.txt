@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN assets JOIN trainings ON trainings.employee_id = employees.id ON benefits.employee_id = employees.id WHERE  end_date < 1  OR  city <=Finance AND  health_insurance > 4  OR  assigned_to_employee != 2  OR  assigned_to_employee = 120000.0  AND  health_insurance !=Education;

@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN departments JOIN meetings JOIN projects JOIN benefits ON tasks.employee_id = employees.id ON benefits.employee_id = employees.id ON tasks.employee_id = employees.id ON employees.department_id = departments.id WHERE  industry = 18 ;

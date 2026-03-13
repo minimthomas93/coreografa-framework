@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  project_id != 75000.99  AND  asset_name  LIKE Todo AND  hire_date =Education OR  description =Finance OR  training_name <Frankfurt OR  city <= 40  AND  first_name =Todo AND  name  LIKE  120000.0  OR  end_date >= 50  OR  employee_id >=Retail AND  asset_type >Finance OR  description != 60  AND  employee_id  LIKE  75000.99 ;

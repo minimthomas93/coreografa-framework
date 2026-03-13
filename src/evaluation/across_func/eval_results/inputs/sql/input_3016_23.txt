@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  name = 120000.0  AND  department_id >= 30000.0  OR  id =HR OR  country <= 120000.0  OR  age >= 40  AND  age != 75000.99  ORDER BY  first_name  ASC ;

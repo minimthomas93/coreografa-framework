@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN projects JOIN salaries JOIN meetings ON salaries.employee_id = employees.id ON meetings.client_id = clients.id ON assets.assigned_to_employee = employees.id ORDER BY  assigned_to_employee  ASC ;

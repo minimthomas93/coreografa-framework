@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN meetings ON benefits.employee_id = employees.id ORDER BY  description  DESC ;

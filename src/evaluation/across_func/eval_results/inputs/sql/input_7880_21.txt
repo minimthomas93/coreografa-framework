@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN employees ON projects.department_id = departments.id WHERE  health_insurance >Finance AND  completion_date != 50  OR  id >= 4  AND  asset_name <= 50000.5  AND  completion_date  LIKE  4 ;

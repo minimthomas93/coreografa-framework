@@ -1,0 +1,1 @@
+SELECT  country , base_salary  base_salary  last_name , department_id , id , employee_id  FROM employees JOIN assets ON salaries.employee_id = employees.id WHERE  asset_type  LIKE  25  ORDER BY  completion_date  DESC ;

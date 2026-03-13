@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN trainings JOIN trainings JOIN projects ON meetings.client_id = clients.id ON salaries.employee_id = employees.id ON trainings.employee_id = employees.id WHERE  hire_date != 50000.5  AND  country > 30000.0  OR  name =Leipzig OR  name >=Todo ORDER BY  project_id  DESC ;

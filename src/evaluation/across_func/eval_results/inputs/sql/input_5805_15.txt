@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  bonus > 18  ORDER BY  completion_date  DESC ;

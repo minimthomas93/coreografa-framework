@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN departments ON benefits.employee_id = employees.id WHERE  retirement_plan >= 60  OR  age >=Sales OR  industry  LIKE Leipzig AND  meeting_date > 50000.5  OR  end_date >=Engineering OR  start_date >Frankfurt OR  first_name = 50000.5  OR  city >= 30000.0  AND  contact_email >=Frankfurt OR  health_insurance = 50 ;

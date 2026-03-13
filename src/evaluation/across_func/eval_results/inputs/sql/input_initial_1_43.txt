@@ -1,0 +1,1 @@
+SELECT  {11,20}  FROM clients JOIN salaries JOIN departments JOIN locations ON salaries.employee_id = employees.id ON meetings.client_id = clients.id ON tasks.employee_id = employees.id;

@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  first_name >SQL ORDER BY  department_id  ASC ;

@@ -1,0 +1,1 @@
+SELECT  {1,10}  FROM clients JOIN tasks JOIN employees ON tasks.project_id = projects.id ON trainings.employee_id = employees.id WHERE  retirement_plan  LIKE  120000.0  AND  country <= 30000.0  OR  age <= 30000.0 ;

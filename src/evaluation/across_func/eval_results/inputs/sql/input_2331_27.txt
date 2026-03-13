@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN trainings ON projects.department_id = departments.id WHERE  department_id > 18  OR  meeting_date = 75000.99  AND  base_salary != 25  OR  department_id <= 60  AND  country  LIKE Todo AND  contact_email > 30000.0  AND  last_name <= 60  AND  health_insurance  LIKE  120000.0  AND  id != 2  OR  id =Marketing ORDER BY  contact_email  DESC ;

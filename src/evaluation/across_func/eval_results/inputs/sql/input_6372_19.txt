@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN employees ON meetings.client_id = clients.id WHERE  status >Sales;

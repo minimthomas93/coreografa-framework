@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  completion_date  LIKE Support OR  status <Marketing OR  asset_name  LIKE Marketing OR  department_id >=Hamburg AND  country > 75000.99  AND  project_id > 50000.5  AND  id <= 120000.0  AND  employee_id < 30000.0  AND  bonus >Tech AND  city > 40  OR  country > 75000.99  OR  age >Communication AND  department_id <= 25 ;

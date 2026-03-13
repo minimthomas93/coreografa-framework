@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  department_id < 75000.99  OR  meeting_date < 75000.99  OR  retirement_plan = 25  AND  city =Dusseldorf OR  asset_type <=Marketing AND  country != 30000.0  OR  employee_id = 60  OR  end_date >= 60  AND  base_salary <= 1  AND  employee_id !=Frankfurt OR  end_date >HR OR  location > 3 ;

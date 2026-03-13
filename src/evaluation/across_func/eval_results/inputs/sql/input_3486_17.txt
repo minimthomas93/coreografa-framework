@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  country >= 75000.99  OR  first_name >= 18  ORDER BY  last_name  DESC ;

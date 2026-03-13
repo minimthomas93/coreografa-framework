@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  project_id !=Engineering ORDER BY  employee_id  ASC ;

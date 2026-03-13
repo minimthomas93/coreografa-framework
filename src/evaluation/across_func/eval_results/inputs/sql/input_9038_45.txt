@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  id >=Communication AND  location  LIKE  3  OR  training_name > 30  OR  age = 2  OR  training_name >= 30000.0  OR  contact_email =Berlin AND  base_salary  LIKE Communication OR  employee_id > 25  OR  name <= 30000.0  AND  asset_type >= 2  OR  industry < 30000.0  OR  meeting_date <= 120000.0 ;

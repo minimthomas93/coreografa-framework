@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  location = 25  AND  city != 40  AND  assigned_to_employee <= 30  OR  start_date >=Python AND  last_name <=Dusseldorf AND  location != 50  OR  hire_date <= 50  OR  end_date  LIKE  120000.0  AND  department_id >=SQL AND  name >=HR AND  training_name !=Retail AND  age <Healthcare OR  training_name < 30  AND  health_insurance <=SQL;

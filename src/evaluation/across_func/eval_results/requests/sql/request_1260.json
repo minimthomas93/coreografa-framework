@@ -1,0 +1,65 @@
+{
+    "function": "sql_sqlite",
+    "initial_pop": [
+        "SELECT  *  FROM employees JOIN clients JOIN assets JOIN tasks JOIN benefits ON projects.department_id = departments.id ON salaries.employee_id = employees.id ON meetings.project_id = projects.id ON salaries.employee_id = employees.id WHERE  status = 30  OR  description >= 60  ORDER BY  contact_email  ASC ;\n",
+        "SELECT  retirement_plan  status , project_id , location  asset_type , description  location , assigned_to_employee  retirement_plan  end_date , base_salary , last_name , industry  industry , city , description  training_name  training_name , contact_email , location  location , asset_name , hire_date  asset_name , name , start_date , industry  name  employee_id  department_id  country  asset_name , hire_date  bonus , asset_type  city  description  base_salary  id  industry , description  hire_date  age , end_date  first_name  id  id , status  start_date , end_date , department_id , asset_type , meeting_date  FROM locations;\n",
+        "SELECT  *  FROM benefits ORDER BY  country  DESC ;\n",
+        "SELECT  base_salary , country , end_date  location , country  description  bonus , end_date  country  industry  base_salary , retirement_plan  id  employee_id  location , employee_id , retirement_plan , retirement_plan , asset_type , asset_type , contact_email , project_id , description , end_date  department_id  asset_type  hire_date  completion_date , employee_id  asset_name , age , status , asset_type , health_insurance  completion_date , completion_date  id , id , base_salary  meeting_date  industry , employee_id  description , first_name  department_id , start_date  first_name  city , project_id  retirement_plan  first_name  FROM benefits;\n",
+        "SELECT  location , status  retirement_plan , country  project_id  first_name , contact_email , contact_email  health_insurance , department_id , employee_id , project_id  department_id  end_date  health_insurance  contact_email  meeting_date  name  retirement_plan  country  bonus , base_salary , employee_id , industry , last_name  employee_id , completion_date  retirement_plan , asset_type  first_name , location , first_name  base_salary , status  status  location  base_salary  location  status  city  start_date , bonus , asset_type , asset_name , department_id , start_date , status  id , training_name , asset_name  retirement_plan , training_name  FROM salaries;\n",
+        "SELECT  *  FROM locations JOIN trainings ON meetings.project_id = projects.id ORDER BY  employee_id  DESC ;\n",
+        "SELECT  *  FROM employees JOIN locations ON employees.department_id = departments.id WHERE  asset_name >Finance;\n",
+        "SELECT  *  FROM tasks WHERE  start_date >= 30000.0  OR  department_id =Todo AND  location >=Sales AND  asset_name <= 50  OR  assigned_to_employee  LIKE  120000.0  OR  name =R&D OR  country != 50  OR  country > 2  OR  retirement_plan =Education AND  city != 75000.99  AND  age > 50000.5  AND  retirement_plan < 25  OR  name <= 4 ;\n",
+        "SELECT  *  FROM projects JOIN clients ON tasks.employee_id = employees.id WHERE  health_insurance  LIKE  120000.0  ORDER BY  status  ASC ;\n",
+        "SELECT  *  FROM trainings WHERE  age <=Retail OR  status > 40  AND  age  LIKE  2  OR  city >=Finance OR  age >Sales AND  employee_id >= 50  OR  bonus >=Operations OR  location  LIKE  30000.0  AND  base_salary <= 25  AND  location != 1  AND  department_id >= 30  AND  id <= 25  OR  project_id > 2  AND  city != 120000.0  AND  bonus >= 30000.0 ;\n",
+        "SELECT  *  FROM assets WHERE  training_name  LIKE Retail AND  age  LIKE Education AND  meeting_date > 60  OR  completion_date  LIKE Finance AND  hire_date = 50  AND  age <Tech OR  department_id  LIKE Frankfurt OR  asset_type  LIKE SQL OR  contact_email > 50000.5  OR  industry  LIKE  50000.5  AND  base_salary <= 30  AND  end_date <= 120000.0  AND  city <= 40  OR  assigned_to_employee != 50000.5  AND  bonus  LIKE  120000.0 ;\n",
+        "SELECT  start_date  health_insurance , name  id  description , location  training_name , asset_name , location  meeting_date  retirement_plan  end_date  end_date , last_name , first_name , start_date  bonus  base_salary  country  start_date  training_name  employee_id , city  last_name , industry  status  start_date , meeting_date , country  city , assigned_to_employee  country , employee_id , id  assigned_to_employee , bonus  name  training_name , completion_date , base_salary , end_date , first_name  last_name  contact_email  base_salary , project_id , location  employee_id , last_name , completion_date  name  id  FROM departments;\n",
+        "SELECT  *  FROM clients JOIN tasks ON trainings.employee_id = employees.id;\n",
+        "SELECT  status  end_date  status , name , last_name  name , asset_type  base_salary , bonus , employee_id , id  asset_type  base_salary  asset_type , employee_id , meeting_date  city , age  health_insurance  health_insurance , employee_id  retirement_plan , status  hire_date , id  asset_type  description , last_name  name  first_name , name  base_salary  asset_type , health_insurance  project_id  health_insurance , department_id , first_name  industry  project_id , age , contact_email  name  assigned_to_employee  assigned_to_employee , employee_id  age , asset_name  id  age  city , employee_id , retirement_plan  FROM trainings;\n"
+    ],
+    "initial_pop_files": [
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_1225_29.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_1237_5.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_1237_7.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_1673_27.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_2021_12.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_2021_33.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_2195_3.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_2331_45.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_2331_50.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_2331_6.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_2370_1.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_2641_28.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_3085_33.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_31_38.txt"
+    ],
+    "metric_constraints": [
+        {
+            "name": "runtime_ns",
+            "op": ">=",
+            "type": "metric",
+            "value": 9458080.0
+        },
+        {
+            "name": "runtime_ns",
+            "op": "<=",
+            "type": "metric",
+            "value": 10899510.0
+        }
+    ],
+    "name": "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\split_summary\\sql\\sql_sqlite_summary.csv",
+    "prop_constraints": [
+        {
+            "name": "count_tables",
+            "op": ">=",
+            "type": "prop",
+            "value": 1.0
+        },
+        {
+            "name": "count_tables",
+            "op": "<=",
+            "type": "prop",
+            "value": 1.0
+        }
+    ],
+    "request_type": "frequency request"
+}

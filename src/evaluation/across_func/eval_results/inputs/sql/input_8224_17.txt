@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  last_name  LIKE Communication OR  assigned_to_employee < 25  AND  description >= 120000.0  OR  name = 50000.5  OR  employee_id <= 50000.5  AND  end_date <=Dusseldorf OR  city >HR OR  bonus = 30000.0  ORDER BY  contact_email  ASC ;

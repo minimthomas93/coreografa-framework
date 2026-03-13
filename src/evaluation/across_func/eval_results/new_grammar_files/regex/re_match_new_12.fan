@@ -1,0 +1,74 @@
+import tracemalloc
+import time
+from fandango.language.symbols import NonTerminal
+from fandango.language.tree import DerivationTree
+from across_func.eval_subjects.regex import user_systems
+import inspect
+import re
+import regex
+
+<start> ::= <regex>
+<regex> ::= (<term> | <term> '|' <regex>)
+<term> ::= (<factor> | <factor> <term>)
+<factor> ::= (<base> | <base> <quantifier>)
+<base> ::= (<literal> | <char_class> | '(' <regex> ')')
+<char_class> ::= ('[' <char_range> ']' | '[' <char_range> <char_range> ']')
+<char_range> ::= (<char> '-' <char> | <char>)
+<literal> ::= <char>
+<char> ::= ('a' | 'b' | 'c' | 'd' | 'e' | 'f' | 'g' | 'h' | 'i' | 'j' | 'k' | 'l' | 'm' | 'n' | 'o' | 'p' | 'q' | 'r' | 's' | 't' | 'u' | 'v' | 'w' | 'x' | 'y' | 'z' | '0' | '1' | '2' | '3' | '4' | '5' | '6' | '7' | '8' | '9')
+<quantifier> ::= ('?' | '*' | '+' | '{' <number> '}' | '{' <number> ',' <number> '}')
+<number> ::= ('1' | '2' | '3' | '4' | '5' | '6' | '7' | '8' | '9')
+def get_user_system_funcs():
+    user_funcs = inspect.getmembers(user_systems, inspect.isfunction)
+    user_system_funcs = []
+    for func_tuple in user_funcs:
+        func_name = func_tuple[0]
+        func_obj = func_tuple[1]
+        if func_obj.__module__ == 'user_systems':
+            user_system_funcs.append(func_name)
+    return user_system_funcs
+
+def elapsed(tree, func_name):
+    reg_pattern = str(tree)
+    func = getattr(user_systems, func_name, None)
+    if callable(func):
+        tracemalloc.start()
+        start_time = time.perf_counter_ns()
+        try:
+            func(reg_pattern)
+        except Exception as e:
+            print('[ERROR] Regex failed:', e)
+        end_time = time.perf_counter_ns()
+        elapsed_time = end_time - start_time
+        memory_consumed = tracemalloc.get_traced_memory()
+        tracemalloc.stop()
+        return {'runtime_ns': elapsed_time, 'memory_peak': memory_consumed[1]}
+
+def constraints(tree):
+    time_and_memory = {}
+    results = []
+    user_system_funcs = get_user_system_funcs()
+    for func_name in user_system_funcs:
+        time_and_memory[func_name] = elapsed(tree, func_name)
+        results.append(time_and_memory['regex_match']['runtime_ns'] >= 16188740 or time_and_memory['regex_match']['runtime_ns'] <= 18481760 or time_and_memory['re_match']['runtime_ns'] >= 16188740 or (time_and_memory['re_match']['runtime_ns'] <= 18481760))
+    return all(results)
+
+def count_pattern_tokens(tree):
+    pattern = str(tree).strip()
+    tokens = re.findall('\\[[^\\]]+\\]|\\([^\\)]+\\)|\\w|\\W', pattern)
+    return len(tokens)
+
+def count_term(tree):
+    from fandango.language.symbols import NonTerminal
+    from fandango.language.tree import DerivationTree
+    target = NonTerminal('<term>')
+
+    def _count(t):
+        count = 1 if t.symbol == target else 0
+        for c in t.children:
+            count += _count(c)
+        return count
+    return _count(tree)
+where constraints(<start>)
+where count_term(<start>) >= 16.0
+where count_term(<start>) <= 22.0

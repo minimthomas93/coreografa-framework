@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN benefits ON tasks.employee_id = employees.id WHERE  industry <= 75000.99  OR  asset_type <=HR OR  name >= 4  AND  last_name !=Excel OR  health_insurance >= 3  OR  health_insurance  LIKE  50  AND  location =Tech OR  base_salary >=Done OR  training_name  LIKE  18  AND  meeting_date = 120000.0  OR  location > 75000.99 ;

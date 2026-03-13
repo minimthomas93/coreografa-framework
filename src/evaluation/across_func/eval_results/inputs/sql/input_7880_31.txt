@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN tasks JOIN meetings ON trainings.employee_id = employees.id ON trainings.employee_id = employees.id;

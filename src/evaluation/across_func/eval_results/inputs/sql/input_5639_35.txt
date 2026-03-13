@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN salaries ON tasks.project_id = projects.id WHERE  start_date >= 2  ORDER BY  status  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN meetings ON tasks.employee_id = employees.id ORDER BY  id  DESC ;

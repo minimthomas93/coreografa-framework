@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN assets ON assets.assigned_to_employee = employees.id;

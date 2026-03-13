@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  retirement_plan <= 18  AND  health_insurance  LIKE  40  OR  bonus >=In Progress AND  city >= 50000.5  AND  country >= 18  OR  start_date > 50000.5  AND  start_date > 75000.99  OR  department_id !=Healthcare OR  first_name >Hamburg OR  description < 50000.5 ;

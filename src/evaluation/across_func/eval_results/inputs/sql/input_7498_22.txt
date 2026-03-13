@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN employees ON salaries.employee_id = employees.id WHERE  city = 30000.0 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  age >=Done AND  department_id > 75000.99  ORDER BY  age  ASC ;

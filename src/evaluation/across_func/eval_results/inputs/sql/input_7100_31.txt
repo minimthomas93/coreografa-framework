@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  location < 4  ORDER BY  asset_name  DESC ;

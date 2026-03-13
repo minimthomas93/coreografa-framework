@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  asset_type != 75000.99  OR  contact_email < 30000.0  AND  department_id > 120000.0  AND  city >=Sales OR  training_name <= 50000.5  AND  country <= 50000.5  OR  asset_type < 50000.5  AND  asset_name != 50000.5  AND  name >= 120000.0  OR  employee_id != 40  AND  hire_date !=Todo OR  meeting_date <Excel OR  age  LIKE  120000.0 ;

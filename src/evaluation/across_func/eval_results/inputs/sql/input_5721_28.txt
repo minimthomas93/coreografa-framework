@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN meetings JOIN projects ON projects.department_id = departments.id ON tasks.employee_id = employees.id WHERE  location  LIKE  120000.0  AND  location > 120000.0  OR  assigned_to_employee > 2  AND  start_date < 40  AND  contact_email <Retail OR  bonus > 30000.0  ORDER BY  start_date  ASC ;

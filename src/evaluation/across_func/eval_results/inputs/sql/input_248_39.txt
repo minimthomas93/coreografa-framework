@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN projects JOIN benefits ON projects.department_id = departments.id ON tasks.employee_id = employees.id;

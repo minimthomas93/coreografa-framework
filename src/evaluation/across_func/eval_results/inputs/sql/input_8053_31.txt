@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN clients ON employees.department_id = departments.id;

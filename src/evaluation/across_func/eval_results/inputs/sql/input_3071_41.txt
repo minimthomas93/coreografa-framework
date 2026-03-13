@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  meeting_date <=Done AND  asset_name  LIKE  30000.0  OR  completion_date <SQL OR  last_name = 75000.99  OR  city <Finance OR  contact_email  LIKE Python OR  age <= 4  OR  department_id <= 75000.99  AND  country <Sales OR  base_salary > 25  OR  last_name < 18  AND  assigned_to_employee >= 1  AND  end_date = 30000.0 ;

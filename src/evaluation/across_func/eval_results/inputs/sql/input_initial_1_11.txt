@@ -1,0 +1,1 @@
+SELECT  {11,20}  FROM departments JOIN departments JOIN salaries ON trainings.employee_id = employees.id ON projects.department_id = departments.id WHERE  retirement_plan > 30000.0  AND  training_name >= 50000.5  ORDER BY  age  ASC ;

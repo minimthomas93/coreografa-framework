@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN assets ON benefits.employee_id = employees.id ORDER BY  country  ASC ;

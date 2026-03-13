@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN projects ON meetings.client_id = clients.id WHERE  department_id  LIKE Hamburg ORDER BY  retirement_plan  ASC ;

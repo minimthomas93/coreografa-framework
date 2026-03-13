@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN trainings ON tasks.employee_id = employees.id WHERE  asset_type =Frankfurt OR  country  LIKE  75000.99  OR  meeting_date =Python AND  status !=R&D OR  city >Excel OR  country = 4  OR  meeting_date >=Done OR  contact_email <Support OR  last_name >Finance AND  status < 2  AND  project_id <= 50000.5  ORDER BY  asset_type  ASC ;

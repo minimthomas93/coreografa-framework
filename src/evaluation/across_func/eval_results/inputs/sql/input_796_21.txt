@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN benefits JOIN locations JOIN locations ON tasks.project_id = projects.id ON meetings.client_id = clients.id ON benefits.employee_id = employees.id WHERE  country > 120000.0 ;

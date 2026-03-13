@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN assets JOIN locations ON meetings.project_id = projects.id ON benefits.employee_id = employees.id ORDER BY  bonus  DESC ;

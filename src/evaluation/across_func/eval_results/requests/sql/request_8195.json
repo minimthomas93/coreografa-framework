@@ -1,0 +1,39 @@
+{
+    "function": "sql_sqlite",
+    "initial_pop": [
+        "SELECT  *  FROM locations JOIN trainings JOIN salaries JOIN departments ON meetings.client_id = clients.id ON tasks.project_id = projects.id ON assets.assigned_to_employee = employees.id WHERE  last_name != 30000.0  AND  health_insurance != 3  AND  description  LIKE Python OR  name <Hamburg OR  employee_id >= 30000.0  AND  bonus >=Tech OR  retirement_plan >=Frankfurt OR  employee_id < 75000.99  OR  meeting_date <= 25  OR  asset_name <= 50000.5  AND  assigned_to_employee =Communication OR  employee_id >=Todo ORDER BY  base_salary  DESC ;\n"
+    ],
+    "initial_pop_files": [
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\sql\\input_1718_5.txt"
+    ],
+    "metric_constraints": [
+        {
+            "name": "memory_peak",
+            "op": ">=",
+            "type": "metric",
+            "value": 4424.299999999999
+        },
+        {
+            "name": "memory_peak",
+            "op": "<=",
+            "type": "metric",
+            "value": 4754.0
+        }
+    ],
+    "name": "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\split_summary\\sql\\sql_sqlite_summary.csv",
+    "prop_constraints": [
+        {
+            "name": "count_column_name",
+            "op": ">=",
+            "type": "prop",
+            "value": 56.0
+        },
+        {
+            "name": "count_column_name",
+            "op": "<=",
+            "type": "prop",
+            "value": 56.0
+        }
+    ],
+    "request_type": "frequency request"
+}

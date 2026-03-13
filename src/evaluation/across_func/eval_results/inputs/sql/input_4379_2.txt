@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  retirement_plan <Sales AND  status >=Leipzig OR  health_insurance !=Done OR  retirement_plan  LIKE  4  OR  id > 50000.5  OR  first_name =SQL AND  assigned_to_employee <= 30000.0  AND  start_date = 75000.99  AND  employee_id  LIKE Cologne OR  id < 2  OR  id <= 30000.0  OR  project_id >= 60  AND  assigned_to_employee !=Marketing;

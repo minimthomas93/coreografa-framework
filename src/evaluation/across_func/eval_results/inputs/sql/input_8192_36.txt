@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN benefits JOIN departments JOIN benefits JOIN projects ON assets.assigned_to_employee = employees.id ON meetings.project_id = projects.id ON trainings.employee_id = employees.id ON tasks.project_id = projects.id ORDER BY  hire_date  ASC ;

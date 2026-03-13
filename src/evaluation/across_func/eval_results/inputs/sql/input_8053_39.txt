@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN departments JOIN locations ON trainings.employee_id = employees.id ON assets.assigned_to_employee = employees.id ORDER BY  contact_email  ASC ;

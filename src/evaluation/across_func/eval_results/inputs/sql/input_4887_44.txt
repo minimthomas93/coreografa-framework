@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  training_name  LIKE  2  ORDER BY  city  ASC ;

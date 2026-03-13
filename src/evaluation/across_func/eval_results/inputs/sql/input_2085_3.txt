@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  retirement_plan <=Retail AND  bonus = 50000.5  AND  end_date < 120000.0  OR  description <=Done AND  first_name <= 1  OR  bonus = 50000.5  AND  retirement_plan =Tech AND  meeting_date <=Marketing OR  asset_name < 18  AND  last_name  LIKE Excel OR  employee_id != 18  OR  location >Leipzig ORDER BY  location  ASC ;

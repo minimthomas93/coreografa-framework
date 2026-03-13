@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  health_insurance >= 75000.99  OR  asset_type > 120000.0  OR  start_date >= 50000.5  AND  city = 30000.0  AND  asset_type <= 1  AND  completion_date !=Todo OR  contact_email != 18  OR  first_name >Done OR  location < 60  AND  last_name  LIKE  3  OR  training_name >= 30 ;

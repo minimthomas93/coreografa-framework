@@ -1,0 +1,1 @@
+SELECT  asset_name , retirement_plan  location  location  assigned_to_employee  contact_email  contact_email , hire_date  start_date , country , start_date , hire_date  FROM benefits;

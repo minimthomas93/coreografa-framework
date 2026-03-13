@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  name <Stuttgart OR  id >=Python AND  first_name >= 3  AND  city > 3  OR  hire_date < 120000.0  OR  base_salary >= 4  OR  id >=Operations AND  department_id <= 120000.0  OR  assigned_to_employee <= 2 ;

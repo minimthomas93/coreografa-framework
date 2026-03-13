@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN assets ON benefits.employee_id = employees.id WHERE  assigned_to_employee < 30000.0  OR  completion_date <HR OR  completion_date > 25  OR  base_salary != 30000.0  OR  status !=Cologne AND  training_name < 50000.5  OR  bonus !=R&D AND  end_date >R&D AND  meeting_date = 40  AND  bonus >Leadership ORDER BY  employee_id  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN projects JOIN projects ON salaries.employee_id = employees.id ON benefits.employee_id = employees.id ORDER BY  bonus  DESC ;

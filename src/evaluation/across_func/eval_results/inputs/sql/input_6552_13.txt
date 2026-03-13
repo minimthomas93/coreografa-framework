@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  name  LIKE  50000.5  OR  end_date =Berlin OR  hire_date > 40  AND  location != 75000.99  OR  assigned_to_employee  LIKE  50  OR  asset_name >= 4  AND  location > 50  AND  assigned_to_employee >= 30  OR  retirement_plan  LIKE  75000.99  OR  base_salary <Operations AND  bonus  LIKE  120000.0  AND  city < 120000.0  AND  city  LIKE Todo;

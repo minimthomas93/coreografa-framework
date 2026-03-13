@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  training_name < 75000.99  OR  location >= 50000.5  AND  industry != 120000.0  OR  hire_date <Leipzig AND  training_name > 25  OR  project_id = 18  OR  hire_date > 30  OR  hire_date != 30000.0  OR  age >Cologne OR  first_name >Healthcare OR  hire_date < 50  AND  name <= 30000.0  OR  employee_id != 75000.99  OR  bonus < 120000.0 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN projects JOIN employees ON trainings.employee_id = employees.id ON trainings.employee_id = employees.id WHERE  bonus >Finance;

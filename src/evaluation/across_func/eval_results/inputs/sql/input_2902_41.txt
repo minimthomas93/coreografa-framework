@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  description =Retail OR  base_salary  LIKE  2  AND  asset_type <=Marketing;

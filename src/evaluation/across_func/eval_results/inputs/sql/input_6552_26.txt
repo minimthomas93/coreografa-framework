@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN salaries JOIN benefits JOIN departments JOIN locations ON meetings.client_id = clients.id ON salaries.employee_id = employees.id ON trainings.employee_id = employees.id ON employees.department_id = departments.id WHERE  employee_id >= 25 ;

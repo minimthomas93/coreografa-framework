@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  industry =Done ORDER BY  city  ASC ;

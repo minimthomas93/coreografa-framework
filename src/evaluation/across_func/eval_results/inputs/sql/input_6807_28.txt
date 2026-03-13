@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  health_insurance <Retail OR  project_id <= 120000.0  OR  assigned_to_employee >= 1 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN projects JOIN salaries JOIN employees ON assets.assigned_to_employee = employees.id ON tasks.project_id = projects.id ON trainings.employee_id = employees.id ORDER BY  bonus  ASC ;

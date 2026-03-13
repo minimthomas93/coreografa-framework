@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  first_name >=Python AND  id  LIKE  75000.99  OR  industry >R&D OR  health_insurance  LIKE  30000.0  OR  status = 75000.99  AND  meeting_date  LIKE In Progress OR  hire_date > 75000.99  AND  city =Leipzig OR  location != 18  OR  city <= 1  OR  retirement_plan <= 30000.0  OR  name >=Python AND  last_name <= 30  OR  contact_email > 18 ;

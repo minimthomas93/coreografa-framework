@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN employees ON meetings.project_id = projects.id WHERE  employee_id =Marketing OR  base_salary < 30  AND  start_date > 30000.0  OR  country = 120000.0  OR  hire_date > 30000.0  AND  employee_id > 40  OR  hire_date < 50000.5  AND  hire_date > 50000.5  OR  id  LIKE  40  AND  project_id < 1  OR  city = 120000.0  OR  id != 50000.5 ;

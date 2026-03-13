@@ -1,0 +1,1 @@
+SELECT  {11,20}  FROM salaries JOIN locations ON meetings.client_id = clients.id ORDER BY  last_name  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN tasks JOIN employees ON assets.assigned_to_employee = employees.id ON tasks.employee_id = employees.id;

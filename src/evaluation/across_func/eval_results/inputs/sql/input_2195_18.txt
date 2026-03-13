@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  last_name  LIKE  60  ORDER BY  first_name  ASC ;

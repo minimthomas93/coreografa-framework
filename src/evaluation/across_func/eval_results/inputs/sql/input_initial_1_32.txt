@@ -1,0 +1,1 @@
+SELECT  {11,20}  FROM departments JOIN benefits ON meetings.project_id = projects.id ORDER BY  contact_email  DESC ;

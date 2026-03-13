@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  first_name <=Excel AND  location  LIKE  50000.5  OR  asset_type = 50  OR  age  LIKE  40  AND  retirement_plan  LIKE  120000.0  OR  retirement_plan >Marketing OR  asset_type <=Marketing OR  country <= 120000.0  OR  completion_date != 75000.99  OR  location  LIKE  75000.99  AND  asset_type != 50000.5  AND  industry != 30000.0 ;

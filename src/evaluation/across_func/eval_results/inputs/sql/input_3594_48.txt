@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  retirement_plan = 75000.99  AND  contact_email >= 40  OR  start_date > 75000.99  AND  health_insurance < 2  AND  country >= 4  AND  location >Frankfurt OR  department_id >=Operations AND  retirement_plan <= 120000.0  OR  training_name >In Progress OR  contact_email  LIKE Todo AND  project_id <= 25  OR  id <Excel ORDER BY  city  DESC ;

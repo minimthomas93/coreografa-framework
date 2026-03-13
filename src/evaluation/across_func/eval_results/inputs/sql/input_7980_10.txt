@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN salaries ON employees.department_id = departments.id;

@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN locations ON meetings.project_id = projects.id WHERE  last_name  LIKE  75000.99 ;

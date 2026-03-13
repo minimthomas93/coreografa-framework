@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN departments ON salaries.employee_id = employees.id WHERE  completion_date != 120000.0 ;

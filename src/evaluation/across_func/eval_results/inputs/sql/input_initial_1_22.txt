@@ -1,0 +1,1 @@
+SELECT  {11,20}  FROM clients JOIN meetings JOIN clients ON meetings.project_id = projects.id ON trainings.employee_id = employees.id WHERE  asset_type !=Operations ORDER BY  country  ASC ;

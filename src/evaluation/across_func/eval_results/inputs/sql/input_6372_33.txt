@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  contact_email >= 120000.0  ORDER BY  asset_type  ASC ;

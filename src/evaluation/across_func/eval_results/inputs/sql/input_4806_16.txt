@@ -1,0 +1,1 @@
+SELECT  start_date , description , training_name , base_salary , retirement_plan  FROM trainings JOIN trainings JOIN benefits ON tasks.project_id = projects.id ON assets.assigned_to_employee = employees.id;

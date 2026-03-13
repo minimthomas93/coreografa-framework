@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  age <=Retail OR  status > 40  AND  age  LIKE  2  OR  city >=Finance OR  age >Sales AND  employee_id >= 50  OR  bonus >=Operations OR  location  LIKE  30000.0  AND  base_salary <= 25  AND  location != 1  AND  department_id >= 30  AND  id <= 25  OR  project_id > 2  AND  city != 120000.0  AND  bonus >= 30000.0 ;

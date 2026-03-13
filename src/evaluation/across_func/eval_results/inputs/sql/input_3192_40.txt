@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN departments ON tasks.employee_id = employees.id WHERE  training_name  LIKE  4 ;

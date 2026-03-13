@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  hire_date  LIKE  4  AND  employee_id >= 40  AND  meeting_date > 75000.99  AND  asset_name >= 40  OR  asset_type  LIKE  120000.0  AND  age <=Support AND  base_salary  LIKE  3  OR  employee_id  LIKE  75000.99  OR  industry <= 75000.99  OR  industry < 50  OR  name < 50000.5  AND  country >= 120000.0  ORDER BY  assigned_to_employee  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  name  LIKE  120000.0  OR  assigned_to_employee = 50000.5  ORDER BY  country  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN projects JOIN locations JOIN employees ON assets.assigned_to_employee = employees.id ON tasks.project_id = projects.id ON benefits.employee_id = employees.id ORDER BY  name  DESC ;

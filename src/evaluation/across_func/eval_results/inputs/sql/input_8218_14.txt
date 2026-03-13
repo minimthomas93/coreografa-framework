@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  hire_date = 40  ORDER BY  asset_name  DESC ;

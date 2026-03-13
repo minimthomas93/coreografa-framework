@@ -1,0 +1,1 @@
+SELECT  {1,10}  FROM employees WHERE  assigned_to_employee < 60  AND  department_id > 120000.0  OR  city >=Engineering OR  end_date >= 60  OR  asset_type  LIKE  30  OR  completion_date =Python AND  description  LIKE  120000.0  OR  country < 50000.5  OR  name <= 18  AND  country > 30  OR  hire_date <=Frankfurt AND  name =SQL OR  retirement_plan =Excel OR  start_date >=Retail;

@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings ORDER BY  base_salary  DESC ;

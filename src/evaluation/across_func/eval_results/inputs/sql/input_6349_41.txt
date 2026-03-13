@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN tasks ON salaries.employee_id = employees.id;

@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN salaries JOIN assets JOIN meetings JOIN clients ON salaries.employee_id = employees.id ON salaries.employee_id = employees.id ON meetings.client_id = clients.id ON meetings.project_id = projects.id WHERE  assigned_to_employee !=Marketing ORDER BY  location  DESC ;

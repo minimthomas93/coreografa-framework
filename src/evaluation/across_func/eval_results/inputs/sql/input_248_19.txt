@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN tasks JOIN salaries ON tasks.employee_id = employees.id ON projects.department_id = departments.id ORDER BY  end_date  DESC ;

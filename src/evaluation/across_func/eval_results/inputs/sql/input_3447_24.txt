@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN benefits JOIN benefits JOIN clients ON projects.department_id = departments.id ON salaries.employee_id = employees.id ON employees.department_id = departments.id WHERE  employee_id  LIKE  60  OR  country <Todo;

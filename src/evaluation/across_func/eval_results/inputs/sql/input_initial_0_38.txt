@@ -1,0 +1,1 @@
+SELECT  location  country  employee_id  contact_email , end_date  location  asset_type , completion_date  id  end_date  asset_name , end_date  FROM locations;

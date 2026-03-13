@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN assets ON projects.department_id = departments.id WHERE  completion_date >Education OR  assigned_to_employee !=Marketing AND  country <= 75000.99  AND  base_salary > 40  AND  training_name  LIKE Munich OR  first_name <= 75000.99  OR  meeting_date <= 1  AND  department_id != 30  AND  project_id > 3  AND  base_salary <=Retail;

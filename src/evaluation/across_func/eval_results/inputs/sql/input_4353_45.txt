@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN assets ON benefits.employee_id = employees.id WHERE  industry != 75000.99 ;

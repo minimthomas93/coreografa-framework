@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  base_salary <=Frankfurt AND  meeting_date <= 50000.5  AND  last_name >= 40  AND  first_name > 30000.0  AND  start_date > 25  OR  name <= 18  OR  last_name < 50000.5  OR  assigned_to_employee =Leipzig OR  age <= 60  AND  age >Cologne OR  completion_date = 30  AND  id <= 50  ORDER BY  asset_name  DESC ;

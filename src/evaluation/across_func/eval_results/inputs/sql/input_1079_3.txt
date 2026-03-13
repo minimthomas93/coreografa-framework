@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN salaries ON employees.department_id = departments.id ORDER BY  asset_type  DESC ;

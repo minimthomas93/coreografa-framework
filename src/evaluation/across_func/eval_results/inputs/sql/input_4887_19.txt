@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN tasks JOIN projects ON trainings.employee_id = employees.id ON salaries.employee_id = employees.id;

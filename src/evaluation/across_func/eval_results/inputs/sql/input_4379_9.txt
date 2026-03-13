@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN meetings ON tasks.project_id = projects.id WHERE  country =Hamburg OR  asset_name <=Stuttgart OR  first_name >= 25  OR  industry != 60  OR  assigned_to_employee < 18  OR  industry  LIKE  30000.0  OR  base_salary >= 3  OR  asset_type > 60  OR  asset_name <= 40  ORDER BY  training_name  DESC ;

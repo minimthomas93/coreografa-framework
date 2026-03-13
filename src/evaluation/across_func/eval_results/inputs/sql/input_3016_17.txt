@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  first_name !=Stuttgart AND  last_name >=Stuttgart AND  industry != 30000.0  ORDER BY  age  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN meetings JOIN projects ON trainings.employee_id = employees.id ON projects.department_id = departments.id ORDER BY  country  DESC ;

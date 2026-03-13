@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  last_name < 18  ORDER BY  first_name  ASC ;

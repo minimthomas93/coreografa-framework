@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN assets JOIN meetings JOIN tasks JOIN benefits ON tasks.project_id = projects.id ON meetings.project_id = projects.id ON tasks.project_id = projects.id ON trainings.employee_id = employees.id WHERE  department_id <= 3  AND  status != 75000.99  ORDER BY  completion_date  ASC ;

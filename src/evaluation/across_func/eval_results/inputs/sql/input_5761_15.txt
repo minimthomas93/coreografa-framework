@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  assigned_to_employee != 2  OR  employee_id != 60  OR  meeting_date <=Leipzig;

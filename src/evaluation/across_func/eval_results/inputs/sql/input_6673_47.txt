@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  last_name > 50000.5  AND  employee_id != 25  AND  employee_id = 30000.0  OR  department_id >Finance OR  project_id != 50  AND  bonus != 50000.5  OR  name > 30  AND  description >Healthcare AND  asset_type >=Python AND  department_id <= 4  OR  first_name >=R&D AND  meeting_date !=Healthcare OR  department_id > 18 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN employees ON meetings.project_id = projects.id WHERE  contact_email <= 75000.99  AND  retirement_plan > 30000.0  OR  hire_date > 1  AND  department_id < 50000.5  AND  status <=R&D OR  completion_date != 50000.5  OR  assigned_to_employee >= 75000.99  AND  completion_date != 50000.5  OR  age != 50  OR  meeting_date = 18  AND  asset_name =Tech;

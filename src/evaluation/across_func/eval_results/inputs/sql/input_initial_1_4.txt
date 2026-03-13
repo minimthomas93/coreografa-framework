@@ -1,0 +1,1 @@
+SELECT  {11,20}  FROM tasks JOIN projects JOIN benefits ON benefits.employee_id = employees.id ON salaries.employee_id = employees.id WHERE  description >= 40  ORDER BY  base_salary  DESC ;

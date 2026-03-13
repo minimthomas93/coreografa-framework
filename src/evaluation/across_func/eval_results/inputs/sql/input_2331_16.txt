@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  assigned_to_employee >= 25  AND  name != 120000.0  AND  asset_name >Done OR  hire_date > 2  AND  asset_name != 30000.0  OR  meeting_date != 60  AND  id != 18  AND  industry =Python OR  training_name < 25  OR  age < 75000.99  OR  health_insurance >= 75000.99  OR  age >=Todo ORDER BY  employee_id  DESC ;

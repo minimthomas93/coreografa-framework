@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  description != 120000.0  AND  assigned_to_employee >= 25  OR  start_date  LIKE  1  AND  name >= 75000.99  AND  first_name >= 1  OR  name  LIKE  3  AND  country != 50000.5  OR  country < 4  AND  id !=Hamburg OR  industry  LIKE  50  OR  assigned_to_employee >=Communication AND  status > 2 ;

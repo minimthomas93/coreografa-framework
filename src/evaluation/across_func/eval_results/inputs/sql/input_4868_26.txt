@@ -1,0 +1,1 @@
+SELECT  bonus , employee_id , start_date  industry  city  asset_type  age  training_name  description  start_date  description , asset_name  start_date  age  base_salary , hire_date , training_name  department_id , employee_id  bonus , status , id  FROM tasks WHERE  meeting_date >=Finance ORDER BY  industry  DESC ;

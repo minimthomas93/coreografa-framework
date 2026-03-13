@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  assigned_to_employee <= 25  OR  training_name != 4 ;

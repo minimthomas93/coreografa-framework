@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN departments ON salaries.employee_id = employees.id;

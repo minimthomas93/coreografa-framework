@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN meetings ON meetings.project_id = projects.id ORDER BY  first_name  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  age >= 50000.5  AND  assigned_to_employee < 2  AND  completion_date > 75000.99  OR  base_salary  LIKE  30000.0  OR  employee_id =Operations AND  assigned_to_employee >= 75000.99  AND  id  LIKE Healthcare OR  health_insurance  LIKE  30000.0  AND  hire_date = 120000.0  ORDER BY  city  ASC ;

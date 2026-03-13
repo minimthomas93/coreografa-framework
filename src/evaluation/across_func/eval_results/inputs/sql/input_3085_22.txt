@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN assets JOIN benefits JOIN departments ON tasks.project_id = projects.id ON benefits.employee_id = employees.id ON tasks.project_id = projects.id WHERE  asset_type >= 25  ORDER BY  industry  DESC ;

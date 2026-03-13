@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN projects JOIN projects ON tasks.employee_id = employees.id ON benefits.employee_id = employees.id WHERE  meeting_date <= 40 ;

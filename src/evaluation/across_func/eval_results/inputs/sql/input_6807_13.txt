@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  industry = 30000.0  AND  location >R&D AND  contact_email < 50  OR  asset_type <= 50  AND  start_date  LIKE Leadership OR  completion_date  LIKE  3  AND  start_date  LIKE Done OR  end_date != 4  AND  description <Tech OR  name <In Progress AND  department_id >=Sales;

@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN meetings ON tasks.project_id = projects.id ORDER BY  training_name  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  health_insurance > 2  OR  contact_email >= 75000.99  AND  country >= 3  OR  department_id  LIKE  50000.5  OR  health_insurance <= 120000.0  AND  assigned_to_employee >=Finance AND  health_insurance =Marketing AND  age <= 75000.99  OR  project_id <R&D ORDER BY  retirement_plan  ASC ;

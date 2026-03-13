@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  description >=Done AND  location >=Healthcare AND  start_date < 30000.0  OR  location >= 75000.99  AND  status <Healthcare AND  last_name >=Cologne AND  first_name  LIKE Education OR  country !=Sales AND  id  LIKE  50000.5  AND  meeting_date < 1  OR  project_id = 120000.0  AND  status = 50000.5  OR  description < 30000.0  ORDER BY  age  DESC ;

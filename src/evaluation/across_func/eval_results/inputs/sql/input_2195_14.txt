@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN locations ON tasks.employee_id = employees.id WHERE  completion_date != 50000.5  AND  base_salary <=Finance AND  completion_date < 1  OR  city = 50000.5  AND  first_name <= 120000.0  OR  country =Cologne OR  last_name  LIKE HR AND  bonus < 18  OR  industry  LIKE  25  OR  description  LIKE  40  ORDER BY  completion_date  DESC ;

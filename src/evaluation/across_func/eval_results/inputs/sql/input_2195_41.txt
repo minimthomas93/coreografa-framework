@@ -1,0 +1,1 @@
+SELECT  last_name  status  employee_id  FROM locations;

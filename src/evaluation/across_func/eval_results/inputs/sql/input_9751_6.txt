@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  completion_date != 120000.0  OR  department_id <= 40  OR  meeting_date <= 50000.5  OR  end_date >= 30  ORDER BY  bonus  DESC ;

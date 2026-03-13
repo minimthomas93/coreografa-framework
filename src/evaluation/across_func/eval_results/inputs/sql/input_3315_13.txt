@@ -1,0 +1,1 @@
+SELECT  *  FROM departments WHERE  city  LIKE  30000.0  AND  status <= 50000.5  OR  retirement_plan  LIKE  25 ;

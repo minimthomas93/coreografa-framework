@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  description < 30000.0  ORDER BY  status  ASC ;

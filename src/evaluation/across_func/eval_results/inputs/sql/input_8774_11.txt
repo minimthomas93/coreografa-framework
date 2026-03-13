@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits WHERE  asset_name >Leipzig OR  industry <= 75000.99 ;

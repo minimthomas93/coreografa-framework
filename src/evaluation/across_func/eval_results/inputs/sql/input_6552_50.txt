@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries JOIN employees JOIN departments ON salaries.employee_id = employees.id ON employees.department_id = departments.id WHERE  health_insurance != 50000.5  OR  bonus > 50000.5  OR  location <Frankfurt AND  first_name > 30000.0 ;

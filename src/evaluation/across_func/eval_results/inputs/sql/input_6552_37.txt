@@ -1,0 +1,1 @@
+SELECT  country  meeting_date  meeting_date , department_id  last_name , description , completion_date  end_date  department_id , completion_date  assigned_to_employee , city  FROM tasks ORDER BY  status  ASC ;

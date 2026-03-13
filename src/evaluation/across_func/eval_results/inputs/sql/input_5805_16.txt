@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  health_insurance  LIKE HR AND  assigned_to_employee =SQL OR  id <=Stuttgart OR  age < 2  AND  start_date != 30  OR  last_name  LIKE Stuttgart AND  city <=Python AND  city =Python AND  asset_name <Todo AND  training_name != 25  OR  training_name >=Healthcare OR  department_id >= 3  OR  contact_email = 30  OR  name > 4  ORDER BY  meeting_date  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  first_name =Communication;

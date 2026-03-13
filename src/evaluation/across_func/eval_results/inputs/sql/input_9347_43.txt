@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN salaries ON tasks.project_id = projects.id WHERE  base_salary < 120000.0 ;

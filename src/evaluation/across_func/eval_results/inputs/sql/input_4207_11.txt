@@ -1,0 +1,1 @@
+SELECT  FROM departments JOIN tasks ON tasks.project_id = projects.id;

@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  asset_type >Communication AND  assigned_to_employee >= 30  AND  id > 120000.0  AND  asset_name  LIKE  18  AND  country >=R&D AND  description >=Leadership AND  contact_email <= 3  AND  training_name <=Finance AND  location  LIKE  120000.0  AND  asset_name != 2 ;

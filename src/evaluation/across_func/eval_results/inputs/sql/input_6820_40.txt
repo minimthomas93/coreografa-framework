@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  first_name >= 4  OR  name <=Operations OR  end_date < 1  OR  project_id !=Todo AND  bonus < 50000.5  OR  training_name <Excel AND  last_name != 1  OR  id = 50000.5  AND  description  LIKE Python AND  last_name >=Berlin OR  hire_date <=Cologne ORDER BY  name  ASC ;

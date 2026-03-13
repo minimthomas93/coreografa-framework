@@ -1,0 +1,4 @@
+function_name,input_id,runtime_ns,memory_after,memory_peak,sortedness,length
+quicksort,8633_1,22700,92,92,1.0,1
+bubble_sort,8633_1,23400,92,112,1.0,1
+insertionSort,8633_1,20400,92,112,1.0,1

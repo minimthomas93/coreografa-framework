@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  name <=Done AND  project_id <= 75000.99  OR  completion_date < 25  OR  name = 60  AND  description > 75000.99  OR  asset_type >Python AND  end_date !=Finance AND  country <= 120000.0  OR  asset_type !=Stuttgart AND  assigned_to_employee <Education AND  contact_email =Excel OR  health_insurance < 1  AND  age >HR AND  location !=Education;

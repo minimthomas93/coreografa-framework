@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN employees ON employees.department_id = departments.id WHERE  age <=Communication AND  country >= 60  ORDER BY  project_id  ASC ;

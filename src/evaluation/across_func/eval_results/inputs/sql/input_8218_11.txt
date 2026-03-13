@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  start_date !=Education AND  asset_type = 30000.0 ;

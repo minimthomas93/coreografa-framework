@@ -1,0 +1,1 @@
+SELECT  {11,20}  FROM assets ORDER BY  last_name  DESC ;

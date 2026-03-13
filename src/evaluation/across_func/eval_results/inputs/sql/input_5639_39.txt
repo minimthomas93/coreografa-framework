@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  completion_date  LIKE  30000.0  OR  employee_id  LIKE  50  AND  city !=Sales AND  meeting_date  LIKE  4  OR  status < 60  OR  status >= 30000.0  AND  name != 40  OR  end_date != 50000.5  OR  last_name >=Done OR  age = 75000.99  AND  asset_type >=Sales OR  id !=Frankfurt AND  hire_date  LIKE  40 ;

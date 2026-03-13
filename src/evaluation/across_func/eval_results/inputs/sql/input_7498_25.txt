@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  start_date  LIKE  60 ;

@@ -1,0 +1,1 @@
+SELECT  {11,20}  FROM employees JOIN meetings ON meetings.project_id = projects.id;

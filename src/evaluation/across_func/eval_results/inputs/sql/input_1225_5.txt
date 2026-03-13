@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  department_id !=Communication OR  contact_email <= 120000.0  OR  bonus !=Munich AND  industry  LIKE Finance OR  description <R&D OR  training_name = 120000.0  OR  description <=Healthcare OR  meeting_date != 120000.0  AND  status > 2  AND  age = 30  AND  country  LIKE  50000.5  AND  status < 75000.99 ;

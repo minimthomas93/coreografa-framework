@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  assigned_to_employee < 25  AND  start_date !=Finance OR  last_name !=Retail ORDER BY  industry  ASC ;

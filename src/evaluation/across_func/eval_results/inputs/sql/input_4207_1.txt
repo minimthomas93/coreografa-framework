@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  location >= 25  OR  training_name !=Excel AND  department_id < 30000.0  OR  department_id <= 50000.5  AND  first_name >=Berlin AND  project_id <=Excel OR  age >= 30  AND  department_id > 50000.5  AND  completion_date  LIKE  4  OR  status >= 50000.5  AND  status >In Progress OR  location != 30  AND  department_id >Cologne;

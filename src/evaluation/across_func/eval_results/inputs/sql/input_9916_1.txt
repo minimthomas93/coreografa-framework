@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN assets ON employees.department_id = departments.id WHERE  employee_id != 30000.0  AND  location <Dusseldorf OR  asset_type >= 50000.5  OR  age  LIKE  75000.99  OR  project_id > 30000.0  OR  first_name <= 75000.99 ;

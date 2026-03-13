@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  project_id <= 30000.0 ;

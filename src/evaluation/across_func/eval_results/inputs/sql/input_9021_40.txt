@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN benefits JOIN salaries ON projects.department_id = departments.id ON salaries.employee_id = employees.id ORDER BY  description  ASC ;

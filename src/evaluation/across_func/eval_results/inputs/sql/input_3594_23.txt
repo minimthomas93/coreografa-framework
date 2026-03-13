@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN meetings ON tasks.employee_id = employees.id;

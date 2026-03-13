@@ -1,0 +1,1 @@
+SELECT  {1,10}  FROM employees ORDER BY  last_name  DESC ;

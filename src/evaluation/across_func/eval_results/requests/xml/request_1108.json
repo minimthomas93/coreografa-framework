@@ -1,0 +1,39 @@
+{
+    "function": "xml_v04",
+    "initial_pop": [
+        "<M7><t Q=\"c\" >J</V64></k>\n"
+    ],
+    "initial_pop_files": [
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\xml\\input_1936_7.txt"
+    ],
+    "metric_constraints": [
+        {
+            "name": "runtime_ns",
+            "op": ">=",
+            "type": "metric",
+            "value": 119964820.0
+        },
+        {
+            "name": "runtime_ns",
+            "op": "<=",
+            "type": "metric",
+            "value": 133263000.0
+        }
+    ],
+    "name": "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\split_summary\\xml\\xml_v04_summary.csv",
+    "prop_constraints": [
+        {
+            "name": "depth",
+            "op": ">=",
+            "type": "prop",
+            "value": 12.0
+        },
+        {
+            "name": "depth",
+            "op": "<=",
+            "type": "prop",
+            "value": 12.0
+        }
+    ],
+    "request_type": "frequency request"
+}

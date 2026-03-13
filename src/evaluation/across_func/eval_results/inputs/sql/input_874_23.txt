@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN salaries JOIN locations JOIN employees JOIN salaries ON salaries.employee_id = employees.id ON tasks.employee_id = employees.id ON salaries.employee_id = employees.id ON benefits.employee_id = employees.id ORDER BY  industry  DESC ;

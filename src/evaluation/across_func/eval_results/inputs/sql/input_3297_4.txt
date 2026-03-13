@@ -1,0 +1,1 @@
+SELECT  *  FROM employees JOIN assets ON tasks.project_id = projects.id WHERE  start_date > 60  AND  meeting_date =Leadership OR  country >Munich AND  description <=Support AND  asset_type >Retail ORDER BY  asset_type  DESC ;

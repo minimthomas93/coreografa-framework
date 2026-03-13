@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN salaries ON tasks.project_id = projects.id WHERE  project_id  LIKE  60  OR  industry >= 30000.0  OR  last_name  LIKE  60  AND  employee_id < 30  AND  first_name > 30000.0  AND  asset_type  LIKE  30000.0  AND  training_name != 3  AND  asset_name < 40  AND  description !=Leipzig OR  location > 1  OR  employee_id > 30000.0  AND  country =In Progress;

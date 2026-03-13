@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  meeting_date >= 50000.5  OR  name  LIKE Todo AND  description  LIKE  4  AND  city  LIKE  4  OR  start_date < 30000.0  OR  last_name > 50000.5  AND  city >= 2  AND  bonus <= 1  OR  hire_date < 50000.5  OR  hire_date  LIKE  30000.0  OR  bonus >Operations OR  asset_type < 120000.0 ;

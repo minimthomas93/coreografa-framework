@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  first_name >Finance AND  bonus <=Retail OR  health_insurance =Munich AND  first_name =SQL OR  project_id != 120000.0  AND  start_date >=In Progress AND  end_date =Cologne AND  start_date <Stuttgart OR  asset_name  LIKE  1  OR  bonus >Marketing AND  asset_name <= 50000.5 ;

@@ -1,0 +1,1 @@
+SELECT  {31,40}  FROM benefits JOIN meetings ON benefits.employee_id = employees.id WHERE  asset_name > 50  AND  meeting_date  LIKE  25  OR  id <Leadership OR  end_date != 60  OR  contact_email = 3  AND  industry =Engineering OR  meeting_date !=SQL OR  hire_date < 120000.0  OR  end_date < 120000.0  AND  retirement_plan  LIKE  60  OR  asset_name < 40  AND  first_name <Retail;

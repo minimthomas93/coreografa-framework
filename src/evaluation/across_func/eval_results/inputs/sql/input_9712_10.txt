@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN departments ON tasks.project_id = projects.id WHERE  status >Cologne;

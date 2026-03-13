@@ -1,0 +1,1 @@
+SELECT  age  base_salary , bonus  age  bonus , completion_date  age  FROM tasks JOIN meetings ON tasks.project_id = projects.id;

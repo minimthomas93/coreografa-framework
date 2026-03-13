@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN salaries JOIN tasks JOIN locations JOIN meetings ON tasks.project_id = projects.id ON meetings.project_id = projects.id ON tasks.employee_id = employees.id ON tasks.employee_id = employees.id ORDER BY  status  ASC ;

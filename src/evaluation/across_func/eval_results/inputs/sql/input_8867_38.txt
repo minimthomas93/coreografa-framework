@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN assets JOIN meetings ON trainings.employee_id = employees.id ON employees.department_id = departments.id WHERE  training_name  LIKE  75000.99 ;

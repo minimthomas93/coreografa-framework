@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN salaries ON tasks.employee_id = employees.id WHERE  start_date  LIKE  25  OR  age  LIKE  18  OR  employee_id >= 120000.0  OR  age >= 1  OR  end_date =Communication AND  industry != 30000.0  OR  end_date =Todo OR  asset_name >= 75000.99  ORDER BY  department_id  ASC ;

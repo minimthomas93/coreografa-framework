@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN tasks JOIN tasks ON tasks.project_id = projects.id ON projects.department_id = departments.id WHERE  status != 30000.0  OR  completion_date <=Todo AND  contact_email <Python ORDER BY  completion_date  DESC ;

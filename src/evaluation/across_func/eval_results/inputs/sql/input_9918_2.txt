@@ -1,0 +1,1 @@
+SELECT  *  FROM assets JOIN benefits ON salaries.employee_id = employees.id WHERE  health_insurance > 50000.5  OR  base_salary  LIKE Done ORDER BY  contact_email  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings JOIN departments ON meetings.project_id = projects.id WHERE  contact_email >=SQL AND  hire_date  LIKE Done OR  industry < 75000.99  AND  location <=Berlin OR  description < 30000.0  AND  base_salary >Finance OR  department_id != 120000.0  AND  department_id = 25  OR  meeting_date > 50000.5  AND  status <= 3  ORDER BY  completion_date  ASC ;

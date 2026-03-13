@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN clients ON tasks.project_id = projects.id ORDER BY  industry  ASC ;

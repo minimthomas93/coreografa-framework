@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  contact_email <= 4  OR  base_salary <= 30000.0 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  country != 120000.0  OR  hire_date  LIKE  60  AND  asset_type < 2  OR  industry > 30  AND  asset_type != 1  OR  last_name  LIKE  30000.0  AND  bonus >= 75000.99  AND  asset_type >Marketing OR  start_date !=Sales AND  age != 30000.0  OR  base_salary < 50000.5  OR  employee_id > 30000.0  OR  description <Operations ORDER BY  first_name  ASC ;

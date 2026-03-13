@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN locations ON salaries.employee_id = employees.id WHERE  start_date > 3  AND  last_name = 40  OR  base_salary < 30000.0  OR  status < 50000.5  OR  project_id >= 25  AND  location >=Done AND  employee_id  LIKE  50000.5  OR  id =Leipzig OR  meeting_date > 75000.99  ORDER BY  meeting_date  DESC ;

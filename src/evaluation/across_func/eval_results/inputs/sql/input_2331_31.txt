@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  start_date >=Frankfurt AND  meeting_date >=Munich ORDER BY  location  DESC ;

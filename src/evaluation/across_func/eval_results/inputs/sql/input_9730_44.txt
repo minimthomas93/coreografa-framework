@@ -1,0 +1,1 @@
+SELECT  *  FROM projects JOIN tasks ON trainings.employee_id = employees.id WHERE  id = 50000.5  OR  start_date  LIKE  50  AND  end_date >=In Progress AND  name > 50000.5  AND  location  LIKE Python OR  training_name > 40  AND  end_date  LIKE  30000.0  OR  retirement_plan <=Engineering AND  hire_date  LIKE  75000.99  OR  retirement_plan  LIKE  2  ORDER BY  department_id  ASC ;

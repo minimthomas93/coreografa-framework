@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  base_salary > 50000.5  OR  age <= 75000.99  AND  status  LIKE HR AND  last_name  LIKE  25  OR  base_salary != 120000.0  OR  country !=HR AND  location  LIKE SQL OR  name > 60  AND  status > 120000.0  OR  description <= 75000.99  OR  start_date =Done AND  training_name <HR AND  retirement_plan = 18 ;

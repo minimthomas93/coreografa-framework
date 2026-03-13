@@ -1,0 +1,1 @@
+SELECT  *  FROM locations JOIN clients JOIN tasks JOIN locations ON tasks.project_id = projects.id ON meetings.client_id = clients.id ON meetings.project_id = projects.id WHERE  description > 120000.0  AND  start_date =Leadership;

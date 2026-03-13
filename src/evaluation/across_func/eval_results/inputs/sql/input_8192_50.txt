@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  retirement_plan >=Sales OR  meeting_date < 3  OR  health_insurance  LIKE  50  OR  asset_type  LIKE  40  AND  end_date > 40  AND  meeting_date = 75000.99  AND  city = 50  AND  asset_name >= 30000.0  OR  name <= 3  AND  asset_type <=Hamburg OR  age >= 30000.0  OR  bonus  LIKE  3  AND  contact_email =Dusseldorf ORDER BY  completion_date  DESC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks WHERE  asset_type  LIKE Leipzig OR  location != 40  ORDER BY  industry  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM benefits JOIN projects ON projects.department_id = departments.id ORDER BY  health_insurance  ASC ;

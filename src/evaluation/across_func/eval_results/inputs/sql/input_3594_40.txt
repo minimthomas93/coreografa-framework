@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  department_id < 60  AND  meeting_date < 1  OR  city >= 30  OR  employee_id >=Frankfurt AND  training_name  LIKE Frankfurt OR  completion_date >= 4  AND  health_insurance != 60  AND  status != 120000.0  AND  industry <Leipzig AND  completion_date != 50  OR  age >= 2  OR  city  LIKE  50000.5 ;

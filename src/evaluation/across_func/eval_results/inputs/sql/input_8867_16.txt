@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  completion_date != 50  AND  bonus < 120000.0  AND  id >Frankfurt OR  meeting_date != 30000.0  AND  meeting_date < 25  AND  first_name =Retail AND  training_name < 75000.99  AND  city <Finance AND  status <= 120000.0  OR  assigned_to_employee >=Communication OR  meeting_date < 30000.0  OR  id  LIKE Leipzig;

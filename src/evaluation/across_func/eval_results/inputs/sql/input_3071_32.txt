@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  id != 120000.0  AND  department_id !=Berlin OR  department_id !=Engineering OR  health_insurance != 1  AND  asset_name < 75000.99  AND  base_salary > 30000.0  AND  last_name != 75000.99  AND  description >=SQL OR  completion_date <=Operations OR  assigned_to_employee >Berlin ORDER BY  employee_id  DESC ;

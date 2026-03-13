@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN meetings ON tasks.employee_id = employees.id WHERE  project_id != 50000.5  OR  completion_date != 2  ORDER BY  employee_id  DESC ;

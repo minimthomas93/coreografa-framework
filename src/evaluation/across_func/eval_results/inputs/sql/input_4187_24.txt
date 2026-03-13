@@ -1,0 +1,1 @@
+SELECT  *  FROM clients JOIN projects ON trainings.employee_id = employees.id WHERE  completion_date <= 3  OR  department_id >Excel ORDER BY  start_date  ASC ;

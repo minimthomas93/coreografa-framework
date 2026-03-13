@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings JOIN tasks ON tasks.employee_id = employees.id WHERE  city <= 120000.0 ;

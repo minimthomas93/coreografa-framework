@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  department_id <= 50000.5  ORDER BY  location  DESC ;

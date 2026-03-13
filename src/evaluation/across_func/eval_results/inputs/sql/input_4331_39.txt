@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  project_id >Healthcare ORDER BY  asset_name  ASC ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  age != 1  AND  training_name >= 75000.99  OR  age != 120000.0  OR  last_name <Stuttgart OR  industry !=Retail OR  training_name <=Tech ORDER BY  employee_id  ASC ;

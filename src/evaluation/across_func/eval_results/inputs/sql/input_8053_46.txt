@@ -1,0 +1,1 @@
+SELECT  *  FROM tasks JOIN locations ON meetings.client_id = clients.id WHERE  description = 120000.0  ORDER BY  base_salary  ASC ;

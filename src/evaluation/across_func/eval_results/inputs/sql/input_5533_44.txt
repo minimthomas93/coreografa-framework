@@ -1,0 +1,1 @@
+SELECT  *  FROM employees WHERE  completion_date < 75000.99  OR  department_id =Cologne AND  base_salary  LIKE  1  OR  age <HR AND  asset_type != 18  OR  employee_id <Frankfurt OR  name <= 120000.0  AND  employee_id <Healthcare AND  id  LIKE  30000.0  OR  hire_date >= 2 ;

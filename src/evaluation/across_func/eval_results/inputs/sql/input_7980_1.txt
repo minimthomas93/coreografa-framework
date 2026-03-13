@@ -1,0 +1,1 @@
+SELECT  *  FROM assets ORDER BY  retirement_plan  ASC ;

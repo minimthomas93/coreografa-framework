@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN clients ON tasks.project_id = projects.id WHERE  age  LIKE  40  AND  location  LIKE  30  OR  first_name > 2  AND  project_id > 120000.0  OR  hire_date != 50  AND  retirement_plan < 30000.0  OR  country < 50  OR  retirement_plan =Munich AND  training_name > 30  AND  id >= 50  AND  status !=Munich OR  id != 50 ;

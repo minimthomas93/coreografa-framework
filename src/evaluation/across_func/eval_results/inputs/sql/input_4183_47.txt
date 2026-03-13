@@ -1,0 +1,1 @@
+SELECT  *  FROM departments JOIN locations ON meetings.client_id = clients.id WHERE  status < 50000.5  AND  asset_name >Marketing AND  meeting_date  LIKE Python OR  last_name !=Frankfurt AND  description != 18  AND  asset_name  LIKE  40  OR  asset_name <= 3  AND  first_name <= 3  OR  id =Retail AND  industry = 30000.0  AND  hire_date <= 30000.0  AND  bonus < 50000.5 ;

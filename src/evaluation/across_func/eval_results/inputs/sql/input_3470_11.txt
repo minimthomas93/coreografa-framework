@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  description <Python ORDER BY  end_date  DESC ;

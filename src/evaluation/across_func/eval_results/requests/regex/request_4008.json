@@ -1,0 +1,41 @@
+{
+    "function": "re_match",
+    "initial_pop": [
+        "([0-pq-z]|([1-y]?l[oh-v]|8{8}[g]?|0k*i|[qd-m]?)[d1]+1+ja|9c)+\n",
+        "e{9,8}m{1}[2-ui-4]*q|[3-c5]\n"
+    ],
+    "initial_pop_files": [
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_1289_8.txt",
+        "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\inputs\\regex\\input_19_17.txt"
+    ],
+    "metric_constraints": [
+        {
+            "name": "runtime_ns",
+            "op": ">=",
+            "type": "metric",
+            "value": 18481760.0
+        },
+        {
+            "name": "runtime_ns",
+            "op": "<=",
+            "type": "metric",
+            "value": 20774780.0
+        }
+    ],
+    "name": "C:\\Users\\91996\\Documents\\GitHub\\Coreografa\\src\\evaluation\\across_func\\eval_results\\split_summary\\regex\\re_match_summary.csv",
+    "prop_constraints": [
+        {
+            "name": "count_pattern_tokens",
+            "op": ">=",
+            "type": "prop",
+            "value": 19.0
+        },
+        {
+            "name": "count_pattern_tokens",
+            "op": "<=",
+            "type": "prop",
+            "value": 19.0
+        }
+    ],
+    "request_type": "frequency request"
+}

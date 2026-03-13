@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  status < 50000.5  ORDER BY  city  DESC ;

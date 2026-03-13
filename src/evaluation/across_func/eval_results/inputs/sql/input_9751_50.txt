@@ -1,0 +1,1 @@
+SELECT  *  FROM projects WHERE  name > 40  AND  location != 25  OR  last_name <Tech AND  last_name = 50  OR  hire_date = 30000.0  OR  asset_name >= 120000.0  OR  age  LIKE  30  AND  name >= 120000.0  OR  health_insurance = 75000.99  OR  first_name >= 50000.5  AND  base_salary <R&D OR  bonus  LIKE  2  OR  city !=Dusseldorf OR  department_id < 18 ;

@@ -1,0 +1,1 @@
+SELECT  *  FROM trainings WHERE  asset_name <= 40  OR  end_date >= 75000.99  OR  industry != 30000.0  OR  bonus = 75000.99  OR  name < 40  OR  training_name <= 30  AND  end_date != 25  OR  base_salary < 60  OR  training_name = 60  AND  completion_date <= 75000.99  AND  location > 30  OR  name <=In Progress OR  last_name <Communication ORDER BY  country  DESC ;

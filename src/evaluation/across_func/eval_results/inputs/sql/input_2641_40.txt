@@ -1,0 +1,1 @@
+SELECT  *  FROM locations WHERE  hire_date  LIKE  1  ORDER BY  completion_date  DESC ;

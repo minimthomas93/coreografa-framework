@@ -1,0 +1,1 @@
+SELECT  *  FROM assets WHERE  name != 50000.5  AND  description <= 4  OR  location <= 50000.5  OR  end_date != 75000.99  AND  location <= 1  AND  retirement_plan <= 4  OR  meeting_date = 50  OR  id > 50  OR  base_salary != 3  AND  age < 50000.5  AND  retirement_plan <=Dusseldorf OR  retirement_plan > 30000.0  ORDER BY  project_id  DESC ;

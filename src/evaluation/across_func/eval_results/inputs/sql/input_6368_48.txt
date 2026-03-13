@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  department_id >= 3  AND  industry >= 18  AND  industry <= 30  AND  assigned_to_employee >= 50  AND  country <= 2  AND  age > 30000.0  OR  health_insurance > 120000.0  OR  location != 50000.5  OR  department_id != 1  AND  location  LIKE  30000.0  OR  base_salary  LIKE R&D OR  training_name  LIKE Todo;

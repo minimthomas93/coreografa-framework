@@ -1,0 +1,1 @@
+SELECT  *  FROM salaries WHERE  start_date != 18  AND  start_date !=Frankfurt OR  assigned_to_employee  LIKE  30000.0  OR  training_name !=Hamburg AND  age  LIKE Engineering OR  start_date < 2  OR  name = 3  OR  bonus >=Healthcare AND  asset_type >= 25  OR  base_salary = 40  OR  asset_name >= 4  AND  department_id !=Retail OR  age < 4  ORDER BY  retirement_plan  DESC ;

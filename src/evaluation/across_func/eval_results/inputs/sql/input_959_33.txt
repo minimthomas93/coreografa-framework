@@ -1,0 +1,1 @@
+SELECT  *  FROM meetings WHERE  country <= 50000.5  OR  retirement_plan <= 50  AND  employee_id = 60  OR  age >= 75000.99  OR  asset_type  LIKE  18  OR  health_insurance <= 75000.99  AND  name  LIKE  75000.99  AND  hire_date <= 4  AND  department_id >= 30000.0  AND  city >= 50000.5  AND  industry  LIKE  4  AND  employee_id <=Tech AND  country >=R&D;

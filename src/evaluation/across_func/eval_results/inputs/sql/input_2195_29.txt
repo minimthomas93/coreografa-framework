@@ -1,0 +1,1 @@
+SELECT  *  FROM clients WHERE  location <=Support AND  last_name >=Done AND  completion_date < 40  AND  training_name <= 18  AND  health_insurance >Cologne OR  employee_id  LIKE Frankfurt AND  project_id >= 18  OR  retirement_plan > 50000.5  OR  asset_name >= 18  OR  retirement_plan <= 120000.0  OR  status = 30  AND  contact_email  LIKE  1  AND  city >=Support;
